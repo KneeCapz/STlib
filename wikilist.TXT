@@ -1,0 +1,6248 @@
+The following crew members are available in Star Trek Timelines.
+* All stats are for level 1 with no equipment.
+* As of '''{{#timel:M j, Y|now}}''', there are '''<!--not sure why, but this needs to be this weird calculation instead of {{PAGESINCATEGORY:Crew}}-->{{#expr:{{PAGESINCATEGORY:Legendary}}+{{PAGESINCATEGORY:Super_Rare}}+{{PAGESINCATEGORY:Rare}}+{{PAGESINCATEGORY:Uncommon}}+{{PAGESINCATEGORY:Common}} }}''' characters listed in the Cryostasis Vault.
+** '''{{PAGESINCATEGORY:Legendary}}''' of which are [[Legendary]] / {{stars|5}}
+** '''{{PAGESINCATEGORY:Super_Rare}}''' of which are [[Super Rare]] / {{stars|4}}
+** '''{{PAGESINCATEGORY:Rare}}''' of which are [[Rare]] / {{stars|3}}
+** '''{{PAGESINCATEGORY:Uncommon}}''' of which are [[Uncommon]] / {{stars|2}}
+** '''{{PAGESINCATEGORY:Common}}''' of which are [[Common]] / {{stars|1}}
+<br>
+Please use [[Template:Crew/add]] or [[Template:Crew Member]] when creating a new Crew page.
+<br>
+<!-- Please use [[Template:Character]] when creating a new Character page. -->
+{| class="wikitable sortable" style="text-align: center;" 
+|+
+|- style="padding:0px;"
+! Profile<br>Picture
+! Character Name<br>Crew Name
+! Stars
+! CMD<br>{{skill|CMD}}
+! DIP<br>{{skill|DIP}}
+! ENG<br>{{skill|ENG}}
+! SEC<br>{{skill|SEC}}
+! SCI<br>{{skill|SCI}}
+! MED<br>{{skill|MED}}
+! Race
+|- style="align:center;"
+! data-sort-type="text" | <small>Crew Sorting</small>
+! <small>Character Sorting</small>
+! &nbsp;
+! data-sort-type="number"| &nbsp;
+! data-sort-type="number"| &nbsp;
+! data-sort-type="number"| &nbsp;
+! data-sort-type="number"| &nbsp;
+! data-sort-type="number"| &nbsp;
+! data-sort-type="number"| &nbsp;
+! &nbsp;
+|-{{MPCrewList
+| CrewName = "Dark Ages" McCoy
+| CharName = McCoy
+| Stars = 5
+| DIP = 32
+| SEC = 57
+| MED = 73
+| Race = Human
+<!--Traits-->|Federation|Starfleet|Civilian|Human|Physician|Undercover Operative}}
+{{MPCrewList
+| CrewName = 1701 Jadzia Dax
+| CharName = J. Dax
+| Stars = 4
+| ENG = 42
+| SEC = 21
+| SCI = 57
+| Race = Trill
+<!--Traits-->|Federation|Starfleet|Exobiology|Astrophysicist|Trill|Gambler|Pilot|Undercover Operative}}
+{{MPCrewList
+| CrewName = 1701 Sisko
+| CharName = Sisko
+| Stars = 5
+| CMD = 63
+| DIP = 51
+| SEC = 52
+| Race = Human
+<!--Traits-->|Federation|Starfleet|Bajoran|Human|Cultural Figure|Inspiring|Chef|Undercover Operative}}
+{{MPCrewList
+| CrewName = 23rd Century Martok
+| CharName = Martok
+| Stars = 5
+| CMD = 21
+| DIP = 57
+| SEC = 74
+| Race = Klingon
+<!--Traits-->|Klingon|Duelist|Undercover Operative|Costumed|Veteran}}
+{{MPCrewList
+| CrewName = Abraham Lincoln
+| CharName = Lincoln
+| Stars = 5
+| CMD = 62
+| DIP = 67
+| SEC = 31
+| Race = Human
+<!--Traits-->|Human|Civilian|President|Resourceful|Inspiring|Diplomat|Cultural Figure}}
+{{MPCrewList
+| CrewName = Acting Ensign Crusher
+| CharName = Wesley
+| Stars = 2
+| CMD = 13
+| ENG = 24
+| SCI = 27
+| Race = Human
+<!--Traits-->|Human|Federation|Starfleet|Prodigy}}
+{{MPCrewList
+| CrewName = Acting Nagus Brunt
+| CharName = Brunt
+| Stars = 3
+| CMD = 16
+| DIP = 43
+| SEC = 26
+| Race = Ferengi
+<!--Traits-->|Ferengi|Diplomat|Cultural Figure|Crafty}}
+{{MPCrewList
+| CrewName = Admiral Cartwright
+| CharName = Cartwright
+| Stars = 5
+| CMD = 73
+| DIP = 57
+| Race = Human
+<!--Traits-->|Gambler|Saboteur|Human|Desperate|Federation}}
+{{MPCrewList
+| CrewName = Admiral Janeway
+| CharName = Janeway
+| Stars = 5
+| CMD = 31
+| SEC = 73
+| SCI = 62
+| Race = Human
+<!--Traits-->|Human|Federation|Starfleet|Resourceful}}
+{{MPCrewList
+| CrewName = Admiral Kirk
+| CharName = Kirk
+| Stars = 5
+| CMD = 52
+| DIP = 74
+| Race = Human
+<!--Traits-->|Federation|Gambler|Hero|Human|Inspiring|Maverick|Starfleet}}
+{{MPCrewList
+| CrewName = Admiral Nechayev
+| CharName = Nechayev
+| Stars = 5
+| CMD = 73
+| DIP = 52
+| SEC = 31
+| Race = Human
+<!--Traits-->|Human|Federation|Starfleet|Tactician|Veteran|Diplomat}}
+{{MPCrewList
+| CrewName = Admiral Owen Paris
+| CharName = Owen Paris
+| Stars = 4
+| CMD = 50
+| SEC = 38
+| SCI = 21
+| Race = Human
+<!--Traits-->|Human|Starfleet|Federation|Desperate|Resourceful|Pilot}}
+{{MPCrewList
+| CrewName = Admiral Picard
+| CharName = Picard
+| Stars = 4
+| CMD = 39
+| DIP = 50
+| SCI = 21
+| Race = Human
+<!--Traits-->|Human|Hologram|Ambassador|Veteran|Explorer|Federation|Starfleet}}
+{{MPCrewList
+| CrewName = Admiral Riker
+| CharName = Riker
+| Stars = 5
+| CMD = 64
+| DIP = 31
+| SEC = 52
+| Race = Human
+<!--Traits-->|Human|Federation|Starfleet|Pilot|Maverick|Gambler}}
+{{MPCrewList
+| CrewName = Admiral Ross
+| CharName = Ross
+| Stars = 4
+| CMD = 41
+| DIP = 57
+| SEC = 21
+| Race = Human
+<!--Traits-->|Federation|Starfleet|Human|Communicator|Diplomat|Cultural Figure}}
+{{MPCrewList
+| CrewName = Advocate Kolos
+| CharName = Kolos
+| Stars = 4
+| CMD = 21
+| DIP = 50
+| SCI = 39
+| Race = Klingon
+<!--Traits-->|Klingon|Communicator|Diplomat|Interrogator|Investigator|Advocate}}
+{{MPCrewList
+| CrewName = Age of Sail Crusher
+| CharName = Crusher
+| Stars = 5
+| CMD = 31
+| DIP = 68
+| MED = 74
+| Race = Human
+<!--Traits-->|Human|Federation|Starfleet|Physician|Costumed}}
+{{MPCrewList
+| CrewName = Age of Sail Data
+| CharName = Data
+| Stars = 5
+| CMD = 63
+| DIP = 31
+| ENG = 57
+| Race = Android
+<!--Traits-->|Android|Federation|Starfleet|Cyberneticist|Costumed|Explorer|Musician}}
+{{MPCrewList
+| CrewName = Age of Sail La Forge
+| CharName = La Forge
+| Stars = 4
+| CMD = 39
+| ENG = 52
+| SEC = 21
+| Race = Human
+<!--Traits-->|Human|Starfleet|Federation|Explorer|Costumed|Innovator|Cyberneticist}}
+{{MPCrewList
+| CrewName = Age of Sail Riker
+| CharName = Riker
+| Stars = 5
+| CMD = 74
+| ENG = 31
+| SEC = 52
+| Race = Human
+<!--Traits-->|Human|Federation|Starfleet|Explorer|Maverick|Gambler|Costumed}}
+{{MPCrewList
+| CrewName = Agent Harris
+| CharName = Harris
+| Stars = 4
+| CMD = 57
+| DIP = 42
+| SEC = 21
+| Race = Human
+<!--Traits-->|Human|Starfleet|Brutal|Undercover Operative|Resourceful|Section 31}}
+{{MPCrewList
+| CrewName = Agent Janeway
+| CharName = Janeway
+| Stars = 5
+| DIP = 63
+| SEC = 58
+| SCI = 31
+| Race = Human
+<!--Traits-->|Human|Federation|Starfleet|Costumed|Undercover Operative|Section 31|Crafty}}
+{{MPCrewList
+| CrewName = Ahdar Ru'afo
+| CharName = Ru'afo
+| Stars = 5
+| CMD = 57
+| ENG = 73
+| SCI = 31
+| Race = Son'a
+<!--Traits-->|Son'a|Brutal|Villain|Survivalist|Resourceful}}
+{{MPCrewList
+| CrewName = Alan-A-Dale
+| CharName = La Forge
+| Stars = 4
+| DIP = 50
+| ENG = 21
+| SEC = 38
+| Race = Human
+<!--Traits-->|Human|Starfleet|Cyberneticist|Federation|Costumed|Musician|Innovator}}
+{{MPCrewList
+| CrewName = Alidar Jarok
+| CharName = Jarok
+| Stars = 4
+| CMD = 57
+| DIP = 42
+| SEC = 21
+| Race = Romulan
+<!--Traits-->|Romulan|Veteran|Desperate|Tactician|High Command}}
+{{MPCrewList
+| CrewName = Alternate Future Bashir
+| CharName = Bashir
+| Stars = 5
+| CMD = 31
+| SCI = 73
+| MED = 57
+| Race = Human
+<!--Traits-->|Human|Federation|Starfleet|Physician|Augment|Cyberneticist|Gambler}}
+{{MPCrewList
+| CrewName = Alternate Future Jadzia Dax
+| CharName = J. Dax
+| Stars = 5
+| DIP = 31
+| ENG = 57
+| SCI = 73
+| Race = Trill
+<!--Traits-->|Federation|Starfleet|Exobiology|Astrophysicist|Trill|Pilot}}
+{{MPCrewList
+| CrewName = Alternate Future T'Pol
+| CharName = T'Pol
+| Stars = 5
+| CMD = 68
+| DIP = 31
+| SCI = 52
+| Race = Vulcan
+<!--Traits-->|Vulcan|Starfleet|Astrophysicist|Telepath}}
+{{MPCrewList
+| CrewName = Amanda Grayson
+| CharName = Grayson
+| Stars = 4
+| DIP = 50
+| MED = 41
+| Race = Human
+<!--Traits-->|Human|Caregiver|Civilian|Communicator}}
+{{MPCrewList
+| CrewName = Ambassador Fox
+| CharName = Fox
+| Stars = 3
+| CMD = 28
+| DIP = 34
+| Race = Human
+<!--Traits-->|Federation|Civilian|Human|Communicator|Diplomat|Veteran}}
+{{MPCrewList
+| CrewName = Ambassador K'Ehleyr
+| CharName = K'Ehleyr
+| Stars = 4
+| DIP = 52
+| SEC = 42
+| Race = Klingon
+<!--Traits-->|Klingon|Human|Brutal|Ambassador|Communicator|Federation}}
+{{MPCrewList
+| CrewName = Ambassador Neelix
+| CharName = Neelix
+| Stars = 3
+| DIP = 34
+| ENG = 28
+| Race = Talaxian
+<!--Traits-->|Talaxian|Mylean|Resourceful|Survivalist|Chef|Ambassador|Civilian|Communicator}}
+{{MPCrewList
+| CrewName = Ambassador Sarek
+| CharName = Sarek (Character){{!}}Sarek
+| Stars = 4
+| CMD = 21
+| DIP = 57
+| SCI = 39
+| Race = Vulcan
+<!--Traits-->|Vulcan|Diplomat|Cultural Figure|Communicator|Federation|Telepath}}
+{{MPCrewList
+| CrewName = Ambassador Shras
+| CharName = Shras
+| Stars = 4
+| CMD = 38
+| DIP = 50
+| SEC = 21
+| Race = Andorian
+<!--Traits-->|Andorian|Communicator|Federation|Diplomat|Civilian|Ambassador}}
+{{MPCrewList
+| CrewName = Ambassador Soval
+| CharName = Soval
+| Stars = 5
+| CMD = 57
+| DIP = 68
+| Race = Vulcan
+<!--Traits-->|Vulcan|Diplomat|Communicator|Telepath}}
+{{MPCrewList
+| CrewName = Ambassador Spock
+| CharName = Spock
+| Stars = 4
+| DIP = 50
+| SEC = 21
+| SCI = 42
+| Race = Vulcan
+<!--Traits-->|Vulcan|Human|Federation|Starfleet|Civilian|Exobiology|Astrophysicist|Diplomat|Telepath|Musician}}
+{{MPCrewList
+| CrewName = Ambassador Troi
+| CharName = Lwaxana
+| Stars = 5
+| CMD = 57
+| DIP = 68
+| Race = Betazoid
+<!--Traits-->|Federation|Diplomat|Betazoid|Romantic|Civilian|Telepath|Communicator}}
+{{MPCrewList
+| CrewName = Amelia Earhart
+| CharName = Earhart
+| Stars = 5
+| CMD = ??
+| DIP = ??
+| ENG = ??
+| Race = Human
+<!--Traits-->|Human|Pilot|Explorer|Cultural Figure|Inspiring|Spy}}
+{{MPCrewList
+| CrewName = Anastasia Komananov
+| CharName = Kira
+| Stars = 4
+| DIP = 57
+| SEC = 42
+| Race = Bajoran
+<!--Traits-->|Bajoran|Hologram|Undercover Operative|Costumed|Romantic|Crafty}}
+{{MPCrewList
+| CrewName = Anbo-jyutsu Riker
+| CharName = Riker
+| Stars = 4
+| CMD = 42
+| SEC = 57
+| Race = Human
+<!--Traits-->|Human|Federation|Starfleet|Duelist|Pilot|Maverick|Gambler|Romantic}}
+{{MPCrewList
+| CrewName = Angel I Riker
+| CharName = Riker
+| Stars = 4
+| CMD = 52
+| DIP = 42
+| Race = Human
+<!--Traits-->|Human|Federation|Starfleet|Pilot|Maverick|Gambler|Romantic}}
+{{MPCrewList
+| CrewName = Anij
+| CharName = Anij (Character){{!}}Anij
+| Stars = 4
+| DIP = 50
+| MED = 41
+| Race = Ba'ku
+<!--Traits-->|Romantic|Civilian|Ba'ku|Caregiver}}
+{{MPCrewList
+| CrewName = Annorax
+| CharName = Annorax (Character){{!}}Annorax
+| Stars = 5
+| CMD = 57
+| SEC = 31
+| SCI = 73
+| Race = Krenim
+<!--Traits-->|Krenim|Desperate|Romantic|Theoretical Engineer|Scoundrel|Brutal}}
+{{MPCrewList
+| CrewName = Antaak
+| CharName = Antaak (Character){{!}}Antaak
+| Stars = 4
+| SCI = 39
+| MED = 52
+| Race = Klingon
+<!--Traits-->|Klingon|Physician|Desperate|Geneticist}}
+{{MPCrewList
+| CrewName = Apollo
+| CharName = Apollo (Character){{!}}Apollo
+| Stars = 4
+| CMD = 21
+| DIP = 39
+| MED = 50
+| Race = Unknown
+<!--Traits-->|Inspiring|Caregiver|Musician|Cultural Figure|Spiritual|Brutal}}
+{{MPCrewList
+| CrewName = Arachnia Janeway
+| CharName = Janeway
+| Stars = 5
+| CMD = 57
+| DIP = 73
+| SEC = 31
+| Race = Human
+<!--Traits-->|Human|Federation|Starfleet|Resourceful|Costumed}}
+{{MPCrewList
+| CrewName = Ardra
+| CharName = Ardra (Character){{!}}Ardra
+| Stars = 4
+| DIP = 42
+| ENG = 21
+| SEC = 50
+| Race = Unknown
+<!--Traits-->|Costumed|Crafty|Villain|Cultural Figure|Thief}}
+{{MPCrewList
+| CrewName = Arik Soong
+| CharName = Arik
+| Stars = 4
+| CMD = 21
+| SCI = 57
+| MED = 42
+| Race = Human
+<!--Traits-->|Human|Thief|Geneticist|Maverick|Civilian}}
+{{MPCrewList
+| CrewName = Armed Philippa Georgiou
+| CharName = Georgiou
+| Stars = 4
+| CMD = 38
+| DIP = 50
+| SEC = 21
+| Race = Human
+<!--Traits-->|Human|Federation|Starfleet|Inspiring|Diplomat}}
+{{MPCrewList
+| CrewName = Armus
+| CharName = Armus
+| Stars = 5
+| CMD = 52
+| SEC = 31
+| SCI = 63
+| Race = Unknown
+<!--Traits-->|Villain|Desperate|Survivalist|Brutal|Telekinetic}}
+{{MPCrewList
+| CrewName = Army Chaplain Odo
+| CharName = Odo
+| Stars = 4
+| CMD = 21
+| DIP = 50
+| SEC = 38
+| Race = Changeling
+<!--Traits-->|Changeling|Spiritual|Bajoran|Communicator|Constable|Undercover Operative}}
+{{MPCrewList
+| CrewName = Assimilated Hawk
+| CharName = Hawk
+| Stars = 5
+| CMD = 52
+| SEC = 73
+| SCI = 31
+| Race = Human
+<!--Traits-->|Human|Borg|Brutal|Tactician|Pilot}}
+{{MPCrewList
+| CrewName = Assimilated Janeway
+| CharName = Janeway
+| Stars = 5
+| CMD = 57
+| SEC = 31
+| SCI = 69
+| Race = Human
+<!--Traits-->|Human|Federation|Starfleet|Borg|Undercover Operative|Resourceful}}
+{{MPCrewList
+| CrewName = Assimilated La Forge
+| CharName = La Forge
+| Stars = 5
+| CMD = 57
+| ENG = 74
+| SCI = 31
+| Race = Human
+<!--Traits-->|Human|Borg|Brutal|Innovator|Quantum Mechanics|Warp Theorist}}
+{{MPCrewList
+| CrewName = Assimilated Torres
+| CharName = Torres
+| Stars = 5
+| ENG = 68
+| SEC = 57
+| Race = Klingon
+<!--Traits-->|Borg|Jury Rigger|Human|Federation|Klingon|Maquis|Undercover Operative|Cyberneticist}}
+{{MPCrewList
+| CrewName = Assimilated Troi
+| CharName = Troi
+| Stars = 4
+| SCI = 21
+| SEC = 38
+| MED = 50
+| Race = Betazoid
+<!--Traits-->|Human|Betazoid|Borg|Brutal|Empath|Counselor}}
+{{MPCrewList
+| CrewName = Assimilated Tuvok
+| CharName = Tuvok
+| Stars = 4
+| CMD = 39
+| SEC = 50
+| SCI = 21
+| Race = Vulcan
+<!--Traits-->|Vulcan|Borg|Telepath|Brutal|Tactician|Undercover Operative}}
+{{MPCrewList
+| CrewName = Astrosciences Sulu
+| CharName = Sulu
+| Stars = 5
+| DIP = ??
+| SEC = ??
+| MED = ??
+| Race = Human
+<!--Traits-->|Human|Federation|Starfleet|Pilot|Resourceful|Astrophysicist}}
+{{MPCrewList
+| CrewName = Augment Commander O'Brien
+| CharName = O'Brien
+| Stars = 5
+| ENG = 57
+| SEC = 68
+| Race = Human
+<!--Traits-->|Human|Augment|Starfleet|Federation|Marksman|Brutal|Innovator}}
+{{MPCrewList
+| CrewName = Augment Picard
+| CharName = Picard
+| Stars = 5
+| CMD = 52
+| DIP = 31
+| SEC = 74
+| Race = Human
+<!--Traits-->|Human|Augment|Villain|Brutal|Desperate|Survivalist|Hunter|Duelist}}
+{{MPCrewList
+| CrewName = Augment Riker
+| CharName = Riker
+| Stars = 4
+| CMD = 21
+| ENG = 52
+| SEC = 39
+| Race = Human
+<!--Traits-->|Human|Augment|Gambler|Desperate|Maverick|Jury Rigger|Survivalist}}
+{{MPCrewList
+| CrewName = Author Doctor
+| CharName = Doctor (Character){{!}}Doctor
+| Stars = 4
+| MED = 41
+| DIP = 57
+| Race = Hologram
+<!--Traits-->|Hologram|Federation|Starfleet|Diplomat|Physician|Writer|Musician}}
+{{MPCrewList
+| CrewName = Automated Unit 3947
+| CharName = APU 3947
+| Stars = 4
+| ENG = 52
+| SEC = 21
+| SCI = 42
+| Race = Automated Unit
+<!--Traits-->|Automated Unit|Desperate|Quantum Mechanics}}
+{{MPCrewList
+| CrewName = Aviator Yar
+| CharName = Yar
+| Stars = 5
+| ENG = 59
+| CMD = 31
+|SEC = 74
+| Race = Human
+<!--Traits-->|Human|Pilot|Maverick|Hero|Costumed|Duelist|Survivalist}}
+{{MPCrewList
+| CrewName = Away Team Archer
+| CharName = Archer
+| Stars = 2
+| CMD = 32
+| ENG = 13
+| SEC = 27
+| Race = Human
+<!--Traits-->|Human|Starfleet|Pilot|Explorer}}
+{{MPCrewList
+| CrewName = Away Team Michael Burnham
+| CharName = Burnham
+| Stars = 5
+| ENG = 21
+| SEC = 63
+| SCI = 52
+| Race = Human
+<!--Traits-->|Federation|Prisoner|Astrophysicist|Human|Xenoanthropology|Resourceful|Survivalist}}
+{{MPCrewList
+| CrewName = Away Team Neelix
+| CharName = Neelix
+| Stars = 2
+| DIP = 31
+| ENG = 32
+| SCI = 13
+| Race = Talaxian
+<!--Traits-->|Talaxian|Mylean|Resourceful|Survivalist|Chef|Civilian|Communicator|Geologist}}
+{{MPCrewList
+| CrewName = Away Team Number One
+| CharName = Number One
+| Stars = 5
+| CMD = 52
+| DIP = 31
+| SCI = 63
+| Race = Human
+<!--Traits-->|Federation|Starfleet|Human|Resourceful|Explorer}}
+{{MPCrewList
+| CrewName = Away Team Saru
+| CharName = Saru
+| Stars = 5
+| CMD = 31
+| SEC = 57
+| SCI = 74
+| Race = Kelpien
+<!--Traits-->|Kelpien|Federation|Starfleet|Exobiology|Explorer|Desperate}}
+{{MPCrewList
+| CrewName = B-4
+| CharName = B-4
+| Stars = 4
+| DIP = 38
+| ENG = 21
+| SCI = 50
+| Race = Android
+<!--Traits-->|Android|Federation|Casual|Civilian}}
+{{MPCrewList
+| CrewName = Bajoran Dukat
+| CharName = Dukat
+| Stars = 4
+| CMD = 41
+| DIP = 57
+| Race = Cardassian
+<!--Traits-->|Cardassian|Bajoran|Brutal|Desperate|Veteran|Cultural Figure|Villain|Undercover Operative|Inspiring|Communicator}}
+{{MPCrewList
+| CrewName = Ba'ku Worf
+| CharName = Worf
+| Stars = 4
+| CMD = 42
+| SEC = 52
+| Race = Klingon
+<!--Traits-->|Klingon|Federation|Starfleet|Tactician|Desperate}}
+{{MPCrewList
+| CrewName = Bartender Guinan
+| CharName = Guinan
+| Stars = 5
+| DIP = 63
+| SEC = 31
+| MED = 57
+| Race = El-Aurian
+<!--Traits-->|Communicator|Counselor|Marksman|Empath|Bartender|El-Aurian|Civilian}}
+{{MPCrewList
+| CrewName = Bartender Quark
+| CharName = Quark
+| Stars = 1
+| CMD = 9
+| DIP = 22
+| SEC = 9
+| Race = Ferengi
+<!--Traits-->|Ferengi|Bartender|Civilian|Scoundrel|Gambler|Merchant}}
+{{MPCrewList
+| CrewName = Bartender Tuvok
+| CharName = Tuvok
+| Stars = 5
+| DIP = 72
+| SEC = 57
+| SCI = 31
+| Race = Vulcan
+<!--Traits-->|Vulcan|Telepath|Bartender|Resourceful|Tactician|Undercover Operative|Starfleet|Federation}}
+{{MPCrewList
+| CrewName = Bashir, Julian Bashir
+| CharName = Bashir
+| Stars = 5
+| DIP = 57
+| SEC = 31
+| MED = 69
+| Race = Human
+<!--Traits-->|Human|Federation|Starfleet|Physician|Augment|Costumed|Cyberneticist|Gambler|Undercover Operative}}
+{{MPCrewList
+| CrewName = Bell Riots Bashir
+| CharName = Bashir
+| Stars = 5
+| DIP = 57
+| SEC = 31
+| MED = 73
+| Race = Human
+<!--Traits-->|Human|Starfleet|Federation|Desperate|Costumed|Physician|Augment}}
+{{MPCrewList
+| CrewName = Bell Riots Jadzia Dax
+| CharName = J. Dax
+| Stars = 5
+| DIP = 73
+| ENG = 57
+| SCI = 31
+| Race = Trill
+<!--Traits-->|Federation|Starfleet|Costumed|Desperate|Trill}}
+{{MPCrewList
+| CrewName = Benny Russell
+| CharName = Sisko
+| Stars = 5
+| DIP = 58
+| SEC = 31
+| SCI = 73
+| Race = Human
+<!--Traits-->|Human|Civilian|Writer|Veteran|Communicator|Desperate}}
+{{MPCrewList
+| CrewName = Beowulf Kim
+| CharName = Kim
+| Stars = 5
+| CMD = 31
+| ENG = 52
+| SEC = 74
+| Race = Human
+<!--Traits-->|Federation|Human|Costumed|Brutal|Duelist|Musician}}
+{{MPCrewList
+| CrewName = Berlinghoff Rasmussen
+| CharName = Rasmussen
+| Stars = 4
+| DIP = 21
+| SEC = 50
+| SCI = 39
+| Race = Human
+<!--Traits-->|Civilian|Scoundrel|Desperate|Crafty|Resourceful}}
+{{MPCrewList
+| CrewName = Bestselling Author Jake Sisko
+| CharName = Jake
+| Stars = 4
+| DIP = 39
+| SCI = 52
+| Race = Human
+<!--Traits-->|Civilian|Human|Writer|Gambler|Romantic|Cultural Figure|Inspiring}}
+{{MPCrewList
+| CrewName = B'Etor Duras
+| CharName = B'Etor
+| Stars = 3
+| DIP = 42
+| SEC = 31
+| Race = Klingon
+<!--Traits-->|Klingon|Scoundrel|Villain}}
+{{MPCrewList
+| CrewName = Blood Oath Jadzia Dax
+| CharName = J. Dax
+| Stars = 4
+| SEC = 50
+| SCI = 39
+| ENG = 21
+| Race = Trill
+<!--Traits-->|Federation|Starfleet|Duelist|Tactician|Trill|Gambler|Pilot}}
+{{MPCrewList
+| CrewName = Boomer Mayweather
+| CharName = Mayweather
+| Stars = 2
+| CMD = 32
+| ENG = 13
+| Race = Human
+<!--Traits-->|Human|Civilian|Pilot|Boomer}}
+{{MPCrewList
+| CrewName = Boothby Replicant
+| CharName = Species 8472
+| Stars = 5
+| DIP = 57
+| SCI = 63
+| MED = 31
+| Race = Species 8472
+<!--Traits-->|Civilian|Botanist|Communicator|Cultural Figure|Species 8472}}
+{{MPCrewList
+| CrewName = Borg Queen
+| CharName = Borg Queen (Character){{!}}Borg Queen 
+| Stars = 5
+| CMD = 74
+| DIP = 57
+| ENG = 31
+| Race = Borg
+<!--Traits-->|Borg|Brutal|Cultural Figure|Resourceful|Interrogator|Communicator|Survivalist}}
+{{MPCrewList
+| CrewName = Botanist Keiko
+| CharName = Keiko
+| Stars = 1
+| SCI = 22
+| Race = Human
+<!--Traits-->|Human|Federation|Civilian|Botanist|Caregiver}}
+{{MPCrewList
+| CrewName = Boxer Chakotay
+| CharName = Chakotay
+| Stars = 3
+| CMD = 16
+| DIP = 32
+| SEC = 43
+| Race = Human
+<!--Traits-->|Human|Starfleet|Hunter|Warrior|Athlete|Costumed|Federation}}
+{{MPCrewList
+| CrewName = Breen Disguise Dukat
+| CharName = Dukat
+| Stars = 4
+| CMD = 41
+| DIP = 21
+| SEC = 57
+| Race = Cardassian
+<!--Traits-->|Cardassian|Brutal|Desperate|Veteran|Cultural Figure|Villain}}
+{{MPCrewList
+| CrewName = Bridge Officer Number One
+| CharName = Number One
+| Stars = 5
+| CMD = 31
+| DIP = 63
+| ENG = 52
+| Race = Human
+<!--Traits-->|Federation|Starfleet|Human|Resourceful|Explorer}}
+{{MPCrewList
+| CrewName = Bridge Officer Troi
+| CharName = Troi
+| Stars = 4
+| CMD = 39
+| DIP = 21
+| MED = 57
+| Race = Betazoid
+<!--Traits-->|Federation|Starfleet|Human|Betazoid|Empath|Counselor|Caregiver}}
+{{MPCrewList
+| CrewName = Buck Bokai
+| CharName = Bokai
+| Stars = 4
+| CMD = 49
+| DIP = 21
+| SEC = 50
+| Race = Human
+<!--Traits-->|Athlete|Cultural Figure|Casual|Inspiring|Explorer}}
+{{MPCrewList
+| CrewName = Buster Kincaid Kim
+| CharName = Kim
+| Stars = 4
+| ENG = 42
+| SEC = 50
+| SCI = 21
+| Race = Human
+<!--Traits-->|Starfleet|Federation|Human|Hero|Costumed}}
+{{MPCrewList
+| CrewName = C.O.P. Founder Archer
+| CharName = Archer
+| Stars = 4
+| CMD = 28
+| DIP = 60
+| Race = Human
+<!--Traits-->|Federation|Starfleet|Human|Inspiring|Cultural Figure|Communicator}}
+{{MPCrewList
+| CrewName = C.O.P. Founder Picard
+| CharName = Picard
+| Stars = 5
+| DIP = 57
+| CMD = 74
+| Race = Human
+<!--Traits-->|Federation|Starfleet|Human|Inspiring|Cultural Figure|Communicator|Musician}}
+{{MPCrewList
+| CrewName = Cadet Nog
+| CharName = Nog
+| Stars = 2
+| DIP = 27
+| ENG = 13
+| SEC = 32
+| Race = Ferengi
+<!--Traits-->|Ferengi|Starfleet|Gambler|Merchant}}
+{{MPCrewList
+| CrewName = Cadet Sito Jaxa
+| CharName = Sito
+| Stars = 2
+| CMD = 32
+| DIP = 27
+| SEC = 13
+| Race = Bajoran
+<!--Traits-->|Bajoran|Federation|Starfleet|Pilot|Crafty|Prodigy|Maverick}}
+{{MPCrewList
+| CrewName = Cadet Sylvia Tilly
+| CharName = Tilly
+| Stars = 5
+| ENG = 74
+| SCI = 57
+| Race = Human
+<!--Traits-->|Human|Theoretical Engineer|Federation|Starfleet}}
+{{MPCrewList
+| CrewName = Cadet Wesley Crusher
+| CharName = Wesley
+| Stars = 4
+| ENG = 39
+| SCI = 53
+| Race = Human
+<!--Traits-->|Human|Federation|Starfleet|Prodigy}}
+{{MPCrewList
+| CrewName = Captain Beverly Picard
+| CharName = Crusher
+| Stars = 5
+| CMD = 63
+| DIP = 31
+| MED = 73
+| Race = Human
+<!--Traits-->|Human|Starfleet|Federation|Physician|Cyberneticist}}
+{{MPCrewList
+| CrewName = Captain Braxton
+| CharName = Braxton
+| Stars = 5
+| CMD = 63
+| ENG = 57
+| SEC = 31
+| Race = Human
+<!--Traits-->|Saboteur|Human|Pilot|Federation|Starfleet|Crafty|Temporal Agent}}
+{{MPCrewList
+| CrewName = Captain Dathon
+| CharName = Dathon
+| Stars = 3
+| CMD = 16
+| DIP = 35
+| SEC = 28
+| Race = Tamarian
+<!--Traits-->|Tamarian|Maverick|Communicator|Survivalist}}
+{{MPCrewList
+| CrewName = Captain Harry Kim
+| CharName = Kim
+| Stars = 5
+| CMD = 63
+| ENG = 52
+| SEC = 31
+| Race = Human
+<!--Traits-->|Federation|Human|Starfleet|Explorer|Musician}}
+{{MPCrewList
+| CrewName = Captain Janeway
+| CharName = Janeway
+| Stars = 4
+| CMD = 57
+| DIP = 42
+| SCI = 42
+| Race = Human
+<!--Traits-->|Human|Federation|Starfleet|Resourceful|Gambler}}
+{{MPCrewList
+| CrewName = Captain John Harriman
+| CharName = Harriman
+| Stars = 4
+| CMD = 42
+| DIP = 57
+| Race = Human
+<!--Traits-->|Federation|Starfleet|Human|Communicator}}
+{{MPCrewList
+| CrewName = Captain Kasidy Yates
+| CharName = Yates
+| Stars = 3
+| CMD = 34
+| DIP = 16
+| SEC = 28
+| Race = Human
+<!--Traits-->|Federation|Civilian|Human|Bajoran|Smuggler|}}
+{{MPCrewList
+| CrewName = Captain Killy
+| CharName = Tilly
+| Stars = 5
+| CMD = 73
+| ENG = 31
+| SEC = 57
+| Race = Human
+<!--Traits-->|Human|Brutal|Terran Empire|Mirror Universe|Starfleet|Veteran}}
+{{MPCrewList
+| CrewName = Captain Kirk
+| CharName = Kirk
+| Stars = 2
+| CMD = 32
+| DIP = 27
+| SEC = 13
+| Race = Human
+<!--Traits-->|Human|Starfleet|Federation|Inspiring|Romantic|Explorer}}
+{{MPCrewList
+| CrewName = Captain Klaa
+| CharName = Klaa
+| Stars = 4
+| CMD = 52
+| SEC = 39
+| Race = Klingon
+<!--Traits-->|Klingon|Hunter|Tactician|Duelist}}
+{{MPCrewList
+| CrewName = Captain Kurn
+| CharName = Kurn
+| Stars = 4
+| CMD = 50
+| SEC = 39
+| Race = Klingon
+<!--Traits-->|Klingon|Duelist|Resourceful}}
+{{MPCrewList
+| CrewName = Captain La Forge
+| CharName = La Forge
+| Stars = 5
+| CMD = 63
+| ENG = 68
+| SCI = 31
+| Race = Human
+<!--Traits-->|Human|Federation|Starfleet|Innovator|Cyberneticist}}
+{{MPCrewList
+| CrewName = Captain Lorca
+| CharName = Lorca
+| Stars = 5
+| CMD = 74
+| DIP = 57
+| Race = Human
+<!--Traits-->|Starfleet|Human|Tactician|Federation|Explorer}}
+{{MPCrewList
+| CrewName = Captain Lorian
+| CharName = Lorian
+| Stars = 5
+| CMD = 58
+| ENG = 73
+| SEC = 31
+| Race = Vulcan
+<!--Traits-->|Vulcan|Human|Jury Rigger|Desperate|Federation|Saboteur}}
+{{MPCrewList
+| CrewName = Captain Morgan Bateson
+| CharName = Bateson
+| Stars = 5
+| CMD = 74
+| DIP = 31
+| SEC = 57
+| Race = Human
+<!--Traits-->|Federation|Starfleet|Human|Casual}}
+{{MPCrewList
+| CrewName = Captain Nog
+| CharName = Nog
+| Stars = 5
+| SEC = 31
+| CMD = 74
+| DIP = 57
+| Race = Ferengi
+<!--Traits-->|Ferengi|Federation|Starfleet|Inspiring}}
+{{MPCrewList
+| CrewName = Captain Pike
+| CharName = Pike
+| Stars = 5
+| CMD = 74
+| DIP = 52
+| Race = Human
+<!--Traits-->|Starfleet|Federation|Romantic|Inspiring|Hero}}
+{{MPCrewList
+| CrewName = Captain Proton Paris
+| CharName = Paris
+| Stars = 4
+| CMD = 50
+| ENG = 21
+| SEC = 39
+| Race = Human
+<!--Traits-->|Human|Starfleet|Federation|Hero|Romantic|Pilot|Costumed}}
+{{MPCrewList
+| CrewName = Captain Q
+| CharName = Q
+| Stars = 4
+| CMD = 39
+| DIP = 50
+| SCI = 39
+| Race = Q
+<!--Traits-->|Starfleet|Crafty|Scoundrel}}
+{{MPCrewList
+| CrewName = Captain Rachel Garrett
+| CharName = Garrett
+| Stars = 5
+| CMD = 73
+| DIP = 31
+| SCI = 57
+| Race = Human
+<!--Traits-->|Astrophysicist|Diplomat|Human|Desperate|Federation|Starfleet|Hero|Pilot}}
+{{MPCrewList
+| CrewName = Captain Scott
+| CharName = Scotty
+| Stars = 5
+| ENG = 73
+| Race = Human
+<!--Traits-->|Human|Starfleet|Federation|Jury Rigger}}
+{{MPCrewList
+| CrewName = Captain Silva La Forge
+| CharName = Silva
+| Stars = 5
+| CMD = 73
+| DIP = 57
+| SEC = 31
+| Race = Human
+<!--Traits-->|Human|Federation|Starfleet|Explorer|Tactician}}
+{{MPCrewList
+| CrewName = Captain Sisko
+| CharName = Sisko
+| Stars = 5
+| CMD = 73
+| DIP = 31
+| SEC = 57
+| Race = Human
+<!--Traits-->|Human|Federation|Starfleet|Bajoran|Cultural Figure|Inspiring|Tactician|Chef|Diplomat}}
+{{MPCrewList
+| CrewName = Captain Spock
+| CharName = Spock
+| Stars = 5
+| CMD = 73
+| DIP = 31
+| SCI = 52
+| Race = Vulcan
+<!--Traits-->|Starfleet|Federation|Exobiology|Musician|Astrophysicist|Human|Vulcan|Telepath|Special Envoy}}
+{{MPCrewList
+| CrewName = Captain Sulu
+| CharName = Sulu
+| Stars = 4
+| CMD = 57
+| DIP = 42
+| SEC = 21
+| Race = Human
+<!--Traits-->|Federation|Starfleet|Human|Veteran|Tactician|Pilot}}
+{{MPCrewList
+| CrewName = Captain T'Pol
+| CharName = T'Pol
+| Stars = 4
+| CMD = 50
+| DIP = 21
+| SCI = 39
+| Race = Vulcan
+<!--Traits-->|Vulcan|Starfleet|Astrophysicist|Tactician|Telepath}}
+{{MPCrewList
+| CrewName = Captain Thadiun Okona
+| CharName = Okona
+| Stars = 5
+| DIP = 73
+| ENG = 57
+| SEC = 31
+| Race = Unknown
+<!--Traits-->|Romantic|Civilian|Jury Rigger|Scoundrel|Smuggler}}
+{{MPCrewList
+| CrewName = Captive Bashir
+| CharName = Bashir
+| Stars = 4
+| DIP = 21
+| SEC = 38
+| ENG = 50
+| Race = Human
+<!--Traits-->|Human|Starfleet|Federation|Desperate|Prisoner|Physician|Engineered|Counselor}}
+{{MPCrewList
+| CrewName = Cardassian Kira
+| CharName = Kira
+| Stars = 4
+| CMD = 39
+| DIP = 21
+| SEC = 50
+| Race = Bajoran
+<!--Traits-->|Bajoran|Cardassian|Obsidian Order|Saboteur|Spy|Undercover Operative}}
+{{MPCrewList
+| CrewName = Celebratory Ash Tyler
+| CharName = Tyler
+| Stars = 4
+| CMD = 42
+| DIP = 57
+| SEC = 21
+| Race = Klingon
+<!--Traits-->|Human|Federation|Starfleet|Tactician|Marksman|Pilot|Romantic}}
+{{MPCrewList
+| CrewName = Chancellor Gorkon
+| CharName = Gorkon
+| Stars = 5
+| CMD = 52
+| DIP = 73
+| SEC = 31
+| Race = Klingon
+<!--Traits-->|Klingon|Diplomat|Chancellor|Cultural Figure}}
+{{MPCrewList
+| CrewName = Chancellor Gowron
+| CharName = Gowron
+| Stars = 5
+| CMD = 31
+| DIP = 73
+| SEC = 52
+| Race = Klingon
+<!--Traits-->|Klingon|Cultural Figure|Chancellor|Brutal|Diplomat}}
+{{MPCrewList
+| CrewName = Chancellor L'Rell
+| CharName = L'Rell
+| Stars = 5
+| CMD = 57
+| DIP = 63
+| SEC = 31
+| Race = Klingon
+<!--Traits-->|Klingon|Brutal|Diplomat|Chancellor|Cultural Figure}}
+{{MPCrewList
+| CrewName = Changeling Bashir
+| CharName = Changeling (Character){{!}}Changeling
+| Stars = 4
+| ENG = 21
+| SEC = 57
+| MED = 39
+| Race = Changeling
+<!--Traits-->|Changeling|Dominion|Starfleet|Physician|Undercover Operative|Saboteur|Villain}}
+{{MPCrewList
+| CrewName = Changeling Founder
+| CharName = Founder
+| Stars = 5
+| CMD = 57
+| DIP = 72
+| Race = Changeling
+<!--Traits-->|Changeling|Dominion|Diplomat|Brutal}}
+{{MPCrewList
+| CrewName = Changeling Martok
+| CharName = Martok
+| Stars = 5
+| CMD = 31
+| DIP = 73
+| SEC = 58
+| Race = Changeling
+<!--Traits-->|Klingon|Changeling|Veteran|Undercover Operative|Brutal|Dominion}}
+{{MPCrewList
+| CrewName = Chef Neelix
+| CharName = Neelix
+| Stars = 1
+| DIP = 16
+| Race = Talaxian
+<!--Traits-->|Talaxian|Mylean|Resourceful|Survivalist|Chef|Civilian|Communicator}}
+{{MPCrewList
+| CrewName = Chief Engineer La Forge
+| CharName = La Forge
+| Stars = 3
+| CMD = 27
+| ENG = 43
+| SCI = 32
+| Race = Human
+<!--Traits-->|Human|Starfleet|Federation|Innovator|Romantic|Cyberneticist}}
+{{MPCrewList
+| CrewName = Chief Engineer Torres
+| CharName = Torres
+| Stars = 1
+| ENG = 20
+| SEC = 9
+| Race = Klingon
+<!--Traits-->|Klingon|Human|Starfleet|Maquis|Innovator|Jury Rigger|Saboteur|Cyberneticist|Federation}}
+{{MPCrewList
+| CrewName = Chief O'Brien
+| CharName = O'Brien
+| Stars = 4
+| CMD = 21
+| ENG = 57
+| SEC = 42
+| Race = Human
+<!--Traits-->|Human|Starfleet|Federation|Jury Rigger|Veteran}}
+{{MPCrewList
+| CrewName = Christopher Pike
+| CharName = Pike
+| Stars = 5
+| CMD = 63
+| DIP = 31
+| SEC = 57
+| Race = Human
+<!--Traits-->|Starfleet|Human|Federation|Inspiring|Explorer|Tactician}}
+{{MPCrewList
+| CrewName = Civil War Worf
+| CharName = Worf
+| Stars = 4
+| CMD = 39
+| SEC = 57
+| Race = Klingon
+<!--Traits-->|Klingon|Federation|Duelist|Tactician}}
+{{MPCrewList
+| CrewName = Claiborne Chekov
+| CharName = Chekov
+| Stars = 4
+| CMD = 21 
+| SEC = 50
+| SCI = 42
+| Race = Human
+<!--Traits-->|Federation|Starfleet|Human|Costumed|Duelist}}
+{{MPCrewList
+| CrewName = CMO Bashir
+| CharName = Bashir
+| Stars = 1
+| CMD = 16
+| MED = 22
+| Race = Human
+<!--Traits-->|Human|Federation|Starfleet|Physician|Augment|Cyberneticist|Gambler}}
+{{MPCrewList
+| CrewName = CMO 'Bones' McCoy
+| CharName = McCoy
+| Stars = 1
+| MED = 21
+| Race = Human
+<!--Traits-->|Human|Federation|Starfleet|Physician|Resourceful}}
+{{MPCrewList
+| CrewName = CMO Crusher
+| CharName = Crusher
+| Stars = 2
+| MED = 32
+| Race = Human
+<!--Traits-->|Human|Starfleet|Federation|Physician|Caregiver|Cyberneticist}}
+{{MPCrewList
+| CrewName = CMO Ogawa
+| CharName = Ogawa
+| Stars = 3
+| CMD = 31
+| DIP = 16
+| MED = 34
+| Race = Human
+<!--Traits-->|Human|Federation|Starfleet|Physician}}
+{{MPCrewList
+| CrewName = CMO Pulaski
+| CharName = Pulaski
+| Stars = 3
+| SCI = 32
+| MED = 43
+| Race = Human
+<!--Traits-->|Human|Starfleet|Federation|Physician}}
+{{MPCrewList
+| CrewName = Colonel Karr
+| CharName = Karr
+| Stars = 4
+| CMD = 50
+| ENG = 21
+| SEC = 39
+| Race = Hirogen
+<!--Traits-->|Hirogen|Resourceful|Veteran|Marksman|Tactician|Costumed}}
+{{MPCrewList
+| CrewName = Colonel Worf
+| CharName = Colonel Worf (Character){{!}}Colonel Worf
+| Stars = 4
+| CMD = 42
+| DIP = 52
+| Race = Klingon
+<!--Traits-->|Klingon|Communicator|Counselor|Inspiring}}
+{{MPCrewList
+| CrewName = Combat Medic Paris
+| CharName = Paris
+| Stars = 4
+| CMD = 21
+| SEC = 39
+| MED = 50
+| Race = Human
+<!--Traits-->|Human|Starfleet|Federation|Tactician|Costumed}}
+{{MPCrewList
+| CrewName = Comm Officer Uhura
+| CharName = Uhura
+| Stars = 1
+| DIP = 22
+| Race = Human
+<!--Traits-->|Human|Federation|Starfleet|Communicator}}
+{{MPCrewList
+| CrewName = Command Hologram
+| CharName = Doctor (Character){{!}}Doctor
+| Stars = 4
+| CMD = 39
+| SEC = 21
+| MED = 57
+| Race = Hologram
+<!--Traits-->|Hologram|Federation|Starfleet|Hero|Tactician|Musician}}
+{{MPCrewList
+| CrewName = Command Wrap Kirk
+| CharName = Kirk
+| Stars = 3
+| CMD = 42
+| DIP = 16
+| SEC = 31
+| Race = Human
+<!--Traits-->|Human|Federation|Starfleet|Inspiring|Romantic|Duelist}}
+{{MPCrewList
+| CrewName = Commander Barak
+| CharName = Barak
+| Stars = 4
+| CMD = 52
+| SEC = 39
+| Race = Klingon
+<!--Traits-->|Klingon|Brutal|Warrior}}
+{{MPCrewList
+| CrewName = Commander Barclay
+| CharName = Barclay
+| Stars = 4
+| CMD = 50
+| ENG = 41
+| SCI = 21
+| Race = Human
+<!--Traits-->|Starfleet|Innovator|Communicator|Quantum Mechanics|Human|Federation}}
+{{MPCrewList
+| CrewName = Commander Chakotay
+| CharName = Chakotay
+| Stars = 2
+| CMD = 32
+| DIP = 13
+| SEC = 14
+| Race = Human
+<!--Traits-->|Human|Starfleet|Hunter|Tactician|Survivalist|Federation}}
+{{MPCrewList
+| CrewName = Commander Chapel
+| CharName = Chapel
+| Stars = 4
+| DIP = 21
+| SCI = 57
+| MED = 42
+| Race = Human
+<!--Traits-->|Federation|Starfleet|Human|Physician|Veteran}}
+{{MPCrewList
+| CrewName = Commander Chekov
+| CharName = Chekov
+| Stars = 3
+| DIP = 34
+| SEC = 17
+| SCI = 28
+| Race = Human
+<!--Traits-->|Federation|Starfleet|Human|Undercover Operative|Resourceful}}
+{{MPCrewList
+| CrewName = Commander Dolim
+| CharName = Dolim
+| Stars = 4
+| CMD = 52
+| SEC = 42
+| Race = Xindi
+<!--Traits-->|Xindi|Brutal|Villain|Tactician|Interrogator}}
+{{MPCrewList
+| CrewName = Commander Donatra
+| CharName = Donatra
+| Stars = 4
+| CMD = 50
+| DIP = 21
+| SEC = 38
+| Race = Romulan
+<!--Traits-->|Romulan|Veteran|Crafty|Tactician|Resourceful}}
+{{MPCrewList
+| CrewName = Commander Ellen Landry
+| CharName = Landry
+| Stars = 4
+| CMD = 38
+| SEC = 50
+| SCI = 21
+| Race = Human
+<!--Traits-->|Human|Starfleet|Federation|Tactician|Brutal|Marksman}}
+{{MPCrewList
+| CrewName = Commander Kang
+| CharName = Kang
+| Stars = 3
+| CMD = 27
+| DIP = 28
+| SEC = 34
+| Race = Klingon
+<!--Traits-->|Klingon|Duelist}}
+{{MPCrewList
+| CrewName = Commander Kelby
+| CharName = Kelby
+| Stars = 4
+| CMD = 28
+| ENG = 57
+| Race = Human
+<!--Traits-->|Human|Starfleet|Jury Rigger|Explorer}}
+{{MPCrewList
+| CrewName = Commander Keras
+| CharName = Keras
+| Stars = 4
+| CMD = 52
+| DIP = 41
+| Race = Romulan
+<!--Traits:-->|Inspiring|Desperate|Villain|Romulan}}
+{{MPCrewList
+| CrewName = Commander Kira Nerys
+| CharName = Kira
+| Stars = 5
+| CMD = 63
+| DIP = 59
+| SEC = 31
+| Race = Bajoran
+<!--Traits-->|Bajoran|Starfleet|Federation|Veteran|Survivalist|Tactician|Saboteur}}
+{{MPCrewList
+| CrewName = Commander Kor
+| CharName = Kor
+| Stars = 3
+| CMD = 42
+| DIP = 16
+| SEC = 32
+| Race = Klingon
+<!--Traits-->|Klingon|Duelist}}
+{{MPCrewList
+| CrewName = Commander Kruge
+| CharName = Kruge
+| Stars = 3
+| CMD = 31
+| SEC = 43
+| Race = Klingon
+<!--Traits-->|Klingon|Lord|Marksman|Brutal|Villain}}
+{{MPCrewList
+| CrewName = Commander Maddox
+| CharName = Maddox
+| Stars = 3
+| DIP = 16
+| ENG = 17
+| SCI = 34
+| Race = Human
+<!--Traits-->|Federation|Starfleet|Human|Cyberneticist}}
+{{MPCrewList
+| CrewName = Commander Nevesa
+| CharName = Nevesa
+| Stars = 4
+| CMD = 52
+| DIP = 42
+| Race = Romulan
+<!--Traits-->|Crafty|Romantic|Romulan|Resourceful}}
+{{MPCrewList
+| CrewName = Commander Riker
+| CharName = Riker
+| Stars = 2
+| CMD = 32
+| DIP = 14
+| SEC = 13
+| Race = Human
+<!--Traits-->|Human|Federation|Starfleet|Pilot|Maverick|Gambler|Romantic}}
+{{MPCrewList
+| CrewName = Commander Scott
+| CharName = Scotty
+| Stars = 3
+| CMD = 32
+| ENG = 34
+| Race = Human
+<!--Traits-->|Human|Starfleet|Federation|Innovator|Resourceful}}
+{{MPCrewList
+| CrewName = Commander Sela
+| CharName = Sela
+| Stars = 4
+| CMD = 50
+| DIP = 39
+| SEC = 21
+| Race = Romulan
+<!--Traits-->|Romulan|Human|Villain}}
+{{MPCrewList
+| CrewName = Commander Spock
+| CharName = Spock
+| Stars = 1
+| CMD = 16
+| SCI = 22
+| Race = Vulcan
+<!--Traits-->|Vulcan|Human|Federation|Starfleet|Exobiology|Astrophysicist|Telepath|Musician}}
+{{MPCrewList
+| CrewName = Commander Thelin
+| CharName = Thelin
+| Stars = 4
+| CMD = 39
+| SEC = 21
+| SCI = 50
+| Race = Andorian
+<!--Traits-->|Andorian|Tactician|Explorer|Starfleet|Federation}}
+{{MPCrewList
+| CrewName = Commander Tomalak
+| CharName = Tomalak
+| Stars = 4
+| CMD = 57
+| SEC = 42
+| Race = Romulan
+<!--Traits-->|Romulan|Veteran|Villain|Tactician}}
+{{MPCrewList
+| CrewName = Commander T'Pol
+| CharName = T'Pol
+| Stars = 4
+| CMD = 39
+| SEC = 21
+| SCI = 50
+| Race = Vulcan
+<!--Traits-->|Vulcan|High Command|Starfleet|Astrophysicist|Telepath}}
+{{MPCrewList
+| CrewName = Commander Troi
+| CharName = Troi
+| Stars = 5
+| DIP = 73
+| SEC = 31
+| MED = 57
+| Race = Betazoid
+<!--Traits-->|Betazoid|Human|Federation|Starfleet|Empath|Counselor}}
+{{MPCrewList
+| CrewName = Commander Tucker
+| CharName = Trip
+| Stars = 2
+| CMD = 27
+| ENG = 32
+| Race = Human
+<!--Traits-->|Human|Starfleet|Jury Rigger|Pilot|Explorer}}
+{{MPCrewList
+| CrewName = Commander Uhura
+| CharName = Uhura
+| Stars = 4
+| CMD = 42
+| DIP = 57
+| Race = Human
+<!--Traits-->|Human|Federation|Starfleet|Communicator}}
+{{MPCrewList
+| CrewName = Commanding Officer Sisko
+| CharName = Sisko
+| Stars = 3
+| CMD = 27
+| DIP = 16
+| SEC = 42
+| Race = Human
+<!--Traits-->|Human|Federation|Starfleet|Bajoran|Cultural Figure|Inspiring|Chef}}
+{{MPCrewList
+| CrewName = Commando Crusher
+| CharName = Crusher
+| Stars = 3
+| SEC = 17
+| SCI = 16
+| MED = 43
+| Race = Human
+<!--Traits-->|Human|Starfleet|Federation|Physician|Undercover Operative|Cyberneticist}}
+{{MPCrewList
+| CrewName = Commando Shran
+| CharName = Shran
+| Stars = 4
+| CMD = 50
+| DIP = 21
+| SEC = 39
+| Race = Andorian
+<!--Traits-->|Andorian|Tactician|Inspiring}}
+{{MPCrewList
+| CrewName = Commodore Robert April
+| CharName = April
+| Stars = 5
+| CMD = 73
+| DIP = 57
+| SEC = 31
+| Race = Human
+<!--Traits-->|Veteran|Human|Starfleet|Maverick|Explorer}}
+{{MPCrewList
+| CrewName = Conditioned La Forge
+| CharName = La Forge
+| Stars = 5
+| DIP = 31
+| ENG = 73
+| SEC = 57
+| Race = Human
+<!--Traits-->|Human|Starfleet|Federation|Cyberneticist|Prisoner|Saboteur}}
+{{MPCrewList
+| CrewName = Conflicted Sisko
+| CharName = Sisko
+| Stars = 5
+| CMD = 57
+| ENG = 31
+| SEC = 73
+| Race = Human
+<!--Traits-->|Human|Federation|Starfleet|Bajoran|Cultural Figure|Desperate|Diplomat|Crafty}}
+{{MPCrewList
+| CrewName = Constable Odo
+| CharName = Odo
+| Stars = 3
+| CMD = 32
+| SEC = 43
+| Race = Changeling
+<!--Traits-->|Changeling|Bajoran|Constable|Investigator|Interrogator}}
+{{MPCrewList
+| CrewName = Convergence Day Quark
+| CharName = Quark
+| Stars = 5
+| CMD = 74
+| DIP = 57
+| Race = Ferengi
+<!--Traits-->|Ferengi|Costumed|Merchant|Romantic|Gambler|Bartender|Communicator|Civilian}}
+{{MPCrewList
+| CrewName = Counselor Troi
+| CharName = Troi
+| Stars = 1
+| DIP = 22
+| MED = 16
+| Race = Betazoid
+<!--Traits-->|Betazoid|Human|Federation|Starfleet|Empath|Counselor}}
+{{MPCrewList
+| CrewName = Covert Operative Leland
+| CharName = Leland
+| Stars = 5
+| CMD = 31
+| DIP = 57
+| SEC = 73
+| Race = Human
+<!--Traits-->|Section 31|Spy|Crafty|Resourceful|Human}}
+{{MPCrewList
+| CrewName = Crell Moset
+| CharName = Moset
+| Stars = 5
+| DIP = 57
+| SCI = 31
+| MED = 74
+| Race = Cardassian
+<!--Traits-->|Cardassian|Physician|Brutal|Exobiology|Hologram}}
+{{MPCrewList
+| CrewName = Crewman Tarses
+| CharName = Tarses
+| Stars = 1
+| DIP = 9
+| MED = 22
+| Race = Romulan
+<!--Traits-->|Romulan|Human|Federation|Starfleet|Nurse}}
+{{MPCrewList
+| CrewName = Cyrus Redblock
+| CharName = Redblock
+| Stars = 4
+| CMD = 50
+| DIP = 42
+| SEC = 21
+| Race = Human
+<!--Traits-->|Civilian|Human|Hologram|Crafty|Criminal|Villain}}
+{{MPCrewList
+| CrewName = Dabo Girl Leeta
+| CharName = Leeta
+| Stars = 2
+| CMD = 27
+| DIP = 32
+| Race = Bajoran
+<!--Traits-->|Bajoran|Civilian|Bartender|Romantic}}
+{{MPCrewList
+| CrewName = Dahar Master Kang
+| CharName = Kang
+| Stars = 5
+| DIP = 74
+| SEC = 57
+| Race = Klingon
+<!--Traits-->|Klingon|Brutal|Tactician|Cultural Figure|Dahar Master|Diplomat|Veteran}}
+{{MPCrewList
+| CrewName = Dahar Master Koloth
+| CharName = Koloth
+| Stars = 5
+| CMD = 31
+| DIP = 52
+| SEC = 63
+| Race = Klingon
+<!--Traits-->|Klingon|Brutal|Spiritual|Cultural Figure|Dahar Master|Duelist|Veteran}}
+{{MPCrewList
+| CrewName = Dahar Master Kor
+| CharName = Kor
+| Stars = 4
+| CMD = 39
+| DIP = 57
+| SEC = 21
+| Race = Klingon
+<!--Traits-->|Klingon|Duelist|Cultural Figure|Romantic|Dahar Master|Communicator|Inspiring}}
+{{MPCrewList
+| CrewName = Danara Pel
+| CharName = Danara
+| Stars = 4
+| SCI = 42
+| MED = 52
+| Race = Vidiian
+<!--Traits-->|Hologram|Physician|Vidiian|Desperate|Geneticist}}
+{{MPCrewList
+| CrewName = Dancing Chekov
+| CharName = Chekov
+| Stars = 5
+| CMD = 31
+| DIP = 68
+| SEC = 57
+| Race = Human
+<!--Traits-->|Federation|Starfleet|Human|Resourceful|Tactician}}
+{{MPCrewList
+| CrewName = Dancing Uhura
+| CharName = Uhura
+| Stars = 5
+| CMD = 57
+| DIP = 68
+| Race = Human
+<!--Traits-->|Human|Federation|Starfleet|Communicator|Casual|Artist}}
+{{MPCrewList
+| CrewName = Data V
+| CharName = Data
+| Stars = 5
+| DIP = 31
+| ENG = 68
+| SCI = 52
+| Race = Android
+<!--Traits-->|Android|Federation|Starfleet|Cyberneticist|Musician|Costumed|Royalty}}
+{{MPCrewList
+| CrewName = Deanna Troi
+| CharName = Troi
+| Stars = 3
+| CMD = 13
+| DIP = 25
+| MED = 34
+| Race = Betazoid
+<!--Traits-->|Federation|Starfleet|Human|Betazoid|Empath|Counselor}}
+{{MPCrewList
+| CrewName = Decoy Kira
+| CharName = Kira
+| Stars = 5
+| CMD = 31
+| DIP = 73
+| SEC = 67
+| Race = Bajoran
+<!--Traits-->|Bajoran|Costumed|Romantic|Crafty}}
+{{MPCrewList
+| CrewName = Defiant Commander Worf
+| CharName = Worf
+| Stars = 4
+| CMD = 38
+| SEC = 52
+| Race = Klingon
+<!--Traits-->|Klingon|Federation|Starfleet|Duelist|Tactician}}
+{{MPCrewList
+| CrewName = Delta Flyer Paris
+| CharName = Paris
+| Stars = 5
+| CMD = 74
+| ENG = 57
+| MED = 31
+| Race = Human
+<!--Traits-->|Gambler|Human|Romantic|Tactician|Federation|Starfleet|Pilot|Maverick|Athlete}}
+{{MPCrewList
+| CrewName = Delta Flyer Torres
+| CharName = Torres
+| Stars = 5
+| CMD = 31
+| ENG = 63
+| SEC = 57
+| Race = Klingon
+<!--Traits-->|Human|Federation|Starfleet|Romantic|Pilot|Athlete|Klingon}}
+{{MPCrewList
+| CrewName = Demora Sulu
+| CharName = Demora
+| Stars = 4
+| CMD = 41
+| SEC = 52
+| Race = Human
+<!--Traits-->|Starfleet|Federation|Human|Pilot|Resourceful|Tactician}}
+{{MPCrewList
+| CrewName = Desert Ezri Dax
+| CharName = Ezri
+| Stars = 1
+| DIP = 16
+| MED = 21
+| Race = Trill
+<!--Traits-->|Trill|Federation|Starfleet|Counselor}}
+{{MPCrewList
+| CrewName = Desert Michael Burnham
+| CharName = Burnham
+| Stars = 2
+| DIP = 26
+| SCI = 32
+| Race = Human
+<!--Traits-->|Federation|Starfleet|Explorer|Xenoanthropology|Human}}
+{{MPCrewList
+| CrewName = Desert Philippa Georgiou
+| CharName = Georgiou
+| Stars = 5
+| DIP = 74
+| CMD = 57
+| Race = Human
+<!--Traits-->|Human|Federation|Starfleet|Inspiring|Diplomat|Veteran}}
+{{MPCrewList
+| CrewName = Detective Data
+| CharName = Data
+| Stars = 5
+| ENG = 31
+| SEC = 73
+| SCI = 52
+| Race = Android
+<!--Traits-->|Android|Federation|Starfleet|Cyberneticist|Costumed|Investigator|Musician}}
+{{MPCrewList
+| CrewName = Detective Dixon Hill
+| CharName = Picard
+| Stars = 4
+| CMD = 39
+| DIP = 57
+| SEC = 21
+| Race = Human
+<!--Traits-->|Federation|Starfleet|Human|Costumed|Undercover Operative|Investigator|Romantic}}
+{{MPCrewList
+| CrewName = Disguised Chakotay
+| CharName = Chakotay
+| Stars = 4
+| CMD = 38
+| DIP = 21
+| SEC = 57
+| Race = Human
+<!--Traits-->|Human|Starfleet|Federation|Costumed|Undercover Operative|Hunter|Maquis}}
+{{MPCrewList
+| CrewName = Disguised Kira
+| CharName = Kira
+| Stars = 5
+| DIP = 72
+| SEC = 74
+| Race = Bajoran
+<!--Traits-->|Bajoran|Saboteur|Marksman|Undercover Operative}}
+{{MPCrewList
+| CrewName = Diseased Changeling Founder
+| CharName = Founder
+| Stars = 4
+| CMD = 50
+| DIP = 38
+| MED = 21
+| Race = Changeling
+<!--Traits-->|Changeling|Dominion|Desperate|Brutal}}
+{{MPCrewList
+| CrewName = Disguised Tuvok
+| CharName = Tuvok
+| Stars = 4
+| CMD = 21
+| SEC = 28
+| SCI = 50
+| Race = Vulcan
+<!--Traits-->|Vulcan|Federation|Starfleet|Telepath|Resourceful|Costumed|Tactician}}
+{{MPCrewList
+| CrewName = Diversion Yates
+| CharName = Yates
+| Stars = 5
+| CMD = ??
+| DIP = ??
+| SEC = ??
+| Race = Human
+<!--Traits-->|Human|Federation|Pilot|Civilian|Costumed}}
+{{MPCrewList
+| CrewName = Doc Crusher
+| CharName = Crusher
+| Stars = 4
+| DIP = 39
+| MED = 50
+| SCI = 21
+| Race = Human
+<!--Traits-->|Human|Starfleet|Federation|Physician|Caregiver|Costumed}}
+{{MPCrewList
+| CrewName = Doctor Ann Mulhall
+| CharName = Mulhall
+| Stars = 5
+| CMD = 57
+| DIP = 31
+| SCI = 63
+| Race = Human
+<!--Traits-->|Starfleet|Federation|Exobiology|Explorer|Human}}
+{{MPCrewList
+| CrewName = Doctor Chaotica
+| CharName = Chaotica
+| Stars = 5
+| CMD = 73
+| SCI = 74
+| Race = Human
+<!--Traits-->|Human|Hologram|Scoundrel|Villain|Crafty|Brutal}}
+{{MPCrewList
+| CrewName = Doctor Chapel
+| CharName = Chapel
+| Stars = 4
+| MED = 57
+| Race = Human
+<!--Traits-->|Federation|Starfleet|Human|Physician}}
+{{MPCrewList
+| CrewName = Doctor La Forge
+| CharName = La Forge
+| Stars = 4
+| ENG = 21
+| SEC = 39
+| MED = 57
+| Race = Human
+<!--Traits-->|Human|Starfleet|Federation|Investigator|Costumed|Physician|Cyberneticist}}
+{{MPCrewList
+| CrewName = Doctor Selar
+| CharName = Selar
+| Stars = 3
+| MED = 42
+| Race = Vulcan
+<!--Traits-->|Vulcan|Physician|Starfleet|Federation|Telepath}}
+{{MPCrewList
+| CrewName = Dominion Dukat
+| CharName = Dukat
+| Stars = 4
+| DIP = 57
+| CMD = 41
+| SEC = 21
+| Race = Cardassian
+<!--Traits-->|Cardassian|Dominion|Brutal|Desperate|Veteran|Cultural Figure|Villain}}
+{{MPCrewList
+| CrewName = Donik
+| CharName = Donik (Character){{!}}Donik
+| Stars = 3
+| DIP = 32
+| ENG = 43
+| Race = Hirogen
+<!--Traits-->|Hirogen|Innovator}}
+{{MPCrewList
+| CrewName = Douglas Pabst
+| CharName = Odo
+| Stars = 4
+| CMD = 50
+| DIP = 41
+| SEC = 21
+| Race = Human
+<!--Traits-->|Writer|Human|Civilian|Communicator|Resourceful}}
+{{MPCrewList
+| CrewName = Dr. Carol Marcus
+| CharName = Marcus
+| Stars = 3
+| CMD = 28
+| SCI = 38
+| Race = Human
+<!--Traits-->|Federation|Exobiology|Human|Civilian|Innovator}}
+{{MPCrewList
+| CrewName = Dr Crusher
+| CharName = Crusher
+| Stars = 4
+| CMD = 21
+| SEC = 42
+| MED = 57
+| Race = Human
+<!--Traits-->|Human|Starfleet|Federation|Physician|Cyberneticist}}
+{{MPCrewList
+| CrewName = Dr. David Marcus
+| CharName = David
+| Stars = 4
+| ENG = 42
+| SCI = 52
+| Race = Human
+<!--Traits-->|Gambler| Innovator| Jury Rigger| Human| Physician| Civilian}}
+{{MPCrewList
+| CrewName = Dr. Gillian Taylor
+| CharName = Taylor
+| Stars = 4
+| DIP = 21
+| SCI = 57
+| MED = 42
+| Race = Human
+<!--Traits-->|Federation|Starfleet|Human|Physician|Cetacean Biologist}}
+{{MPCrewList
+| CrewName = Dr. Hippocrates Noah
+| CharName = Sisko
+| Stars = 4
+| DIP = 21
+| SCI = 50
+| MED = 42
+| Race = Hologram
+<!--Traits-->|Hologram|Villain|Crafty|Communicator|Physician|Resourceful}}
+{{MPCrewList
+| CrewName = Dr. Hugh Culber
+| CharName = Culber
+| Stars = 5
+| SCI = 57
+| MED = 68
+| Race = Human
+<!--Traits-->|Human|Physician|Romantic|Federation|Starfleet}}
+{{MPCrewList
+| CrewName = Dr. Katherine Pulaski
+| CharName = Pulaski
+| Stars = 5
+| SEC = 31
+| SCI = 57
+| MED = 73
+| Race = Human
+<!--Traits-->|Federation|Starfleet|Human|Physician|Caregiver}}
+{{MPCrewList
+| CrewName = Dr. Leonard McCoy
+| CharName = McCoy
+| Stars = 4
+| SCI = 41
+| MED = 52
+| Race = Human
+<!--Traits-->|Human|Federation|Starfleet|Physician|Resourceful}}
+{{MPCrewList
+| CrewName = Dr Phlox
+| CharName = Phlox
+| Stars = 2
+| SCI = 27
+| MED = 27
+| Race = Denobulan
+<!--Traits-->|Denobulan|Civilian|Physician|Romantic|Exobiology}}
+{{MPCrewList
+| CrewName = Dr. Reyga
+| CharName = Reyga
+| Stars = 3
+| DIP = 32
+| SCI = 43
+| Race = Ferengi
+<!--Traits-->|Ferengi|Astrophysicist|Innovator|Maverick}}
+{{MPCrewList
+| CrewName = Dr. Richard Daystrom
+| CharName = Daystrom
+| Stars = 5
+| ENG = 57
+| SCI = 68
+| Race = Human
+<!--Traits-->|Federation|Prodigy|Inspiring|Innovator|Civilian|Human|Cultural Figure}}
+{{MPCrewList
+| CrewName = Dr. Soong
+| CharName = Soong (Character){{!}}Soong
+| Stars = 5
+| ENG = 69
+| SCI = 74
+| Race = Human
+<!--Traits-->|Human|Civilian|Maverick|Cyberneticist|Innovator|Federation}}
+{{MPCrewList
+| CrewName = Dr. Toby Russell
+| CharName = Dr. Russell
+| Stars = 4
+| CMD = 21
+| SCI = 39
+| MED = 50
+| Race = Human
+<!--Traits-->|Federation|Civilian|Human|Neurologist|Geneticist|Maverick}}
+{{MPCrewList
+| CrewName = Dr. Tolian Soran
+| CharName = Soran
+| Stars = 4
+| ENG = 39
+| SCI = 57
+| Race = El-Aurian
+<!--Traits-->|Civilian|Empath|Quantum Mechanics|Innovator|El-Aurian|Villain|Desperate}}
+{{MPCrewList
+| CrewName = Drafted McCoy
+| CharName = McCoy
+| Stars = 4
+| DIP = 57
+| MED = 42
+| Race = Human
+<!--Traits-->|Human|Physician|Federation|Starfleet|Civilian}}
+{{MPCrewList
+| CrewName = Dress Uniform Scotty
+| CharName = Scotty
+| Stars = 5
+| CMD = 57
+| ENG = 74
+| Race = Human
+<!--Traits-->|Human|Starfleet|Federation|Jury Rigger|Communicator}}
+{{MPCrewList
+| CrewName = Drone Seven of Nine
+| CharName = Seven
+| Stars = 4
+| ENG = 57
+| SEC = 39
+| SCI = 21
+| Race = Borg
+<!--Traits-->|Human|Borg|Brutal}}
+{{MPCrewList
+| CrewName = Duchamps
+| CharName = Worf
+| Stars = 4
+| CMD = 21
+| DIP = 57
+| SEC = 42
+| Race = Klingon
+<!--Traits-->|Klingon|Hologram|Gambler|Villain|Crafty|Duelist}}
+{{MPCrewList
+| CrewName = Duelist Barclay
+| CharName = Barclay
+| Stars = 3
+| ENG = 42
+| SEC = 28
+| SCI = 27
+| Race = Human
+<!--Traits-->|Human|Starfleet|Federation|Innovator|Duelist}}
+{{MPCrewList
+| CrewName = Duelist Torres
+| CharName = Torres
+| Stars = 5
+| ENG = 68
+| SEC = 57
+| Race = Klingon
+<!--Traits-->|Athlete|Innovator|Jury Rigger|Human|Federation|Klingon|Maquis|Duelist|Cyberneticist}}
+{{MPCrewList
+| CrewName = Duelist Yar
+| CharName = Yar
+| Stars = 4
+| CMD = 21
+| DIP = 39
+| SEC = 50
+| Race = Human
+<!--Traits-->|Human|Starfleet|Duelist|Federation|Tactician|Desperate|Survivalist}}
+{{MPCrewList
+| CrewName = Durango Troi
+| CharName = Troi
+| Stars = 5
+| CMD = 57
+| DIP = 31
+| SEC = 64
+| Race = Betazoid
+<!--Traits-->|Empath|Constable|Scoundrel|Costumed|Federation|Starfleet|Betazoid|Human}}
+{{MPCrewList
+| CrewName = Edith Keeler
+| CharName = Keeler
+| Stars = 4
+| DIP = 42
+| MED = 52
+| Race = Human
+<!--Traits-->|Civilian|Caregiver|Inspiring|Cultural Figure|Romantic|Human}}
+{{MPCrewList
+| CrewName = Elizabeth Dehner
+| CharName = Dehner
+| Stars = 5
+| DIP = 52
+| SCI = 31
+| MED = 63
+| Race = Human
+<!--Traits-->|Human|Starfleet|Federation|Physician|Telekinetic}}
+{{MPCrewList
+| CrewName = Emergency Medical Holoprogram Mk. 1
+| CharName = Doctor (Character){{!}}Doctor
+| Stars = 2
+| MED = 32
+| SCI = 26
+| Race = Hologram
+<!--Traits-->|Hologram|Federation|Starfleet|Physician}}
+{{MPCrewList
+| CrewName = Emotion Chip Data
+| CharName = Data
+| Stars = 5
+| DIP = 64
+| ENG = 57
+| SCI = 31
+| Race = Android
+<!--Traits-->|Android|Starfleet|Federation|Cyberneticist|Resourceful|Musician}}
+{{MPCrewList
+| CrewName = Emperor Philippa Georgiou
+| CharName = Georgiou
+| Stars = 5
+| CMD = 73
+| DIP = 31
+| SEC = 57
+| Race = Human
+<!--Traits-->|Terran Empire|Mirror Universe|Human|Brutal|Empress}}
+{{MPCrewList
+| CrewName = Enabran Tain
+| CharName = Tain
+| Stars = 5
+| CMD = 74
+| DIP = 31
+| SEC = 52
+| Race = Cardassian
+<!--Traits-->|Cardassian|Obsidian Order|Interrogator|Spy|Desperate}}
+{{MPCrewList
+| CrewName = Enemy Lines Sisko
+| CharName = Sisko
+| Stars = 5
+| CMD = 73
+| DIP = 31
+| SEC = 57
+| Race = Human
+<!--Traits-->|Human|Federation|Starfleet|Bajoran|Cultural Figure|Inspiring|Tactician|Desperate|Diplomat}}
+{{MPCrewList
+| CrewName = Ensign Chapel
+| CharName = Chapel
+| Stars = 1
+| MED = 22
+| Race = Human
+<!--Traits-->|Human|Federation|Starfleet|Nurse}}
+{{MPCrewList
+| CrewName = Ensign Chekov
+| CharName = Chekov
+| Stars = 1
+| CMD = 22
+| SCI = 9
+| Race = Human
+<!--Traits-->|Human|Federation|Starfleet}}
+{{MPCrewList
+| CrewName = Ensign Crusher
+| CharName = Wesley
+| Stars = 3
+| CMD = 27
+| ENG = 31
+| SCI = 34
+| Race = Human
+<!--Traits-->|Human|Federation|Starfleet|Prodigy|Warp Theorist}}
+{{MPCrewList
+| CrewName = Ensign Kim
+| CharName = Kim
+| Stars = 1
+| ENG = 22
+| Race = Human
+<!--Traits-->|Human|Federation|Starfleet|Musician}}
+{{MPCrewList
+| CrewName = Ensign Mayweather
+| CharName = Mayweather
+| Stars = 1
+| CMD = 21
+| Race = Human
+<!--Traits-->|Human|Starfleet|Pilot}}
+{{MPCrewList
+| CrewName = Ensign Mendon
+| CharName = Mendon
+| Stars = 3
+| ENG = 32
+| SCI = 38
+| Race = Benzite
+<!--Traits-->|Benzite|Prodigy|Starfleet|Resourceful}}
+{{MPCrewList
+| CrewName = Ensign Ogawa
+| CharName = Ogawa
+| Stars = 1
+| MED = 22
+| Race = Human
+<!--Traits-->|Human|Federation|Starfleet|Nurse}}
+{{MPCrewList
+| CrewName = Ensign Pazlar
+| CharName = Melora
+| Stars = 2
+| CMD = 24
+| SCI = 32
+| Race = Elaysian
+<!--Traits-->|Elaysian|Starfleet|Federation|Resourceful|Astrophysicist}}
+{{MPCrewList
+| CrewName = Ensign Picard
+| CharName = Picard
+| Stars = 4
+| CMD = 50
+| DIP = 21
+| SEC = 38
+| Race = Human
+<!--Traits-->|Federation|Starfleet|Human|Desperate|Crafty}}
+{{MPCrewList
+| CrewName = Ensign Ro
+| CharName = Ro
+| Stars = 2
+| CMD = 32
+| Race = Bajoran
+<!--Traits-->|Bajoran|Starfleet|Resourceful}}
+{{MPCrewList
+| CrewName = Ensign Robin Lefler
+| CharName = Lefler
+| Stars = 3
+| CMD = 32
+| ENG = 38
+| Race = Human
+<!--Traits-->|Human|Federation|Starfleet|Innovator|Resourceful}}
+{{MPCrewList
+| CrewName = Ensign Sato
+| CharName = Sato
+| Stars = 2
+| DIP = 32
+| Race = Human
+<!--Traits-->|Human|Starfleet|Prodigy|Communicator}}
+{{MPCrewList
+| CrewName = Ensign Seska
+| CharName = Seska
+| Stars = 2
+| ENG = 32
+| SEC = 24
+| Race = Bajoran
+<!--Traits-->|Bajoran|Cardassian|Starfleet|Obsidian Order|Undercover Operative}}
+{{MPCrewList
+| CrewName = Ensign Tuvok
+| CharName = Tuvok
+| Stars = 1
+| DIP = 17
+| SCI = 20
+| Race = Vulcan
+<!--Traits-->|Vulcan|Federation|Starfleet|Telepath}}
+{{MPCrewList
+| CrewName = Ensign Vorik
+| CharName = Vorik
+| Stars = 3
+| ENG = 34
+| Race = Vulcan
+<!--Traits-->|Starfleet|Federation|Vulcan|Telepath}}
+{{MPCrewList
+| CrewName = Enterprise-D Picard
+| CharName = Picard
+| Stars = 2
+| CMD = 27
+| DIP = 32
+| SCI = 13
+| Race = Human
+<!--Traits-->|Human|Federation|Starfleet|Diplomat|Inspiring|Astrophysicist|Exoarchaeology|Tactician}}
+{{MPCrewList
+| CrewName = Enterprise-E Picard
+| CharName = Picard
+| Stars = 5
+| CMD = 57
+| DIP = 73
+| SEC = 31
+| Race = Human
+<!--Traits-->|Human|Federation|Starfleet|Inspiring|Astrophysicist|Exoarchaeology|Tactician|Musician}}
+{{MPCrewList
+| CrewName = Etana Jol
+| CharName = Jol
+| Stars = 5
+| DIP = 52
+| ENG = 73
+| SCI = 31
+| Race = Ktarian
+<!--Traits-->|Ktarian|Undercover Operative|Crafty|Villain|Saboteur}}
+{{MPCrewList
+| CrewName = EV Suit Archer
+| CharName = Archer
+| Stars = 5
+| CMD = 73
+| ENG = 31
+| SEC = 57
+| Race = Human
+<!--Traits-->|Human|Starfleet|Pilot|Explorer|Desperate|Jury Rigger|Hero}}
+{{MPCrewList
+| CrewName = EV Suit Burnham
+| CharName = Burnham
+| Stars = 5
+| DIP = 63
+| SEC = 52
+| SCI = 31
+| Race = Human
+<!--Traits-->|Federation|Starfleet|Astrophysicist|Human|Xenoanthropology|Resourceful|Duelist}}
+{{MPCrewList
+| CrewName = EV Suit Seven of Nine
+| CharName = Seven
+| Stars = 5
+| CMD = 31
+| SEC = 52
+| SCI = 63
+| Race = Borg
+<!--Traits-->|Borg|Human|Starfleet|Federation|Hunter|Astrophysicist}}
+{{MPCrewList
+| CrewName = EV Suit Tucker
+| CharName = Trip
+| Stars = 4
+| CMD = 42
+| ENG = 52
+| Race = Human
+<!--Traits-->|Human|Starfleet|Jury Rigger|Survivalist|Desperate}}
+{{MPCrewList
+| CrewName = Evil Kirk
+| CharName = Kirk
+| Stars = 4
+| CMD = 41
+| SEC = 57
+| Race = Human
+<!--Traits-->|Human|Federation|Starfleet|Brutal|Villain}}
+{{MPCrewList
+| CrewName = Evolved Janeway
+| CharName = Janeway
+| Stars = 5
+| DIP = 73
+| SEC = 31
+| SCI = 57
+| Race = Human
+<!--Traits-->|Starfleet|Federation|Primal|Desperate|Romantic|Evolved|Human}}
+{{MPCrewList
+| CrewName = Expedition Shran
+| CharName = Shran
+| Stars = 3
+| CMD = 16
+| DIP = 34
+| SEC = 28
+| Race = Andorian
+<!--Traits-->|Andorian|Tactician|Survivalist|Explorer|Investigator|Imperial Guard}}
+{{MPCrewList
+| CrewName = Expedition Vash
+| CharName = Vash
+| Stars = 3
+| DIP = 16
+| SEC = 34
+| SCI = 16
+| Race = Human
+<!--Traits-->|Human|Federation|Scoundrel|Explorer|Exoarchaeology|Smuggler|Civilian}}
+{{MPCrewList
+| CrewName = Falcon O'Brien
+| CharName = O'Brien
+| Stars = 5
+| CMD = 57
+| ENG = 31
+| SEC = 74
+| Race = Human
+<!--Traits-->|Human|Starfleet|Federation|Costumed|Villain|Hologram|Brutal|Scoundrel}}
+{{MPCrewList
+| CrewName = Feezal Phlox
+| CharName = Feezal
+| Stars = 4
+| DIP = 21
+| ENG = 42
+| SCI = 57
+| Race = Denobulan
+<!--Traits-->|Denobulan|Quantum Mechanics|Civilian|Romantic}}
+{{MPCrewList
+| CrewName = Fennim
+| CharName = Fennim (Character){{!}} Fennim
+| Stars = 5
+| CMD = 73
+| SCI = 52
+| MED = 31
+| Race = Unknown
+<!--Traits-->|Communicator|Scoundrel|Innovator|Prodigy|Thief}}
+{{MPCrewList
+| CrewName = Fencing Sulu
+| CharName = Sulu
+| Stars = 4
+| CMD = 42
+| SEC = 52
+| SCI = 22
+| Race = Human
+<!--Traits-->|Human|Federation|Starfleet|Pilot|Resourceful|Duelist}}
+{{MPCrewList
+| CrewName = Fesek
+| CharName = Fesek (Character){{!}}Fesek
+| Stars = 4
+| DIP = 39
+| ENG = 57
+| Race = Malon
+<!--Traits-->|Malon|Romantic|Inspiring|Resourceful}}
+{{MPCrewList
+| CrewName = Festive Jadzia Dax
+| CharName = J. Dax
+| Stars = 2
+| SCI = 32
+| DIP = 27
+| Race = Trill
+<!--Traits-->|Federation|Starfleet|Exobiology|Astrophysicist|Trill|Gambler|Pilot|Romantic|Pilot}}
+{{MPCrewList
+| CrewName = Festive Lwaxana Troi
+| CharName = Lwaxana
+| Stars = 4
+| CMD = 41
+| DIP = 52
+| Race = Betazoid
+<!--Traits-->|Federation|Diplomat|Betazoid|Romantic|Civilian|Telepath}}
+{{MPCrewList
+| CrewName = Fierce Guinan
+| CharName = Guinan
+| Stars = 4
+| DIP = 52
+| SEC = 42
+| Race = El-Aurian
+<!--Traits-->|Communicator|Counselor|El-Aurian|Bartender|Brutal|Empath|Survivalist|Civilian}}
+{{MPCrewList
+| CrewName = First Goran'Agar
+| CharName = Goran'Agar
+| Stars = 4
+| CMD = 58
+| DIP = 39
+| SEC = 22
+| Race = Jemhadar
+<!--Traits-->|Jemhadar|Dominion|Desperate|Survivalist|Hunter|Veteran}}
+{{MPCrewList
+| CrewName = First Maje Culluh
+| CharName = Culluh
+| Stars = 3
+| CMD = 43
+| SEC = 32
+| Race = Kazon
+<!--Traits-->|Kazon|Scoundrel}}
+{{MPCrewList
+| CrewName = First Maje Haron
+| CharName = Haron
+| Stars = 2
+| CMD = 26
+| SEC = 32
+| Race = Kazon
+<!--Traits-->|Kazon|Villain}}
+{{MPCrewList
+| CrewName = First Officer Burnham
+| CharName = Burnham
+| Stars = 5
+| CMD = 75
+| SEC = 32
+| SCI = 59
+| Race = Human
+<!--Traits-->|Federation|Starfleet|Astrophysicist|Human|Xenoanthropology|Resourceful}}
+{{MPCrewList
+| CrewName = Five of Twelve
+| CharName = Axum
+| Stars = 5
+| CMD = 73
+| ENG = 31
+| SEC = 53
+| Race = Borg
+<!--Traits-->|Borg|Inspiring|Desperate|Saboteur|Crafty|Undercover Operative}}
+{{MPCrewList
+| CrewName = First Officer Chekov
+| CharName = Chekov	
+| Stars = 5
+| CMD = 69
+| SEC = 31
+| SCI = 57
+| Race = Human
+<!--Traits-->|Human|Federation|Starfleet|Human|Resourceful|Tactician}}
+{{MPCrewList
+| CrewName = First Officer Riker
+| CharName = Riker
+| Stars = 5
+| CMD = 52
+| DIP = 31
+| SEC = 74
+| Race = Human
+<!--Traits-->|Human|Federation|Starfleet|Desperate|Marksman|Gambler}}
+{{MPCrewList
+| CrewName = First Officer Saru
+| CharName = Saru	
+| Stars = 4
+| SCI = 57
+| CMD = 42
+| Race = Kelpien
+<!--Traits-->|Kelpien|Federation|Starfleet|Exobiology|Survivalist}}
+{{MPCrewList
+| CrewName = Fleet Commander Martok
+| CharName = Martok
+| Stars = 2
+| CMD = 29
+| DIP = 13
+| SEC = 23
+| Race = Klingon
+<!--Traits-->|Klingon|Duelist|Veteran}}
+{{MPCrewList
+| CrewName = Florist Q
+| CharName = Q
+| Stars = 3
+| DIP = 38
+| SCI = 31
+| Race = Q
+<!--Traits-->|Crafty|Scoundrel|Costumed|Romantic}}
+{{MPCrewList
+| CrewName = Formal Dress Wesley Crusher
+| CharName = Wesley
+| Stars = 4
+| SCI = 52
+| ENG = 21
+| DIP = 39
+| Race = Human
+<!--Traits-->|Federation|Human|Prodigy|Warp Theorist|Starfleet}}
+{{MPCrewList
+| CrewName = Forra Gegen
+| CharName = Gegen
+| Stars = 4
+| SCI = 57
+| SEC = 21
+| ENG = 50
+| Race = Voth
+<!--Traits-->|Exoarchaeology|Exobiology|Voth|Resourceful|Maverick}}
+{{MPCrewList
+| CrewName = Frank Hollander
+| CharName = Data
+| Stars = 5
+| CMD = 68
+| SEC = 62
+| Race = Android
+<!--Traits-->|Android|Civilian|Costumed|Hologram|Marksman|Villain}}
+{{MPCrewList
+| CrewName = Friar Tuck Data
+| CharName = Data
+| Stars = 4
+| DIP = 41
+| ENG = 14
+| SEC = 30
+| Race = Android
+<!--Traits-->|Android|Federation|Starfleet|Counselor|Costumed|Cyberneticist|Cultural Figure|Duelist|Musician}}
+{{MPCrewList
+| CrewName = Fugitive Spock
+| CharName = Spock
+| Stars = 4
+| DIP = 21
+| SEC = 41
+| SCI = 57
+| Race = Vulcan
+<!--Traits-->|Starfleet|Federation|Exobiology|Artist|Astrophysicist|Human|Vulcan|Telepath}}
+{{MPCrewList
+| CrewName = Fury Kes
+| CharName = Kes
+| Stars = 5
+| SEC = 73
+| SCI = 31
+| MED = 57
+| Race = Ocampa
+<!--Traits-->|Ocampa|Civilian|Telepath|Botanist|Telekinetic|Prodigy|Brutal}}
+{{MPCrewList
+| CrewName = Gabriel Bell
+| CharName = Sisko
+| Stars = 4
+| CMD = 38
+| DIP = 50
+| SEC = 21
+| Race = Human
+<!--Traits-->|Federation|Starfleet|Bajoran|Human|Cultural Figure|Hero|Costumed|Chef}}
+{{MPCrewList
+| CrewName = Gaia Odo
+| CharName = Odo
+| Stars = 2
+| DIP = 29
+| SEC = 27
+| Race = Changeling
+<!--Traits-->|Changeling|Bajoran|Constable|Romantic|Communicator}}
+{{MPCrewList
+| CrewName = Galen
+| CharName = Picard
+| Stars = 4
+| DIP = 21
+| SEC = 39
+| SCI = 50
+| Race = Human
+<!--Traits-->|Human|Starfleet|Federation|Costumed|Brutal|Undercover Operative|Smuggler}}
+{{MPCrewList
+| CrewName = Gangster Kirk
+| CharName = Kirk
+| Stars = 5
+| CMD = 74
+| DIP = 57
+| SEC = 31
+| Race = Human
+<!--Traits-->|Federation|Starfleet|Civilian|Human|Marksman|Crafty|Criminal}}
+{{MPCrewList
+| CrewName = Gangster Spock
+| CharName = Spock
+| Stars = 5
+| ENG = 31
+| SEC = 63
+| SCI = 57
+| Race = Vulcan
+<!--Traits-->|Vulcan|Human|Federation|Starfleet|Civilian|Exobiology|Astrophysicist|Diplomat|Telepath|Costumed|Musician}}
+{{MPCrewList
+| CrewName = Garak, Elim Garak
+| CharName = Garak
+| Stars = 5
+| CMD = 74
+| DIP = 52
+| SEC = 31
+| Race = Cardassian  
+<!--Traits-->|Cardassian|Crafty|Resourceful|Undercover Operative|Costumed|Romantic|Hero}}
+{{MPCrewList
+| CrewName = Gary Seven
+| CharName = Gary Seven (Character){{!}}Gary Seven
+| Stars = 5
+| CMD = 31
+| SEC = 57
+| SCI = 73
+| Race = Human
+<!--Traits-->|Human|Hero|Resourceful|Undercover Operative}}
+{{MPCrewList
+| CrewName = General Chang
+| CharName = Chang
+| Stars = 5
+| CMD = 74
+| DIP = 31
+| SEC = 64
+| Race = Klingon
+<!--Traits-->|Klingon|Veteran|Villain|Hunter|Tactician}}
+{{MPCrewList
+| CrewName = General Martok
+| CharName = Martok
+| Stars = 4
+| CMD = 21
+| SEC = 57
+| Race = Klingon
+<!--Traits-->|Klingon|Duelist|Tactician|Diplomat|Veteran}}
+{{MPCrewList
+| CrewName = Geordi La Forge
+| CharName = La Forge
+| Stars = 2
+| CMD = 26
+| DIP = 13
+| ENG = 32
+| Race = Human
+<!--Traits-->|Human|Starfleet|Federation|Innovator|Cyberneticist}}
+{{MPCrewList
+| CrewName = GI Chakotay
+| CharName = Chakotay
+| Stars = 4
+| CMD = 50
+| DIP = 21
+| SEC = 39
+| Race = Human
+<!--Traits-->|Human|Starfleet|Hunter|Tactician|Survivalist|Costumed|Federation}}
+{{MPCrewList
+| CrewName = Gilora Rejal
+| CharName = Rejal
+| Stars = 3
+| CMD = 16
+| ENG = 31
+| SCI = 32
+| Race = Cardassian
+<!--Traits-->|Cardassian|High Command|Astrophysicist|Innovator|Romantic}}
+{{MPCrewList
+| CrewName = Gladiator McCoy
+| CharName = McCoy
+| Stars = 5
+| SEC = 74
+| MED = 57
+| Race = Human
+<!--Traits-->|Federation|Starfleet|Human|Physician|Desperate|Duelist|Athlete}}
+{{MPCrewList
+| CrewName = Gladiator Spock
+| CharName = Spock
+| Stars = 5
+| DIP = 31
+| SEC = 68
+| SCI = 57
+| Race = Vulcan
+<!--Traits-->|Starfleet|Federation|Exobiology|Musician|Astrophysicist|Human|Vulcan|Telepath|Prisoner|Duelist|Athlete}}
+{{MPCrewList
+| CrewName = Glinn Damar
+| CharName = Damar
+| Stars = 2
+| CMD = 27
+| SEC = 32
+| Race = Cardassian
+<!--Traits-->|Cardassian}}
+{{MPCrewList
+| CrewName = Gloria
+| CharName = Guinan
+| Stars = 5
+| CMD = 57
+| DIP = 63
+| MED = 31
+| Race = El-Aurian 
+<!--Traits-->|Communicator|Civilian|Counselor|Bartender|Empath|Costumed|El-Aurian}}
+{{MPCrewList
+| CrewName = Goddess of Empathy Troi
+| CharName = Troi
+| Stars = 5
+| DIP = 57 
+| MED = 74
+| Race = Hologram
+<!--Traits-->|Empath|Cultural Figure|Hologram|Inspiring}}
+{{MPCrewList
+| CrewName = Gorn Captain
+| CharName = Gorn (Character){{!}}Gorn
+| Stars = 4
+| CMD = 42
+| SEC = 57
+| Race = Gorn
+<!--Traits-->|Brutal|Duelist|Gorn|Veteran|Desperate}}
+{{MPCrewList
+| CrewName = Governor Worf
+| CharName = Worf
+| Stars = 5
+| CMD = 63
+| DIP = 31
+| SEC = 52
+| Race = Klingon
+<!--Traits-->|Klingon|Tactician|Federation|Duelist|Brutal}}
+{{MPCrewList
+| CrewName = Graduation Michael Burnham
+| CharName = Burnham
+| Stars = 4
+| ENG = 42
+| SCI = 57
+| Race = Human
+<!--Traits-->|Federation|Civilian|Astrophysicist|Xenoanthropology|Human}}
+{{MPCrewList
+| CrewName = Gralik Durr
+| CharName = Gralik (Character){{!}}Gralik
+| Stars = 4
+| ENG = 42
+| SCI = 52
+| Race = Xindi
+<!--Traits-->|Xindi|Saboteur|Hero|Innovator}}
+{{MPCrewList
+| CrewName = Grand Nagus Rom
+| CharName = Rom
+| Stars = 5
+| CMD = 31
+| DIP = 73
+| ENG = 57
+| Race = Ferengi
+<!--Traits-->|Ferengi|Bajoran|Diplomat|Cultural Figure}}
+{{MPCrewList
+| CrewName = Grand Nagus Zek
+| CharName = Zek
+| Stars = 5
+| CMD = 57
+| DIP = 63
+| SEC = 31
+| Race = Ferengi
+<!--Traits-->|Ferengi|Cultural Figure|Scoundrel|Gambler|Merchant|Lord|Rich}}
+{{MPCrewList
+| CrewName = Grand Proxy Neelix
+| CharName = Neelix
+| Stars = 4
+| CMD = 50
+| DIP = 21
+| ENG = 39
+| Race = Talaxian
+<!--Traits-->|Talaxian|Mylean|Ferengi|Crafty|Cultural Figure|Undercover Operative}}
+{{MPCrewList
+| CrewName = Grilka
+| CharName = Grilka (Character){{!}}Grilka
+| Stars = 5
+| CMD = 52
+| DIP = 73
+| SEC = 31
+| Race = Klingon
+<!--Traits-->|Klingon|Romantic|Brutal|Resourceful|Tactician}}
+{{MPCrewList
+| CrewName = Groundskeeper Boothby
+| CharName = Boothby
+| Stars = 3
+| CMD = 28
+| DIP = 16
+| MED = 34
+| Race = Human
+<!--Traits-->|Federation|Civilian|Human|Botanist|Communicator}}
+{{MPCrewList
+| CrewName = Gul Madred
+| CharName = Madred
+| Stars = 5
+| CMD = 57
+| DIP = 31
+| SEC = 64
+| Race = Cardassian
+<!--Traits-->|Cardassian|Interrogator|Brutal|Survivalist|Veteran}}
+{{MPCrewList
+| CrewName = Gunslinger Uhura
+| CharName = Uhura
+| Stars = 5
+| CMD = 31
+| DIP = 57
+| SEC = 63
+| Race = Human
+<!--Traits-->|Human|Federation|Starfleet|Communicator|Resourceful|Costumed|Marksman|Smuggler}}
+{{MPCrewList
+| CrewName = H.M.S. Pinafore Data
+| CharName = Data
+| Stars = 5
+| CMD = 57
+| ENG = 73
+| SCI = 31
+| Race = Android
+<!--Traits-->|Android|Starfleet|Federation|Cyberneticist|Resourceful|Musician}}
+{{MPCrewList
+| CrewName = Harcourt Fenton Mudd
+| CharName = Mudd
+| Stars = 5
+| DIP = 74
+| SCI = 57
+| Race = Human
+<!--Traits-->|Human|Civilian|Scoundrel|Crafty|Smuggler|Resourceful|Survivalist}}
+{{MPCrewList
+| CrewName = Herbert Rossoff
+| CharName = Quark
+| Stars = 4
+| CMD = 52
+| DIP = 41
+| Race = Human
+<!--Traits-->|Human|Crafty|Civilian|Veteran|Innovator|Writer|Resourceful|Communicator}}
+{{MPCrewList
+| CrewName = High Roller Sisko
+| CharName = Sisko
+| Stars = 5
+| CMD = 52
+| DIP = 31
+| SEC = 63
+| Race = Human
+<!--Traits-->|Human|Federation|Starfleet|Bajoran|Cultural Figure|Gambler|Thief|Crafty}}
+{{MPCrewList
+| CrewName = Hockey Kim
+| CharName = Kim
+| Stars = 3
+| CMD = 16
+| ENG = 34
+| SEC = 32
+| Race = Human
+<!--Traits-->|Starfleet|Federation|Human|Athlete|Costumed|Musician}}
+{{MPCrewList
+| CrewName = Hockey Paris
+| CharName = Paris
+| Stars = 3
+| CMD = 34
+| DIP = 16
+| SEC = 28
+| Race = Human
+<!--Traits-->|Human|Starfleet|Federation|Pilot|Maverick|Athlete|Gambler|Costumed}}
+{{MPCrewList
+| CrewName = Holodeck 3 Dr. Brahms
+| CharName = Brahms
+| Stars = 3
+| ENG = 28
+| SCI = 34 
+| Race = Human
+<!--Traits-->|Federation|Starfleet|Civilian|Hologram|Human|Cyberneticist|Warp Theorist}}
+{{MPCrewList
+| CrewName = Hologram Barclay
+| CharName = Barclay
+| Stars = 4
+| ENG = 57
+| SCI = 42
+| Race = Hologram
+<!--Traits-->|Hologram|Starfleet|Federation|Innovator|Astrophysicist}}
+{{MPCrewList
+| CrewName = Holonovel Doctor
+| CharName = Doctor (Character){{!}}Doctor
+| Stars = 4
+| SCI = 57
+| MED = 57
+| Race = Hologram
+<!--Traits-->|Hologram|Federation|Starfleet|Physician|Scoundrel|Musician}}
+{{MPCrewList
+| CrewName = Honey Bare Jadzia
+| CharName = J. Dax
+| Stars = 5
+| DIP = 31
+| ENG = 52
+| SCI = 63
+| Race = Trill
+<!--Traits-->|Hologram|Geologist|Romantic|Desperate|Trill}}
+{{MPCrewList
+| CrewName = Hugh
+| CharName = Hugh (Character){{!}}Hugh
+| Stars = 3
+| DIP = 28
+| ENG = 16
+| SEC = 42
+| Race = Borg
+<!--Traits-->|Borg|Maverick|Cultural Figure}}
+{{MPCrewList
+| CrewName = Human Q
+| CharName = Q 
+| Stars = 4
+| DIP = 21
+| ENG = 52
+| SCI = 42
+| Race = Q
+<!--Traits-->|Desperate|Crafty|Scoundrel|Astrophysicist|Human}}
+{{MPCrewList
+| CrewName = Human Torres
+| CharName = Torres
+| Stars = 5
+| CMD = ??
+| ENG = ??
+| Race = Human
+<!--Traits-->|Jury Rigger|Human|Federation|Starfleet|Maquis|Prisoner|Cyberneticist}}
+{{MPCrewList
+| CrewName = Humbled Archer
+| CharName = Archer
+| Stars = 5
+| CMD = 31
+| DIP = 63
+| MED = 52
+| Race = Human
+<!--Traits-->|Human|Starfleet|Pilot|Explorer|Communicator|Desperate}}
+{{MPCrewList
+| CrewName = Icheb
+| CharName = Icheb (Character){{!}}Icheb 
+| Stars = 4
+| ENG = 52
+| SCI = 39
+| Race = Brunali
+<!--Traits-->|Civilian|Brunali|Borg|Astrophysicist|Prodigy|Innovator}}
+{{MPCrewList
+| CrewName = Idrin
+| CharName = Idrin (Character){{!}}Idrin
+| Stars = 3
+| CMD = 16
+| SEC = 43
+| Race = Hirogen
+<!--Traits-->|Hirogen|Hunter|Duelist|Marksman|Survivalist|Tactician}}
+{{MPCrewList
+| CrewName = Ikat'ika
+| CharName = Ikat'ika (Character){{!}}Ikat'ika
+| Stars = 4
+| CMD = 41
+| SEC = 58
+| Race = Jemhadar
+<!--Traits-->|Jemhadar|Dominion|Brutal|Veteran}}
+{{MPCrewList
+| CrewName = Ilia Probe
+| CharName = Ilia
+| Stars = 5
+| DIP = 58
+| SCI = 74
+| Race = Deltan
+<!--Traits-->|Deltan|Romantic|Communicator|Probe|Android}}
+{{MPCrewList
+| CrewName = Imprinted Archer
+| CharName = Archer
+| Stars = 5
+| ENG = 62
+| SCI = 31
+| MED = 68
+| Race = Human
+<!--Traits-->|Human|Starfleet|Explorer|Desperate|Caregiver}}
+{{MPCrewList
+| CrewName = Incognito Kirk
+| CharName = Kirk
+| Stars = 4
+| CMD = 57
+| DIP = 21
+| SCI = 38
+| Race = Human
+<!--Traits-->|Human|Federation|Starfleet|Inspiring|Undercover Operative|Investigator}}
+{{MPCrewList
+| CrewName = Inglatu
+| CharName = Inglatu (Character){{!}}Inglatu
+| Stars = 5
+| DIP = 73
+| SEC = 57
+| Race = Dosi
+<!--Traits-->|Dosi|Merchant|Brutal|Communicator}}
+{{MPCrewList
+| CrewName = Interfaced Barclay
+| CharName = Barclay
+| Stars = 5
+| CMD = 74
+| ENG = 57
+| SCI = 31
+| Race = Human
+<!--Traits-->|Innovator|Quantum Mechanics|Prodigy|Human|Federation|Resourceful}}
+{{MPCrewList
+| CrewName = Interfaced La Forge
+| CharName = La Forge
+| Stars = 5
+| DIP = 73
+| ENG = 52
+| SCI = 31
+| Race = Human
+<!--Traits-->|Human|Starfleet|Federation|Cyberneticist|Innovator|Communicator|Hero}}
+{{MPCrewList
+| CrewName = Investigator Odo
+| CharName = Odo
+| Stars = 1
+| SEC = 22
+| Race = Changeling
+<!--Traits-->|Changeling|Cardassian|Investigator|Interrogator}}
+{{MPCrewList
+| CrewName = Irina
+| CharName = Irina (Character){{!}}Irina
+| Stars = 5
+| CMD = 31
+| ENG = 73
+| SEC = 52
+| Race = Terrellian
+<!--Traits-->|Pilot|Crafty|Terrellian|Saboteur|Criminal|Tactician|Jury Rigger}}
+{{MPCrewList
+| CrewName = Irumodic Syndrome Picard
+| CharName = Picard
+| Stars = 4
+| CMD = 21
+| DIP = 38
+| SCI = 50
+| Race = Human
+<!--Traits-->|Human|Civilian|Veteran|Cultural Figure|Federation|Gardener}}
+{{MPCrewList
+| CrewName = Jannar
+| CharName = Jannar (Character){{!}}Jannar
+| Stars = 4
+| DIP = 50
+| ENG = 21
+| SCI = 39
+| Race = Xindi
+<!--Traits-->|Counselor|Diplomat|Xindi|Investigator}}
+{{MPCrewList
+| CrewName = Jazz Musician Odo
+| CharName = Odo
+| Stars = 5
+| DIP = 74
+| SEC = 57
+| Race = Changeling
+<!--Traits-->|Changeling|Bajoran|Constable|Costumed|Romantic|Musician}}
+{{MPCrewList
+| CrewName = Jazz Musician Riker
+| CharName = Riker
+| Stars = 3
+| CMD = 38
+| DIP = 32
+| Race = Human
+<!--Traits-->|Federation|Human|Musician|Starfleet|Pilot|Maverick|Gambler|Romantic}}
+{{MPCrewList
+| CrewName = Joachim
+| CharName = Joachim (Character){{!}}Joachim
+| Stars = 5
+| CMD = 57
+| SEC = 68
+| Race = Human
+<!--Traits-->|Human|Augment|Villain|Tactician|Pilot}}
+{{MPCrewList
+| CrewName = Joseph Sisko
+| CharName = Joseph
+| Stars = 5
+| DIP = 73
+| SCI = 57
+| Race = Human
+<!--Traits-->|Human|Resourceful|Caregiver|Chef|Federation|Civilian|Communicator}}
+{{MPCrewList
+| CrewName = Judge Q
+| CharName = Q
+| Stars = 5
+| CMD = 57
+| DIP = 31
+| SEC = 73
+| Race = Q
+<!--Traits-->|Crafty|Costumed|Scoundrel|Brutal}}
+{{MPCrewList
+| CrewName = Juliana Tainer
+| CharName = Tainer
+| Stars = 5
+| DIP = 31
+| SCI = 63
+| MED = 57
+| Race = Android
+<!--Traits-->|Android|Musician|Caregiver|Civilian|Cyberneticist|Federation}}
+{{MPCrewList
+| CrewName = K'mtar
+| CharName = K'mtar	
+| Stars = 4
+| DIP = 38
+| SEC = 21
+| SCI = 38
+| Race = Klingon
+<!--Traits-->|Human|Klingon|Diplomat|Undercover Operative|Desperate|Temporal Agent}}
+{{MPCrewList
+| CrewName = Kahless the Unforgettable
+| CharName = Kahless	
+| Stars = 5
+| CMD = 63
+| DIP = 31
+| SEC = 52
+| Race = Klingon
+<!--Traits-->|Klingon|Cultural Figure|Inspiring|Duelist|Hero|Clone|Royalty}}
+{{MPCrewList
+| CrewName = Kai Opaka
+| CharName = Opaka
+| Stars = 5
+| CMD = 32
+| DIP = 74
+| Race = Bajoran
+<!--Traits-->|Bajoran|Cultural Figure|Spiritual|Communicator|Kai|Inspiring}}
+{{MPCrewList
+| CrewName = Kal-if-fee Kirk
+| CharName = Kirk
+| Stars = 5
+| CMD = 31
+| DIP = 68
+| SEC = 63
+| Race = Human
+<!--Traits-->|Human|Federation|Starfleet|Romantic|Inspiring|Duelist}}
+{{MPCrewList
+| CrewName = Kal-if-fee Spock
+| CharName = Spock
+| Stars = 4
+| CMD = 38
+| SEC = 50
+| SCI = 42
+| Race = Vulcan
+<!--Traits-->|Federation|Starfleet|Human|Vulcan|Exobiology|Astrophysicist|Duelist|Telepath|Musician}}
+{{MPCrewList
+| CrewName = Kathryn Janeway
+| CharName = Janeway
+| Stars = 2
+| CMD = 32
+| SCI = 27
+| DIP = 13
+| Race = Human
+<!--Traits-->|Human|Federation|Starfleet|Resourceful|Gambler }}
+{{MPCrewList
+| CrewName = Katra McCoy
+| CharName = McCoy	
+| Stars = 4
+| DIP = 39
+| SCI = 21
+| MED = 50
+| Race = Human
+<!--Traits-->|Human|Vulcan|Federation|Starfleet|Desperate|Physician}}
+{{MPCrewList
+| CrewName = Katrine
+| CharName = Janeway
+| Stars = 5
+| CMD = 57
+| SEC = 59
+| SCI = 51
+| Race = Human
+<!--Traits-->|Human|Federation|Starfleet|Crafty|Desperate|Gambler|Saboteur}}
+{{MPCrewList
+| CrewName = Kazon Seska
+| CharName = Seska
+| Stars = 4
+| CMD = 42
+| ENG = 52
+| SEC = 38
+| Race = Bajoran
+<!--Traits-->|Bajoran|Cardassian|Kazon|Obsidian Order|Undercover Operative|Villain}}
+{{MPCrewList
+| CrewName = KDF Alexander
+| CharName = Alexander
+| Stars = 2
+| CMD = 9
+| ENG = 26
+| SEC = 32
+| Race = Klingon
+<!--Traits-->|Klingon|Human}}
+{{MPCrewList
+| CrewName = KDF Gowron
+| CharName = Gowron
+| Stars = 4
+| CMD = 41
+| DIP = 57
+| SEC = 21
+| Race = Klingon
+<!--Traits-->|Klingon|Duelist|Diplomat}}
+{{MPCrewList
+| CrewName = Keevan
+| CharName = Keevan (Character){{!}}Keevan
+| Stars = 3
+| CMD = 34
+| DIP = 28
+| Race = Vorta
+<!--Traits-->|Vorta|Dominion|Clone|Crafty|Brutal}}
+{{MPCrewList
+| CrewName = Keyla Detmer
+| CharName = Detmer
+| Stars = 4
+| CMD = 50
+| ENG = 41
+| SEC = 21
+| Race = Human
+<!--Traits-->|Starfleet|Federation|Pilot|Human|Explorer|Engineered}}
+{{MPCrewList
+| CrewName = Kilana
+| CharName = Kilana (Character){{!}}Kilana
+| Stars = 4
+| CMD = 42
+| DIP = 57
+| Race = Vorta
+<!--Traits-->|Vorta|Crafty|Dominion|Scoundrel}}
+{{MPCrewList
+| CrewName = Klingon Bride Jadzia
+| CharName = J. Dax
+| Stars = 5
+| DIP = 74
+| SEC = 31
+| SCI = 57
+| Race = Trill
+<!--Traits-->|Federation|Starfleet|Exobiology|Astrophysicist|Trill|Romantic|Klingon|Gambler|Pilot}}
+{{MPCrewList
+| CrewName = Klingon Dukat
+| CharName = Dukat
+| Stars = 3
+| CMD = 43
+| DIP = 31
+| SEC = 16
+| Race = Cardassian
+<!--Traits-->|Cardassian|Klingon|Brutal|Veteran}}
+{{MPCrewList
+| CrewName = Klingon Janeway
+| CharName = Janeway	
+| Stars = 5
+| CMD = 31
+| SEC = 68
+| SCI = 57
+| Race = Human
+<!--Traits-->|Klingon|Human|Brutal|Duelist|Veteran|Survivalist}}
+{{MPCrewList
+| CrewName = Klingon Neelix
+| CharName = Neelix
+| Stars = 4
+| DIP = 42
+| SEC = 52
+| Race = Talaxian
+<!--Traits-->|Talaxian|Mylean|Klingon|Brutal|Chef|Survivalist}}
+{{MPCrewList
+| CrewName = Klingon O'Brien
+| CharName = O'Brien
+| Stars = 4
+| DIP = 57
+| ENG = 42
+| SEC = 21
+| Race = Human
+<!--Traits-->|Starfleet|Federation|Klingon|Human|Jury Rigger|Undercover Operative|Duelist|Veteran}}
+{{MPCrewList
+| CrewName = Klingon Quark
+| CharName = Quark
+| Stars = 4
+| CMD = 41
+| DIP = 42
+| SEC = 41
+| Race = Ferengi
+<!--Traits-->|Ferengi|Klingon|Scoundrel|Gambler}}
+{{MPCrewList
+| CrewName = Klingon Torres
+| CharName = Torres
+| Stars = 4
+| ENG = 42
+| SEC = 57
+| Race = Klingon
+<!--Traits-->|Klingon|Civilian|Brutal|Duelist|Desperate }}
+{{MPCrewList
+| CrewName = Kol of House Kor
+| CharName = Kol
+| Stars = 5
+| CMD = 57
+| DIP = 31
+| SEC = 73
+| Race = Klingon
+<!--Traits-->|Klingon|Brutal|Duelist|Cultural Figure|Hunter}}
+{{MPCrewList
+| CrewName = Kolinahr Spock
+| CharName = Spock
+| Stars = 5
+| CMD = 57
+| DIP = 53
+| SCI = 31
+| Race = Vulcan
+<!--Traits-->|Federation|Civilian|Exobiology|Musician|Astrophysicist|Human|Vulcan|Telepath|Spiritual}}
+{{MPCrewList
+| CrewName = Koloth
+| CharName = Koloth (Character){{!}}Koloth
+| Stars = 3
+| CMD = 25
+| DIP = 34
+| SEC = 16
+| Race = Klingon
+<!--Traits-->|Klingon|Diplomat|Tactician|Duelist}}
+{{MPCrewList
+| CrewName = Kortar
+| CharName = Kortar (Character){{!}}Kortar 
+| Stars = 5
+| CMD = 52
+| DIP = 31
+| SEC = 63
+| Race = Klingon
+<!--Traits-->|Klingon|Cultural Figure|Brutal|Duelist|Hero|Cursed|Veteran}}
+{{MPCrewList
+| CrewName = Krenim Guest Paris
+| CharName = Paris
+| Stars = 5
+| CMD = 57
+| DIP = 53
+| ENG = 31
+| Race = Human
+<!--Traits-->|Prisoner|Human|Resourceful|Federation|Starfleet|Diplomat|Pilot}}
+{{MPCrewList
+| CrewName = Kurak
+| CharName = Kurak (Character){{!}}Kurak
+| Stars = 4
+| DIP = 21
+| ENG = 39
+| SCI = 57
+| Race = Klingon
+<!--Traits-->|Klingon|Innovator|Astrophysicist|Warp Theorist}}
+{{MPCrewList
+| CrewName = Kurros
+| CharName = Kurros (Character){{!}}Kurros
+| Stars = 4
+| CMD = 42
+| DIP = 52
+| Race = Unknown
+<!--Traits-->|Resourceful|Tactician|Communicator|Scoundrel|Thief|Prodigy|Innovator}}
+{{MPCrewList
+| CrewName = Laas
+| CharName = Laas (Character){{!}}Laas 
+| Stars = 4
+| DIP = 42
+| SEC = 27
+| SCI = 52
+| Race = Changeling
+<!--Traits-->|Explorer|Changeling|Civilian|Prodigy|Hunter|Survivalist}}
+{{MPCrewList
+| CrewName = Laborer Spock
+| CharName = Spock
+| Stars = 5
+| ENG = 57
+| SCI = 74
+| Race = Vulcan
+<!--Traits-->|Federation|Starfleet|Exobiology|Astrophysicist|Human|Vulcan|Telepath|Jury Rigger|Communicator|Thief|Resourceful|Musician}}
+{{MPCrewList
+| CrewName = Lady Beverly
+| CharName = Crusher
+| Stars = 4
+| CMD = 21
+| DIP = 50
+| MED = 38
+| Race = Human
+<!--Traits-->|Human|Caregiver|Hologram|Romantic}}
+{{MPCrewList
+| CrewName = Lal
+| CharName = Lal (Character){{!}}Lal 
+| Stars = 4
+| DIP = 22
+| ENG = 52
+| Race = Android
+<!--Traits-->|Android|Federation|Prodigy}}
+{{MPCrewList
+| CrewName = Layna
+| CharName = Layna
+| Stars = 5
+| CMD = 31
+| DIP = 73
+| SCI = 57
+| Race = Unknown
+<!--Traits-->|Artist|Inspiring|Civilian|Desperate|Romantic|Communicator}}
+{{MPCrewList
+| CrewName = Leonardo da Vinci
+| CharName = da Vinci
+| Stars = 5
+| ENG = 55
+| SCI = 72
+| MED = 31
+| Race = Human
+<!--Traits-->|Hologram|Prodigy|Inspiring|Innovator|Civilian|Human|Artist|Cultural Figure}}
+{{MPCrewList
+| CrewName = Lewis Zimmerman
+| CharName = Zimmerman
+| Stars = 4
+| ENG = 57
+| SCI = 38
+| MED = 21
+| Race = Human
+<!--Traits-->|Starfleet|Federation|Human|Innovator|Desperate|Resourceful}}
+{{MPCrewList
+| CrewName = Liaison Torres
+| CharName = Torres
+| Stars = 4
+| CMD = 13
+| DIP = 50
+| ENG = 42
+| Race = Klingon
+<!--Traits-->|Federation|Human|Klingon|Civilian|Diplomat|Cyberneticist}}
+{{MPCrewList
+| CrewName = Lieutenant Arex Na Eth
+| CharName = Arex
+| Stars = 4
+| CMD = 50
+| DIP = 21
+| SCI = 39
+| Race = Edosian
+<!--Traits-->|Edosian|Starfleet|Musician|Pilot|Explorer|Astrophysicist}}
+{{MPCrewList
+| CrewName = Lieutenant Chekov
+| CharName = Chekov
+| Stars = 4
+| CMD = 38
+| SEC = 52
+| SCI = 21
+| Race = Human
+<!--Traits-->|Federation|Starfleet|Human|Resourceful|Tactician}}
+{{MPCrewList
+| CrewName = Lieutenant Commander Saru
+| CharName = Saru
+| Stars = 2
+| CMD = 26
+| SCI = 32
+| Race = Kelpien
+<!--Traits-->|Kelpien|Federation|Starfleet|Exobiology|Survivalist}}
+{{MPCrewList
+| CrewName = Lieutenant Saavik
+| CharName = Saavik
+| Stars = 3
+| CMD = 28
+| DIP = 27
+| SCI = 34
+| Race = Vulcan
+<!--Traits-->|Vulcan|Starfleet|Federation|Resourceful|Telepath}}
+{{MPCrewList
+| CrewName = Lieutenant Tarah
+| CharName = Tarah
+| Stars = 4
+| DIP = 42
+| SEC = 52
+| Race = Andorian
+<!--Traits-->|Andorian|Imperial Guard|Saboteur|Brutal|Marksman}}
+{{MPCrewList
+| CrewName = Lieutenant Valeris
+| CharName = Valeris
+| Stars = 4
+| CMD = 14
+| SEC = 50
+| SCI = 39
+| Race = Vulcan
+<!--Traits-->|Vulcan|Saboteur|Starfleet|Federation|Resourceful|Telepath}}
+{{MPCrewList
+| CrewName = Lieutenant Wesley Crusher
+| CharName = Wesley
+| Stars = 5
+| ENG = 74
+| SEC = 57
+| SCI = 31
+| Race = Human
+<!--Traits-->|Human|Federation|Starfleet|Prodigy|Warp Theorist|Tactician}}
+{{MPCrewList
+| CrewName = Lily Sloane
+| CharName = Lily
+| Stars = 4
+| DIP = 39
+| ENG = 50
+| SEC = 21
+| Race = Human
+<!--Traits-->|Civilian|Jury Rigger|Desperate|Communicator|Crafty|Resourceful}}
+{{MPCrewList
+| CrewName = Lissan
+| CharName = Lissan
+| Stars = 5
+| CMD = 57
+| DIP = 73
+| Race = Andorian
+<!--Traits-->|Andorian|Aenar|Diplomat|Telepath|Civilian|Communicator}}
+{{MPCrewList
+| CrewName = Locutus of Borg
+| CharName = Picard
+| Stars = 5
+| DIP = 74
+| SEC = 57
+| SCI = 31
+| Race = Borg
+<!--Traits-->|Borg|Human|Diplomat|Cyberneticist|Brutal|Duelist|Cultural Figure}}
+{{MPCrewList
+| CrewName = Lon Suder
+| CharName = Suder
+| Stars = 4
+| ENG = 29
+| SEC = 50
+| SCI = 21
+| Race = Betazoid
+<!--Traits-->|Maquis|Federation|Starfleet|Betazoid|Brutal|Botanist|Saboteur|Telepath}}
+{{MPCrewList
+| CrewName = Lonzak
+| CharName = Lonzak (Character){{!}}Lonzak
+| Stars = 5
+| CMD = 57
+| ENG = 31
+| SEC = 73
+| Race = Hologram
+<!--Traits-->|Hologram|Villain|Brutal|Veteran|Romantic|Marksman}}
+{{MPCrewList
+| CrewName = Loque'eque Sato
+| CharName = Sato
+| Stars = 5
+| DIP = 73
+| SCI = 57
+| Race = Human
+<!--Traits-->|Desperate|Loque'eque|Survivalist|Primal}}
+{{MPCrewList
+| CrewName = Lore
+| CharName = Lore (Character){{!}}Lore
+| Stars = 4
+| DIP = 32
+| ENG = 57
+| SCI = 16
+| Race = Android
+<!--Traits-->|Android|Civilian|Villain|Cyberneticist}}
+{{MPCrewList
+| CrewName = Losira
+| CharName = Losira
+| Stars = 2
+| CMD = 23
+| ENG = 13
+| SEC = 27
+| Race = Kalandan
+<!--Traits-->|Hologram|Kalandan|Brutal}}
+{{MPCrewList
+| CrewName = L'Rell
+| CharName = L'Rell (Character){{!}}L'Rell
+| Stars = 2
+| DIP = 23
+| SEC = 27
+| Race = Klingon
+<!--Traits-->|Klingon|Cultural Figure|Brutal}}
+{{MPCrewList
+| CrewName = Lt. Ash Tyler
+| CharName = Tyler
+| Stars = 4
+| SEC = 52
+| CMD = 42
+| Race = Klingon
+<!--Traits-->|Human|Federation|Starfleet|Survivalist|Tactician|Marksman|Pilot}}
+{{MPCrewList
+| CrewName = Lt Commander Airiam
+| CharName = Airiam
+| Stars = 4
+| CMD = 38
+| DIP = 21
+| SCI = 57
+| Race = Human
+<!--Traits-->|Federation|Starfleet|Astrophysicist|Resourceful|Prodigy|Human|Engineered}}
+{{MPCrewList
+| CrewName = Lt Commander Data
+| CharName = Data
+| Stars = 2
+| ENG = 32
+| SEC = 13
+| SCI = 31
+| Race = Android
+<!--Traits-->|Android|Federation|Starfleet|Cyberneticist|Musician}}
+{{MPCrewList
+| CrewName = Lt. Commander Jack Crusher
+| CharName = J. Crusher
+| Stars = 3
+| CMD = 42
+| SCI = 27
+| Race = Human
+<!--Traits-->|Starfleet|Federation|Hologram|Romantic|Inspiring}}
+{{MPCrewList
+| CrewName = Lt Commander Jadzia Dax
+| CharName = J. Dax
+| Stars = 5
+| DIP = 57
+| ENG = 31
+| SCI = 73
+| Race = Trill
+<!--Traits-->|Trill|Federation|Starfleet|Exobiology|Astrophysicist|Gambler|Pilot}}
+{{MPCrewList
+| CrewName = Lt Commander La Forge
+| CharName = La Forge
+| Stars = 5
+| CMD = 31
+| ENG = 73
+| SCI = 57
+| Race = Human
+<!--Traits-->|Human|Starfleet|Federation|Innovator|Cyberneticist}}
+{{MPCrewList
+| CrewName = Lt Commander Nella Daren
+| CharName = Daren
+| Stars = 3
+| CMD = 28
+| SCI = 38
+| Race = Human
+<!--Traits-->|Federation|Starfleet|Human|Astrophysicist|Musician}}
+{{MPCrewList
+| CrewName = Lt Commander Scott
+| CharName = Scotty
+| Stars = 2
+| ENG = 32
+| Race = Human
+<!--Traits-->|Human|Starfleet|Federation|Jury Rigger}}
+{{MPCrewList
+| CrewName = Lt Jadzia Dax
+| CharName = J. Dax
+| Stars = 1
+| ENG = 21
+| SCI = 22
+| Race = Trill
+<!--Traits-->|Trill|Federation|Starfleet|Exobiology|Astrophysicist|Gambler|Pilot}}
+{{MPCrewList
+| CrewName = Lt Naomi Wildman
+| CharName = Naomi
+| Stars = 2
+| DIP = 24
+| ENG = 29
+| Race = Ktarian
+<!--Traits-->|Human|Ktarian|Starfleet|Federation|Resourceful}}
+{{MPCrewList
+| CrewName = Lt Sulu
+| CharName = Sulu
+| Stars = 1
+| CMD = 16
+| SEC = 20
+| Race = Human
+<!--Traits-->|Human|Starfleet|Federation|Pilot|Resourceful|Tactician}}
+{{MPCrewList
+| CrewName = Lt Tasha Yar
+| CharName = Yar
+| Stars = 2
+| SEC = 32
+| Race = Human
+<!--Traits-->|Human|Starfleet|Federation|Duelist|Survivalist}}
+{{MPCrewList
+| CrewName = Lt Thomas Riker
+| CharName = Riker
+| Stars = 1
+| ENG = 19
+| SEC = 26
+| Race = Human
+<!--Traits-->|Human|Federation|Starfleet|Survivalist|Resourceful|Desperate|Romantic}}
+{{MPCrewList
+| CrewName = Lucien
+| CharName = Lucien (Character){{!}}Lucien
+| Stars = 4
+| CMD = 21
+| DIP = 52
+| SCI = 39
+| Race = Megan
+<!--Traits-->|Crafty|Cultural Figure|Explorer|Resourceful}}
+{{MPCrewList
+| CrewName = Lucille Davenport
+| CharName = Janeway
+| Stars = 5
+| CMD = 52
+| DIP = 63
+| SCI = 31
+| Race = Human
+<!--Traits-->|Starfleet|Federation|Costumed|Resourceful|Romantic|Human}}
+{{MPCrewList
+| CrewName = Lursa Duras
+| CharName = Lursa
+| Stars = 3
+| CMD = 43
+| SEC = 16
+| Race = Klingon
+<!--Traits-->|Klingon|Scoundrel|Villain}}
+{{MPCrewList
+| CrewName = Luther Sloan
+| CharName = Sloan
+| Stars = 4
+| CMD = 21
+| DIP = 57
+| SEC = 42
+| Race = Human
+<!--Traits-->|Human|Starfleet|Federation|Undercover Operative|Interrogator|Section 31|Villain}}
+{{MPCrewList
+| CrewName = Lwaxana Troi
+| CharName = Lwaxana
+| Stars = 3
+| CMD = 28
+| DIP = 38
+| Race = Betazoid
+<!--Traits-->|Federation|Diplomat|Betazoid|Romantic|Civilian|Telepath}}
+{{MPCrewList
+| CrewName = M-113 Creature
+| CharName = M-113 Creature (Character){{!}}M-113 Creature
+| Stars = 4
+| DIP = 50
+| SEC = 41
+| SCI = 21
+| Race = Unknown
+<!--Traits-->|M-113 Creature|Desperate|Exobiology|Shapeshifter|Telepath|Crafty}}
+{{MPCrewList
+| CrewName = Mademoiselle de Neuf
+| CharName = Seven
+| Stars = 5
+| ENG = 31
+| SEC = 73
+| SCI = 64
+| Race = Borg
+<!--Traits-->|Borg|Human|Federation|Civilian|Costumed|Saboteur|Musician}}
+{{MPCrewList
+| CrewName = Maid Marian
+| CharName = Vash
+| Stars = 5
+| DIP = 68
+| SEC = 57
+| Race = Human
+<!--Traits-->|Human|Scoundrel|Costumed|Exoarchaeology|Smuggler|Civilian}}
+{{MPCrewList
+| CrewName = Major Kira
+| CharName = Kira
+| Stars = 2
+| CMD = 27
+| SEC = 27
+| Race = Bajoran
+<!--Traits-->|Bajoran|Veteran|Resourceful}}
+{{MPCrewList
+| CrewName = Malik
+| CharName = Malik (Character){{!}}Malik
+| Stars = 4
+| CMD = 21
+| DIP = 38
+| SEC = 50
+| Race = Human
+<!--Traits-->|Human|Augment|Brutal|Civilian}}
+{{MPCrewList
+| CrewName = Mambo Picard
+| CharName = Picard
+| Stars = 5
+| CMD = 16
+| DIP = 73
+| SCI = 57
+| Race = Human
+<!--Traits-->|Federation|Starfleet|Human|Casual|Romantic|Musician}}
+{{MPCrewList
+| CrewName = Maquis Chakotay
+| CharName = Chakotay
+| Stars = 1
+| CMD = 16
+| SEC = 16
+| Race = Human
+<!--Traits-->|Human|Maquis|Hunter|Tactician|Survivalist|Smuggler|Federation}}
+{{MPCrewList
+| CrewName = Maquis Eddington
+| CharName = Eddington
+| Stars = 4
+| CMD = 57
+| SEC = 57
+| Race = Human
+<!--Traits-->|Human|Maquis|Desperate}}
+{{MPCrewList
+| CrewName = Maquis Ro Laren
+| CharName = Ro
+| Stars = 4
+| CMD = 42
+| DIP = 21
+| SEC = 57
+| Race = Bajoran
+<!--Traits-->|Maquis|Bajoran|Survivalist|Saboteur|Desperate}}
+{{MPCrewList
+| CrewName = Maquis Takeover Torres
+| CharName = Torres
+| Stars = 3
+| CMD = 16
+| ENG = 34
+| SEC = 28
+| Race = Klingon
+<!--Traits-->|Klingon|Human|Starfleet|Maquis|Jury Rigger|Saboteur}}
+{{MPCrewList
+| CrewName = Maquis Tuvok
+| CharName = Tuvok
+| Stars = 5
+| CMD = 31
+| SEC = 63
+| SCI = 57
+| Race = Vulcan
+<!--Traits-->|Vulcan|Maquis|Telepath|Costumed|Tactician|Undercover Operative}}
+{{MPCrewList
+| CrewName = Mara
+| CharName = Mara (Character){{!}}Mara
+| Stars = 3
+| CMD = 16
+| DIP = 28
+| SCI = 34
+| Race = Klingon
+<!--Traits-->|Klingon|Communicator}}
+{{MPCrewList
+| CrewName = Mariachi Q
+| CharName = Q 
+| Stars = 5
+| DIP = 73
+| SEC = 57
+| Race = Q
+<!--Traits-->|Crafty|Scoundrel|Costumed|Musician}}
+{{MPCrewList
+| CrewName = Marla McGivers
+| CharName = McGivers
+| Stars = 4
+| DIP = 52
+| ENG = 39
+| Race = Human
+<!--Traits-->|Human|Artist|Tactician|Communicator|Federation|Starfleet|Romantic}}
+{{MPCrewList
+| CrewName = Martia
+| CharName = Martia (Character){{!}}Martia
+| Stars = 4
+| DIP = 57
+| SEC = 41
+| Race = Chameloid
+<!--Traits-->|Chameloid|Shapeshifter|Crafty|Survivalist|Criminal|Scoundrel}}
+{{MPCrewList
+| CrewName = Marshal of France Q
+| CharName = Q
+| Stars = 4
+| CMD = 50
+| DIP = 21
+| SEC = 38
+| Race = Q
+<!--Traits-->|Crafty|Costumed|Inspiring|Tactician|Scoundrel|Cultural Figure|Brutal}}
+{{MPCrewList
+| CrewName = Martian Quark
+| CharName = Quark
+| Stars = 5
+| CMD = 57
+| DIP = 73
+| Race = Ferengi
+<!--Traits-->|Ferengi|Scoundrel|Merchant|Resourceful|Gambler|Communicator|Civilian|Smuggler|Desperate}}
+{{MPCrewList
+| CrewName = Merry Men Crusher
+| CharName = Crusher
+| Stars = 5
+| SEC = 73
+| SCI = 31
+| MED = 57
+| Race = Human
+<!--Traits-->|Human|Starfleet|Federation|Physician|Costumed|Resourceful}}
+{{MPCrewList
+| CrewName = Michael Sullivan
+| CharName = Sullivan
+| Stars = 4
+| DIP = 41
+| MED = 57
+| Race = Hologram
+<!--Traits-->|Bartender|Hologram|Communicator|Civilian|Romantic}}
+{{MPCrewList
+| CrewName = Mintakan Riker
+| CharName = Riker
+| Stars = 5
+| CMD = 31
+| DIP = 52
+| SEC = 74
+| Race = Human
+<!--Traits-->|Human|Federation|Starfleet|Survivalist|Hunter|Costumed|Undercover Operative|Vulcan|Mintakan}}
+{{MPCrewList
+| CrewName = Mintakan Troi
+| CharName = Troi
+| Stars = 4
+| DIP = 50
+| SCI = 21
+| MED = 38
+| Race = Betazoid
+<!--Traits-->|Federation|Starfleet|Human|Betazoid|Empath|Counselor|Caregiver|Undercover Operative|Prisoner|Merchant|Mintakan|Vulcan|Costumed}}
+{{MPCrewList
+| CrewName = Minuet
+| CharName = Minuet (Character){{!}}Minuet
+| Stars = 5
+| CMD = 52
+| DIP = 63
+| Race = Hologram
+<!--Traits-->|Hologram|Saboteur|Communicator|Resourceful|Human|Romantic|Desperate|Crafty}}
+{{MPCrewList
+| CrewName = Miral Torres
+| CharName = Miral
+| Stars = 4
+| DIP = 52
+| SEC = 41
+| Race = Klingon
+<!--Traits-->|Klingon|Civilian|Desperate}}
+{{MPCrewList
+| CrewName = Miranda Jones
+| CharName = Jones
+| Stars = 5
+| CMD = 31
+| DIP = 73
+| SCI = 57
+| Race = Human
+<!--Traits-->|Human|Communicator|Telepath|Vulcan}}
+{{MPCrewList
+| CrewName = Mirror Archer
+| CharName = Archer
+| Stars = 4
+| CMD = 57
+| ENG = 21
+| SEC = 42
+| Race = Human
+<!--Traits-->|Human|Starfleet|Terran Empire|Pilot|Explorer|Mirror Universe}}
+{{MPCrewList
+| CrewName = Mirror Bashir
+| CharName = Bashir
+| Stars = 5
+| ENG = 58
+| SEC = 73
+| Race = Human
+<!--Traits-->|Human|Scoundrel|Augment|Desperate|Saboteur|Survivalist|Mirror Universe}}
+{{MPCrewList
+| CrewName = Mirror Beverly Crusher
+| CharName = Crusher
+| Stars = 5
+| DIP = 57
+| SCI = 31
+| MED = 63
+| Race = Human
+<!--Traits-->|Human|Starfleet|Mirror Universe|Physician|Caregiver|Neurologist|Geneticist}}
+{{MPCrewList
+| CrewName = Mirror Data
+| CharName = Data
+| Stars = 5
+| ENG =74
+| SEC = 72
+| SCI = 31
+| Race = Android
+<!--Traits-->|Mirror Universe|Android|Terran Empire|Starfleet|Resourceful|Saboteur}}
+{{MPCrewList
+| CrewName = Mirror Ellen Landry
+| CharName = Landry
+| Stars = 5
+| CMD = 57
+| SEC = 63
+| Race = Human
+<!--Traits-->|Human|Terran Empire|Starfleet|Mirror Universe|Tactician|Brutal|Villain}}
+{{MPCrewList
+| CrewName = Mirror Empress Sato
+| CharName = Sato
+| Stars = 4
+| CMD = 21
+| DIP = 52
+| SEC = 42
+| Race = Human
+<!--Traits-->|Human|Starfleet|Terran Empire|Empress|Mirror Universe}}
+{{MPCrewList
+| CrewName = Mirror Ezri Tigan
+| CharName = Ezri
+| Stars = 4
+| DIP = 42
+| SEC = 42
+| Race = Trill
+<!--Traits-->|Trill|Scoundrel|Smuggler|Mirror Universe}}
+{{MPCrewList
+| CrewName = Mirror Garak
+| CharName = Garak
+| Stars = 4
+| CMD = 39
+| DIP = 57
+| SEC = 22
+| Race = Cardassian
+<!--Traits-->|Cardassian|Scoundrel|Interrogator|Klingon-Cardassian Alliance|Brutal|Mirror Universe}}
+{{MPCrewList
+| CrewName = Mirror Geordi La Forge
+| CharName = La Forge
+| Stars = 4
+| ENG = 57
+| SEC = 21
+| SCI = 39
+| Race = Human
+<!--Traits-->|Human|Starfleet|Terran Empire|Mirror Universe|Saboteur|Smuggler|Innovator}}
+{{MPCrewList
+| CrewName = Mirror Inquisitor Troi
+| CharName = Troi
+| Stars = 5
+| DIP = 57
+| SEC = 31
+| MED = 74
+| Race = Betazoid
+<!--Traits-->|Starfleet|Human|Betazoid|Empath|Interrogator|Mirror Universe|Terran Empire}}
+{{MPCrewList
+| CrewName = Mirror Intendant Kira
+| CharName = Kira
+| Stars = 5
+| CMD = 31
+| DIP = 57
+| SEC = 73
+| Race = Bajoran
+<!--Traits-->|Bajoran|Cardassian|Klingon|Villain|Klingon-Cardassian Alliance|Brutal|Mirror Universe}}
+{{MPCrewList
+| CrewName = Mirror Jadzia Dax
+| CharName = J. Dax
+| Stars = 4
+| ENG = 42
+| SEC = 57
+| SCI = 21
+| Race = Trill
+<!--Traits-->|Trill|Terran Empire|Casual|Desperate|Romantic|Mirror Universe}}
+{{MPCrewList
+| CrewName = Mirror Janeway
+| CharName = Janeway
+| Stars = 4
+| CMD = 39
+| DIP = 21
+| SEC = 50
+| Race = Human
+<!--Traits-->|Human|Brutal|Resourceful|Hunter|Saboteur|Veteran|Smuggler|Mirror Universe|Terran Empire}}
+{{MPCrewList
+| CrewName = Mirror Jean-Luc Picard
+| CharName = Picard
+| Stars = 5
+| CMD = 74
+| SEC = 57
+| SCI = 32
+| Race = Human
+<!--Traits-->|Human|Terran Empire|Brutal|Crafty|Maverick|Veteran|Resourceful|Duelist|Mirror Universe|Starfleet}}
+{{MPCrewList
+| CrewName = Mirror Jennifer Sisko
+| CharName = Jennifer
+| Stars = 4
+| DIP = 39
+| ENG = 39
+| SCI = 57
+| Race = Human
+<!--Traits-->|Human|Astrophysicist|Civilian|Mirror Universe}}
+{{MPCrewList
+| CrewName = Mirror K'Ehleyr
+| CharName = K'Ehleyr
+| Stars = 4
+| CMD = 21
+| DIP = 39
+| SEC = 52
+| Race = Klingon
+<!--Traits-->|Klingon|Brutal|Tactician|Duelist|Klingon-Cardassian Alliance|Human|Mirror Universe}}
+{{MPCrewList
+| CrewName = Mirror Keiko
+| CharName = Keiko
+| Stars = 4
+| CMD = 50
+| DIP = 21
+| SCI = 38
+| Race = Human
+<!--Traits-->|Human|Botanist|Saboteur|Undercover Operative|Mirror Universe|Terran Rebellion}}
+{{MPCrewList
+| CrewName = Mirror Kirk
+| CharName = Kirk
+| Stars = 5
+| CMD = 74
+| SEC = 63
+| Race = Human
+<!--Traits-->|Human|Duelist|Terran Empire|Brutal|Mirror Universe|Starfleet}}
+{{MPCrewList
+| CrewName = Mirror Leeta
+| CharName = Leeta
+| Stars = 4
+| CMD = 52
+| DIP = 21
+| SEC = 41
+| Race = Bajoran
+<!--Traits-->|Bajoran|Mirror Universe|Romantic|Terran Empire}}
+{{MPCrewList
+| CrewName = Mirror Mayweather
+| CharName = Mayweather
+| Stars = 4
+| CMD = 21
+| ENG = 42
+| SEC = 57
+| Race = Human
+<!--Traits-->|Human|Starfleet|Mirror Universe|MACO|Marksman|Brutal}}
+{{MPCrewList
+| CrewName = Mirror Phlox
+| CharName = Phlox
+| Stars = 4
+| SEC = 42
+| MED = 57
+| Race = Denobulan
+<!--Traits-->|Denobulan|Interrogator|Terran Empire|Physician|Brutal|Exobiology|Mirror Universe|Starfleet}}
+{{MPCrewList
+| CrewName = Mirror Regent Worf
+| CharName = Worf
+| Stars = 5
+| CMD = 57
+| SEC = 73
+| Race = Klingon
+<!--Traits-->|Klingon|Cardassian|Tactician|Villain|Brutal|Klingon-Cardassian Alliance|Mirror Universe}}
+{{MPCrewList
+| CrewName = Mirror Reed
+| CharName = Reed
+| Stars = 5
+| CMD = 57
+| SEC = 68
+| Race = Human
+<!--Traits-->|Terran Empire|Human|Brutal|MACO|Marksman|Mirror Universe|Starfleet}}
+{{MPCrewList
+| CrewName = Mirror Shukar
+| CharName = Shukar
+| Stars = 5
+| DIP = 57
+| SEC = 75
+| SCI = 31
+| Race = Andorian
+<!--Traits-->|Andorian|Desperate|Veteran|Civilian|Mirror Universe}}
+{{MPCrewList
+| CrewName = Mirror Sisko
+| CharName = Sisko
+| Stars = 4
+| CMD = 42
+| SEC = 57
+| Race = Human
+<!--Traits-->|Human|Scoundrel|Romantic|Tactician|Mirror Universe}}
+{{MPCrewList
+| CrewName = Mirror 'Smiley' O'Brien
+| CharName = O'Brien
+| Stars = 3
+| CMD = 32
+| ENG = 43
+| SEC = 16
+| Race = Human
+<!--Traits-->|Human|Resourceful|Jury Rigger|Mirror Universe}}
+{{MPCrewList
+| CrewName = Mirror Spock
+| CharName = Spock
+| Stars = 5
+| CMD = 52
+| DIP = 31
+| SCI = 63
+| Race = Vulcan
+<!--Traits-->|Terran Empire|Exobiology|Astrophysicist|Human|Vulcan|Telepath|Mirror Universe|Starfleet}}
+{{MPCrewList
+| CrewName = Mirror Stamets
+| CharName = Stamets
+| Stars = 5
+| ENG = 57
+| SCI = 63
+| MED = 31
+| Race = Human
+<!--Traits-->|Human|Mirror Universe|Brutal|Exomycologist}}
+{{MPCrewList
+| CrewName = Mirror Sulu
+| CharName = Sulu
+| Stars = 5
+| CMD = 57
+| SEC = 73
+| Race = Human
+<!--Traits-->|Brutal|Terran Empire|Starfleet|Mirror Universe|Human|Duelist|Veteran}}
+{{MPCrewList
+| CrewName = Mirror T'Pol
+| CharName = T'Pol
+| Stars = 5
+| CMD = 31
+| DIP = 52
+| SCI = 64
+| Race = Vulcan
+<!--Traits-->|Vulcan|Terran Empire|Astrophysicist|Duelist|Saboteur|Telepath|Mirror Universe|Starfleet}}
+{{MPCrewList
+| CrewName = Mirror Tucker
+| CharName = Trip
+| Stars = 4
+| ENG = 52
+| SEC = 42
+| Race = Human
+<!--Traits-->|Human|Starfleet|Terran Empire|Jury Rigger|Brutal|Explorer|Mirror Universe}}
+{{MPCrewList
+| CrewName = Mirror Uhura
+| CharName = Uhura
+| Stars = 4
+| DIP = 52
+| SEC = 39
+| Race = Human
+<!--Traits-->|Brutal|Terran Empire|Human|Communicator|Mirror Universe|Starfleet}}
+{{MPCrewList
+| CrewName = Mirror Vic Fontaine
+| CharName = Vic
+| Stars = 4
+| DIP = 42
+| SEC = 52
+| Race = Human
+<!--Traits-->|Desperate|Human|Survivalist|Artist|Musician|Marksman|Mirror Universe|Terran Empire}}
+{{MPCrewList
+| CrewName = Mirror Zefram Cochrane
+| CharName = Cochrane
+| Stars = 5
+| ENG = 57
+| SEC = 31
+| SCI = 73
+| Race = Human
+<!--Traits-->|Human|Civilian|Warp Theorist|Innovator|Cultural Figure|Inspiring|Mirror Universe|Brutal|Terran Empire|Pilot|Thief}}
+{{MPCrewList
+| CrewName = Mobile Doctor
+| CharName = Doctor (Character){{!}}Doctor
+| Stars = 5
+| DIP = 31
+| SCI = 57
+| MED = 73
+| Race = Hologram
+<!--Traits-->|Hologram|Federation|Starfleet|Physician|Musician}}
+{{MPCrewList
+| CrewName = Mora Pol
+| CharName = Mora
+| Stars = 3
+| CMD = 16
+| SCI = 33
+| MED = 32
+| Race = Bajoran
+<!--Traits-->|Bajoran|Exobiology|Civilian}}
+{{MPCrewList
+| CrewName = Morn
+| CharName = Morn (Character){{!}}Morn
+| Stars = 3
+| DIP = 43
+| SEC = 32
+| Race = Lurian
+<!--Traits-->|Lurian|Courier|Duelist|Civilian|Gambler|Smuggler}}
+{{MPCrewList
+| CrewName = Mother Horta
+| CharName = Horta
+| Stars = 4
+| DIP = 42
+| SEC = 52
+| Race = Horta
+<!--Traits-->|Caregiver|Primal|Silicon Lifeform|Saboteur|Desperate}}
+{{MPCrewList
+| CrewName = Mountaineer Spock
+| CharName = Spock
+| Stars = 5
+| CMD = 52
+| ENG = 31
+| SCI = 63
+| Race = Vulcan
+<!--Traits-->|Starfleet|Federation|Exobiology|Musician|Astrophysicist|Human|Vulcan|Telepath|Casual|Pilot}}
+{{MPCrewList
+| CrewName = Mugato 
+| CharName = Mugato (Character){{!}}Mugato
+| Stars = 5
+| CMD = 57
+| DIP = 31
+| SEC = 63
+| Race = Mugato
+<!--Traits-->|Mugato|Brutal|Hunter|Primal}}
+{{MPCrewList
+| CrewName = Musketeer La Forge
+| CharName = La Forge
+| Stars = 5
+| CMD = 30
+| ENG = 55
+| SEC = 73
+| Race = Human
+<!--Traits-->|Hologram|Duelist|Hero|Inspiring|Maverick|Veteran|Cyberneticist}}
+{{MPCrewList
+| CrewName = Musketeer Picard
+| CharName = Picard
+| Stars = 5
+| CMD = 31
+| DIP = 52
+| SEC = 63
+| Race = Human
+<!--Traits-->|Hologram|Duelist|Hero|Inspiring|Tactician}}
+{{MPCrewList
+| CrewName = Mutated Paris
+| CharName = Paris
+| Stars = 4
+| DIP = 52
+| MED = 41
+| Race = Human
+<!--Traits-->|Human|Starfleet|Federation|Tactician|Desperate|Primal|Pilot}}
+{{MPCrewList
+| CrewName = Natima Lang
+| CharName = Natima
+| Stars = 5
+| CMD = ??
+| DIP = ??
+| SEC = ??
+| Race = Cardassian
+<!--Traits-->|Cardassian|Communicator|Romantic|Desperate|Cultural Figure|Inspiring}}
+{{MPCrewList
+| CrewName = Navigator Stamets
+| CharName = Stamets
+| Stars = 5
+| CMD = 31
+| ENG = 63
+| SCI = 52
+| Race = Human
+<!--Traits-->|Human|Explorer|Pilot|Exomycologist}}
+{{MPCrewList
+| CrewName = Nexus Kirk
+| CharName = Kirk
+| Stars = 4
+| CMD = 57
+| DIP = 21
+| SEC = 42
+| Race = Human
+<!--Traits-->|Human|Federation|Starfleet|Inspiring}}
+{{MPCrewList
+| CrewName = Niners Kira Nerys
+| CharName = Kira
+| Stars = 4
+| CMD = 50
+| DIP = 21
+| SEC = 39
+| Race = Bajoran
+<!--Traits-->|Bajoran|Athlete|Costumed|Veteran}}
+{{MPCrewList
+| CrewName = Niners Rom
+| CharName = Rom
+| Stars = 4
+| ENG = 57
+| SEC = 42
+| Race = Ferengi
+<!--Traits-->|Ferengi|Bajoran|Desperate|Resourceful|Jury Rigger|Athlete}}
+{{MPCrewList
+| CrewName = Niners Sisko
+| CharName = Sisko
+| Stars = 5
+| CMD = 73
+| SEC = 56
+| Race = Human
+<!--Traits-->|Human|Starfleet|Inspiring|Desperate}}
+{{MPCrewList
+| CrewName = Niners Worf
+| CharName = Worf
+| Stars = 5
+| CMD = 31
+| DIP = 57
+| SEC = 63
+| Race = Klingon
+<!--Traits-->|Klingon|Athlete|Federation|Starfleet}}
+{{MPCrewList
+| CrewName = North Star Archer
+| CharName = Archer	
+| Stars = 4
+| CMD = 39
+| ENG = 21
+| SEC = 57
+| Race = Human
+<!--Traits-->|Human|Starfleet|Tactician|Duelist|Costumed|Hero|Explorer}}
+{{MPCrewList
+| CrewName = North Star Tucker
+| CharName = Trip
+| Stars = 5
+| DIP = 64
+| ENG = 57
+| SEC = 31
+| Race = Human
+<!--Traits-->|Human|Starfleet|Jury Rigger|Marksman|Costumed|Romantic|Gambler}}
+{{MPCrewList
+| CrewName = Nurse Faith Garland
+| CharName = Garland
+| Stars = 4
+| DIP = 38
+| MED = 50
+| SCI = 21
+| Race = Human
+<!--Traits-->|Human|Nurse|Romantic|Communicator}}
+{{MPCrewList
+| CrewName = Nurse Kes
+| CharName = Kes
+| Stars = 2
+| DIP = 27
+| MED = 32
+| Race = Ocampa
+<!--Traits-->|Ocampa|Civilian|Nurse}}
+{{MPCrewList
+| CrewName = Nurse Paris
+| CharName = Paris
+| Stars = 2
+| CMD = 32
+| MED = 13
+| Race = Human
+<!--Traits-->|Human|Starfleet|Federation|Pilot|Maverick|Nurse|Gambler}}
+{{MPCrewList
+| CrewName = Nyota Uhura
+| CharName = Uhura	
+| Stars = 5
+| CMD = 57
+| DIP = 63
+| SEC = 31
+| Race = Human
+<!--Traits-->|Human|Federation|Starfleet|Communicator|Resourceful}}
+{{MPCrewList
+| CrewName = Obsidian Order Garak
+| CharName = Garak
+| Stars = 5
+| CMD = 31
+| DIP = 52
+| SEC = 73
+| Race = Cardassian
+<!--Traits-->|Cardassian|Obsidian Order|Crafty|Scoundrel|Resourceful|Spy|Brutal|Romantic|Saboteur|Interrogator}}
+{{MPCrewList
+| CrewName = Off-Duty Stamets
+| CharName = Stamets
+| Stars = 2
+| ENG = 26
+| SCI = 32
+| Race = Human
+<!--Traits-->|Human|Starfleet|Federation|Exomycologist|Romantic}}
+{{MPCrewList
+| CrewName = Off-Duty Tilly
+| CharName = Tilly
+| Stars = 2
+| DIP = 29
+| ENG = 26
+| Race = Human
+<!--Traits-->|Human|Theoretical Engineer|Federation|Starfleet|Romantic}}
+{{MPCrewList
+| CrewName = One
+| CharName = One (Character){{!}}One 
+| Stars = 5
+| ENG = 74
+| SEC = 57
+| Race = Borg
+<!--Traits-->|Human|Borg|Resourceful|Tactician|Hero}}
+{{MPCrewList
+| CrewName = One Zero
+| CharName = Bynars
+| Stars = 4
+| ENG = 41
+| SEC = 57
+| Race = Bynar
+<!--Traits-->|Bynar|Crafty|Desperate|Resourceful|Hero}}
+{{MPCrewList
+| CrewName = One Zero Zero One
+| CharName = Bynars
+| Stars = 5
+| ENG = ??
+| SEC = ??
+| Race = Bynar
+<!--Traits-->|Bynar|Crafty|Desperate|Resourceful|Hero}}
+{{MPCrewList
+| CrewName = Orion Slaver
+| CharName = Orion Slaver
+| Stars = 4
+| CMD = 21
+| DIP = 42
+| SEC = 57
+| Race = Orion
+<!--Traits-->|Orion|Brutal|Duelist|Merchant}}
+{{MPCrewList
+| CrewName = Orion Vina
+| CharName = Vina
+| Stars = 5
+| SCI = 57
+| DIP = 73
+| Race = Orion
+<!--Traits-->|Costumed|Orion|Romantic|Desperate}}
+{{MPCrewList
+| CrewName = Pah-wraith Cult Dukat
+| CharName = Dukat
+| Stars = 5
+| CMD = 57
+| DIP = 64
+| SEC = 31
+| Race = Cardassian
+<!--Traits-->|Cardassian|Bajoran|Inspiring|Communicator|Cultural Figure|Villain}}
+{{MPCrewList
+| CrewName = Pah-wraith Keiko
+| CharName = Keiko
+| Stars = 5
+| CMD = 73
+| DIP = 31
+| SEC = 58
+| Race = Human
+<!--Traits-->|Human|Federation|Civilian|Scoundrel|Brutal|Villain}}
+{{MPCrewList
+| CrewName = Pel
+| CharName = Pel (Character){{!}}Pel
+| Stars = 4
+| CMD = 29
+| DIP = 52
+| Race = Ferengi
+<!--Traits-->|Civilian|Ferengi|Costumed|Undercover Operative|Romantic|Gambler}}
+{{MPCrewList
+| CrewName = Penk
+| CharName = Penk
+| Stars = 4
+| CMD = 21
+| ENG = 50
+| SEC = 41
+| Race = Unknown
+<!--Traits-->|Scoundrel|Crafty|Resourceful|Villain|Brutal}}
+{{MPCrewList
+| CrewName = Persis
+| CharName = Persis (Character){{!}}Persis
+| Stars = 2
+| DIP = 27
+| SEC = 31
+| Race = Human
+<!--Traits-->|Human|Augment|Survivalist|Tactician}}
+{{MPCrewList
+| CrewName = Phlox, Au Naturel
+| CharName = Phlox
+| Stars = 5
+| ENG = 31
+| SCI = 73
+| MED = 57
+| Race = Denobulan
+<!--Traits-->|Denobulan|Civilian|Physician|Exobiology|Resourceful|Casual}}
+{{MPCrewList
+| CrewName = Phoenix Cochrane
+| CharName = Cochrane
+| Stars = 5
+| DIP = 31
+| ENG = 74
+| SCI = 57
+| Race = Human
+<!--Traits-->|Human|Civilian|Warp Theorist|Innovator|Cultural Figure|Inspiring}}
+{{MPCrewList
+| CrewName = Platonian Kirk
+| CharName = Kirk
+| Stars = 4
+| CMD = 42 
+| DIP = 21 
+| SEC = 57
+| Race = Human
+<!--Traits-->|Human| Federation| Starfleet| Inspiring| Romantic| Explorer| Telekinetic}}
+{{MPCrewList
+| CrewName = Polywater Yar
+| CharName = Yar
+| Stars = 5
+| CMD = 73
+| DIP = 57
+| SEC = 31
+| Race = Human
+<!--Traits-->|Human|Federation|Starfleet|Romantic|Desperate|Survivalist}}
+{{MPCrewList
+| CrewName = Portal 63
+| CharName = Portal 63 (Character){{!}}Portal 63
+| Stars = 5
+| DIP = 63
+| ENG = 57
+| SEC = 31
+| Race = Tkon
+<!--Traits-->|Duelist|Tkon|Telepath}}
+{{MPCrewList
+| CrewName = Prince Bashir
+| CharName = Bashir
+| Stars = 5
+| CMD = 63
+| DIP = 57
+| MED = 31
+| Race = Human
+<!--Traits-->|Human|Starfleet|Federation|Royalty|Costumed|Physician|Engineered}}
+{{MPCrewList
+| CrewName = Princess Jadzia
+| CharName = J. Dax
+| Stars = 4
+| DIP = 39
+| ENG = 52
+| SCI = 50
+| Race = Trill
+<!--Traits-->|Federation|Starfleet|Costumed|Royalty|Astrophysicist|Trill|Gambler|Pilot}}
+{{MPCrewList
+| CrewName = Prison Break Lorca
+| CharName = Lorca
+| Stars = 4
+| CMD = 52
+| SEC = 41
+| Race = Human
+<!--Traits-->|Prisoner|Starfleet|Human|Brutal|Desperate|Tactician|Mirror Universe|Federation}}
+{{MPCrewList
+| CrewName = Prisoner 'Bones' McCoy
+| CharName = McCoy
+| Stars = 3
+| DIP = 31
+| MED = 43
+| Race = Human
+<!--Traits-->|Human|Federation|Starfleet|Desperate|Physician}}
+{{MPCrewList
+| CrewName = Prisoner Katrina Cornwell
+| CharName = Cornwell
+| Stars = 5
+| DIP = 57
+| SEC = 31
+| MED = 74
+| Race = Human
+<!--Traits-->|Starfleet|Federation|Counselor|Human|Desperate|Diplomat|Prisoner}}
+{{MPCrewList
+| CrewName = Prisoner Michael Burnham
+| CharName = Burnham
+| Stars = 2
+| DIP = 12
+| SEC = 26
+| SCI = 32
+| Race = Human
+<!--Traits-->|Federation|Starfleet|Prisoner|Xenoanthropology|Duelist|Human}}
+{{MPCrewList
+| CrewName = Prisoner O'Brien
+| CharName = O'Brien
+| Stars = 4
+| DIP = 21
+| ENG = 50
+| SEC = 39
+| Race = Human
+<!--Traits-->|Human|Starfleet|Federation|Prisoner|Desperate|Survivalist|Brutal|Jury Rigger}}
+{{MPCrewList
+| CrewName = Private S. Money
+| CharName = Money
+| Stars = 3
+| SEC = 43
+| Race = Human
+<!--Traits-->|Human|MACO|Marksman|Veteran}}
+{{MPCrewList
+| CrewName = Professor Sato
+| CharName = Sato
+| Stars = 5
+| CMD = 57
+| DIP = 73
+| SCI = 31
+| Race = Human
+<!--Traits-->|Human|Civilian|Starfleet|Prodigy|Communicator|Linguist}}
+{{MPCrewList
+| CrewName = Professor Scott
+| CharName = Scotty
+| Stars = 4
+| CMD = 21
+| ENG = 57
+| SCI = 42
+| Race = Human
+<!--Traits-->|Human|Starfleet|Federation|Undercover Operative|Prodigy}}
+{{MPCrewList
+| CrewName = Profitable Ishka
+| CharName = Ishka{{!}}Moogie
+| Stars = 4
+| CMD = 41
+| DIP = 52
+| Race = Ferengi
+<!--Traits-->|Civilian|Ferengi|Merchant|Inspiring}}
+{{MPCrewList
+| CrewName = Promoted Sisko
+| CharName = Sisko
+| Stars = 2
+| CMD = 32
+| DIP = 13
+| SEC = 27
+| Race = Human
+<!--Traits-->|Human|Federation|Starfleet|Bajoran|Cultural Figure|Inspiring|Diplomat|Caregiver|Chef}}
+{{MPCrewList
+| CrewName = Prophet Sarah Sisko
+| CharName = Sarah Sisko
+| Stars = 5
+| CMD = 31
+| DIP = 73
+| SCI = 52
+| Race = Human
+<!--Traits-->|Human|Bajoran|Prophet|Cultural Figure|Inspiring}}
+{{MPCrewList
+| CrewName = Prospect Michael Burnham
+| CharName = Burnham
+| Stars = 4
+| DIP = 21
+| ENG = 41
+| SCI = 57
+| Race = Human
+<!--Traits-->|Federation|Civilian|Astrophysicist|Xenoanthropology|Human}}
+{{MPCrewList
+| CrewName = Prospero Data
+| CharName = Data
+| Stars = 4
+| CMD = 21
+| DIP = 50
+| ENG = 42
+| Race = Android
+<!--Traits-->|Android|Federation|Starfleet|Cyberneticist|Costumed|Cultural Figure|Musician}}
+{{MPCrewList
+| CrewName = Protomorphosis Barclay
+| CharName = Barclay
+| Stars = 5
+| ENG = 57
+| SEC = 31
+| SCI = 74
+| Race = Human
+<!--Traits-->|Starfleet|Federation|Innovator|Astrophysicist|Desperate|Primal}}
+{{MPCrewList
+| CrewName = Protomorphosis Worf
+| CharName = Worf
+| Stars = 5
+| CMD = 57
+| SEC = 74
+| Race = Klingon
+<!--Traits-->|Klingon|Federation|Starfleet|Brutal|Primal|Hunter|Desperate}}
+{{MPCrewList
+| CrewName = Pugilist Q
+| CharName = Q
+| Stars = 4
+| CMD = 21
+| DIP = 41
+| SEC = 52
+| Race = Q
+<!--Traits-->|Desperate|Crafty|Scoundrel|Athlete|Duelist|Costumed}}
+{{MPCrewList
+| CrewName = Queen Guinevere Kira
+| CharName = Kira
+| Stars = 5
+| CMD = 57
+| SEC = 74
+| Race = Bajoran
+<!--Traits-->|Bajoran|Costumed|Veteran|Desperate|Duelist}}
+{{MPCrewList
+| CrewName = Racquetball Bashir
+| CharName = Bashir
+| Stars = 3
+| CMD = 16
+| SCI = 32
+| MED = 32
+| Race = Human
+<!--Traits-->|Human|Federation|Starfleet|Athlete|Prodigy|Augment|Physician}}
+{{MPCrewList
+| CrewName = RAF Julian Bashir
+| CharName = Bashir
+| Stars = 4
+| MED = 57
+| SEC = 42
+| Race = Human
+<!--Traits-->|Human|Pilot|Augment|Hero|Costumed|Physician}}
+{{MPCrewList
+| CrewName = RAF Miles O'Brien
+| CharName = O'Brien
+| Stars = 5
+| CMD = 59
+| ENG = 74
+| SEC = 31
+| Race = Human
+<!--Traits-->|Human|Pilot|Jury Rigger|Hero|Costumed}}
+{{MPCrewList
+| CrewName = Rain Robinson
+| CharName = Rain
+| Stars = 5
+| DIP = 57
+| ENG = 31
+| SCI = 73
+| Race = Human
+<!--Traits-->|Human|Civilian|Astronomer|Desperate|Communicator|Resourceful}}
+{{MPCrewList
+| CrewName = Rakal Troi
+| CharName = Troi
+| Stars = 4
+| CMD = 57
+| SEC = 42
+| MED = 42
+| Race = Betazoid
+<!--Traits-->|Betazoid|Human|Romulan|Federation|Starfleet|Empath|Undercover Operative}}
+{{MPCrewList
+| CrewName = Recovering Spock
+| CharName = Spock
+| Stars = 2
+| CMD = 9
+| DIP = 23
+| SCI = 27
+| Race = Vulcan
+<!--Traits-->|Vulcan|Human|Federation|Starfleet|Civilian|Exobiology|Astrophysicist|Telepath|Musician}}
+{{MPCrewList
+| CrewName = Reinforcements Stamets
+| CharName = Stamets
+| Stars = 4
+| SCI = 57
+| SEC = 42
+| Race = Human
+<!--Traits-->|Human|Starfleet|Federation|Exomycologist|Prodigy}}
+{{MPCrewList
+| CrewName = Rescuer Tucker
+| CharName = Trip
+| Stars = 3
+| CMD = 16
+| SEC = 28
+| ENG = 34
+| Race = Human
+<!--Traits-->|Human|Starfleet|Jury Rigger|Tactician|Explorer}}
+{{MPCrewList
+| CrewName = Resistance Neelix
+| CharName = Neelix
+| Stars = 5
+| DIP = 73
+| SEC = 57
+| Race = Talaxian
+<!--Traits-->|Civilian|Talaxian|Mylean|Crafty|Saboteur|Smuggler|Undercover Operative|Resourceful|Chef}}
+{{MPCrewList
+| CrewName = Resistance Shakaar
+| CharName = Shakaar
+| Stars = 4
+| CMD = 57
+| SEC = 42
+| Race = Bajoran
+<!--Traits-->|Bajoran|Civilian|Veteran|Saboteur|Tactician}}
+{{MPCrewList
+| CrewName = Reverend Phlox
+| CharName = Phlox
+| Stars = 5
+| CMD = 57
+| DIP = 31
+| MED = 73
+| Race = Denobulan
+<!--Traits-->|Denobulan|Civilian|Physician|Exobiology}}
+{{MPCrewList
+| CrewName = Revolutionary Damar
+| CharName = Damar
+| Stars = 5
+| CMD = 63
+| DIP = 52
+| SEC = 31
+| Race = Cardassian
+<!--Traits-->|Cardassian|Cultural Figure|Inspiring|Hero|Desperate}}
+{{MPCrewList
+| CrewName = Rianna Mayweather
+| CharName = Rianna 
+| Stars = 4
+| DIP = 22
+| ENG = 52
+| MED = 52
+| Race = Human
+<!--Traits-->|Human|Civilian|Resourceful|Boomer|Communicator|Nurse|Jury Rigger}}
+{{MPCrewList
+| CrewName = Richard Castillo
+| CharName = Castillo
+| Stars = 3
+| CMD = 38
+| SCI = 28
+| Race = Human
+<!--Traits-->|Human|Hero|Pilot|Starfleet|Federation}}
+{{MPCrewList
+| CrewName = Rifle Janeway
+| CharName = Janeway
+| Stars = 3
+| CMD = 43
+| SEC = 32
+| SCI = 16
+| Race = Human
+<!--Traits-->|Human|Federation|Starfleet|Resourceful|Gambler}}
+{{MPCrewList
+| CrewName = Riley Frazier
+| CharName = Frazier
+| Stars = 4
+| CMD = 21
+| DIP = 50
+| SCI = 39
+| Race = Human
+<!--Traits-->|Civilian|Human|Borg|Desperate|Romantic|Resourceful|Federation|Starfleet|Communicator}}
+{{MPCrewList
+| CrewName = Ripper
+| CharName = Ripper (Character){{!}}Ripper
+| Stars = 5
+| SEC = 23
+| SCI = 18
+| Race = Unknown
+<!--Traits-->|Brutal|Desperate|Explorer|Primal|Survivalist}}
+{{MPCrewList
+| CrewName = Robin Hood
+| CharName = Picard
+| Stars = 4
+| CMD = 42
+| DIP = 21
+| SEC = 50
+| Race = Human
+<!--Traits-->|Starfleet|Federation|Human|Costumed|Hero|Thief|Marksman}}
+{{MPCrewList
+| CrewName = Roga Danar
+| CharName = Danar
+| Stars = 4
+| CMD = 21
+| ENG = 38
+| SEC = 50
+| Race = Angosian
+<!--Traits-->|Angosian|Crafty|Desperate|Prisoner|Jury Rigger|Resourceful}}
+{{MPCrewList
+| CrewName = Rogue Harry Kim
+| CharName = Kim
+| Stars = 4
+| ENG = 21
+| SEC = 41
+| SCI = 50
+| Race = Human
+<!--Traits-->|Federation|Human|Warp Theorist|Desperate|Innovator|Musician}}
+{{MPCrewList
+| CrewName = Rogue Kai Winn
+| CharName = Winn
+| Stars = 5
+| CMD = 69
+| DIP = 57
+| Race = Bajoran
+<!--Traits-->|Bajoran|Kai|Cultural Figure|Spiritual|Villain}}
+{{MPCrewList
+| CrewName = Romulan Data
+| CharName = Data
+| Stars = 5
+| DIP = 57
+| ENG = 63
+| SCI = 31
+| Race = Android
+<!--Traits-->|Android|Starfleet|Federation|Cyberneticist|Undercover Operative|Romulan|Musician}}
+{{MPCrewList
+| CrewName = Romulan Kirk
+| CharName = Kirk
+| Stars = 4
+| CMD = 21
+| DIP = 57
+| SEC = 39
+| Race = Human
+<!--Traits-->|Human|Federation|Starfleet|Undercover Operative|Spy|Romulan}}
+{{MPCrewList
+| CrewName = Romulan Picard
+| CharName = Picard
+| Stars = 5
+| CMD = 31
+| DIP = 73
+| SEC = 57
+| Race = Human
+<!--Traits-->|Romulan|Federation|Costumed|Starfleet|Human|Undercover Operative|Investigator}}
+{{MPCrewList
+| CrewName = Ruk
+| CharName = Ruk (Character){{!}}Ruk
+| Stars = 4
+| SEC = 50
+| ENG = 39
+| SCI = 21
+| Race = Android
+<!--Traits-->|Android|Duelist|Cyberneticist|Hunter}}
+{{MPCrewList
+| CrewName = Rura Penthe Commandant
+| CharName = Commandant
+| Stars = 5
+| CMD = 73
+| DIP = 31
+| SEC = 52
+| Race = Klingon
+<!--Traits-->|Klingon|Interrogator|Veteran|Brutal|Survivalist|Villain|Hunter}}
+{{MPCrewList
+| CrewName = Rura Penthe Kirk
+| CharName = Kirk
+| Stars = 5
+| DIP = 67
+| SEC = 68
+| Race = Human
+<!--Traits-->|Human|Federation|Starfleet|Romantic|Inspiring|Duelist|Desperate|Criminal}}
+{{MPCrewList
+| CrewName = Rura Penthe Reed
+| CharName = Reed
+| Stars = 4
+| CMD = 28
+| SEC = 57
+| Race = Human
+<!--Traits-->|Starfleet|Human|Desperate|Criminal|Undercover Operative}}
+{{MPCrewList
+| CrewName = Sarek
+| CharName = Sarek (Character){{!}}Sarek
+| Stars = 4
+| DIP = 57
+| CMD = 39
+| SCI = 21
+| Race = Vulcan
+<!--Traits-->|Vulcan|Diplomat|Cultural Figure|Communicator|Federation|Telepath}}
+{{MPCrewList
+| CrewName = Sarina Douglas
+| CharName = Douglas
+| Stars = 4
+| ENG = 41
+| SCI = 50
+| MED = 21
+| Race = Human
+<!--Traits-->|Human|Augment|Civilian|Romantic}}
+{{MPCrewList
+| CrewName = Satan's Robot
+| CharName = Satan's Robot (Character){{!}}Satan's Robot
+| Stars = 5
+| ENG = 74
+| SEC = 72
+| SCI = 31
+| Race = Android
+<!--Traits-->|Hologram|Villain|Duelist}}
+{{MPCrewList
+| CrewName = Satin Dress Lily Sloane
+| CharName = Lily
+| Stars = 5
+| DIP = 73
+| ENG = 31
+| SEC = 57
+| Race = Human
+<!--Traits-->|Human|Civilian|Undercover Operative|Desperate|Communicator|Crafty|Resourceful}}
+{{MPCrewList
+| CrewName = Science Officer T'Pol
+| CharName = T'Pol
+| Stars = 2
+| DIP = 26
+| SCI = 29
+| Race = Vulcan
+<!--Traits-->|Vulcan|Starfleet|Astrophysicist|Telepath}}
+{{MPCrewList
+| CrewName = Scientist Degra
+| CharName = Degra
+| Stars = 5
+| ENG = 73
+| SCI = 73
+| Race = Xindi
+<!--Traits-->|Xindi|Astrophysicist|Inspiring|Innovator}}
+{{MPCrewList
+| CrewName = Section 31 Philippa Georgiou
+| CharName = Georgiou
+| Stars = 4
+| CMD = 21
+| DIP = 38
+| SEC = 50
+| Race = Human
+<!--Traits-->|Terran Empire|Mirror Universe|Section 31|Human|Brutal|Empress}}
+{{MPCrewList
+| CrewName = Section 31 Reed
+| CharName = Reed
+| Stars = 2
+| CMD = 13
+| SEC = 32
+| Race = Human
+<!--Traits-->|Human|Starfleet|Undercover Operative|Marksman|Desperate|Section 31}}
+{{MPCrewList
+| CrewName = Security Chief Tuvok
+| CharName = Tuvok
+| Stars = 3
+| CMD = 28
+| SEC = 34
+| SCI = 16
+| Race = Vulcan
+<!--Traits-->|Vulcan|Federation|Starfleet|Telepath|Tactician|Investigator}}
+{{MPCrewList
+| CrewName = Security Chief Worf
+| CharName = Worf
+| Stars = 2
+| CMD = 27
+| SEC = 29
+| Race = Klingon
+<!--Traits-->|Klingon|Federation|Starfleet|Duelist|Investigator}}
+{{MPCrewList
+| CrewName = Senator Cretak
+| CharName = Cretak
+| Stars = 3
+| DIP = 43
+| SEC = 32
+| Race = Romulan
+<!--Traits-->|Romulan|Diplomat}}
+{{MPCrewList
+| CrewName = Senator Vreenak
+| CharName = Vreenak
+| Stars = 5
+| CMD = 57
+| DIP = 73
+| Race = Romulan
+<!--Traits-->|Romulan|Diplomat|Senator|Investigator}}
+{{MPCrewList
+| CrewName = Sergey and Helena Rozhenko
+| CharName = Rozhenkos
+| Stars = 5
+| DIP = 73
+| ENG = 57
+| Race = Human
+<!--Traits-->|Civilian|Human|Caregiver|Chef|Warp Theorist|Veteran}}
+{{MPCrewList
+| CrewName = Seven in Blue
+| CharName = Seven
+| Stars = 2
+| ENG = 27
+| SCI = 32
+| Race = Borg
+<!--Traits-->|Borg|Human|Civilian|Federation}}
+{{MPCrewList
+| CrewName = Seven in Silver
+| CharName = Seven
+| Stars = 5
+| ENG = 68
+| SCI = 57
+| Race = Borg
+<!--Traits-->|Borg|Human|Civilian|Federation|Astrophysicist}}
+{{MPCrewList
+| CrewName = Seven of Nine
+| CharName = Seven
+| Stars = 5
+| DIP = 31
+| ENG = 57
+| SCI = 73
+| Race = Borg
+<!--Traits-->|Borg|Human|Civilian|Federation}}
+{{MPCrewList
+| CrewName = Sheriff of Nottingham Q
+| CharName = Q
+| Stars = 5
+| CMD = 74
+| SEC = 59
+| Race = Q
+<!--Traits-->|Crafty|Costumed|Scoundrel|Constable|Romantic}}
+{{MPCrewList
+| CrewName = Sheriff Worf
+| CharName = Worf
+| Stars = 4
+| CMD = 50
+| DIP = 21
+| SEC = 39
+| Race = Klingon
+<!--Traits-->|Klingon|Starfleet|Federation|Costumed|Duelist|Constable}}
+{{MPCrewList
+| CrewName = Shinzon
+| CharName = Shinzon (Character){{!}}Shinzon
+| Stars = 5
+| CMD = 57
+| DIP = 31
+| SEC = 73
+| Race = Reman
+<!--Traits-->|Reman|Human|Clone|Villain}}
+{{MPCrewList
+| CrewName = Silik
+| CharName = Silik (Character){{!}}Silik
+| Stars = 4
+| CMD = 52
+| SEC = 42
+| Race = Suliban
+<!--Traits-->|Suliban|Shapeshifter|Saboteur|Temporal Agent}}
+{{MPCrewList
+| CrewName = Siranna
+| CharName = Siranna (Character){{!}}Siranna
+| Stars = 4
+| DIP = 38
+| SCI = 21
+| MED = 50
+| Race = Kelpien
+<!--Traits-->|Gardener|Kelpien|Spiritual}}
+{{MPCrewList
+| CrewName = Smitten Jean-Luc Picard
+| CharName = Picard
+| Stars = 5
+| CMD = 57
+| DIP = 74
+| Race = Human
+<!--Traits-->|Federation|Starfleet|Human|Romantic|Inspiring|Communicator|Musician}}
+{{MPCrewList
+| CrewName = Smuggler Kasidy Yates
+| CharName = Yates
+| Stars = 4
+| CMD = 57
+| ENG = 39
+| SEC = 21
+| Race = Human
+<!--Traits-->|Federation|Civilian|Human|Pilot|Smuggler|Jury Rigger}}
+{{MPCrewList
+| CrewName = Sniper Ezri Dax
+| CharName = Ezri
+| Stars = 3
+| DIP = 31
+| SEC = 32
+| MED = 32
+| Race = Trill
+<!--Traits-->|Trill|Federation|Starfleet|Counselor|Investigator}}
+{{MPCrewList
+| CrewName = Sniper Reed
+| CharName = Reed
+| Stars = 3
+| CMD = 32
+| SEC = 32
+| Race = Human
+<!--Traits-->|Starfleet|Human|Tactician|Marksman}}
+{{MPCrewList
+| CrewName = Solar Sails Sisko
+| CharName = Sisko
+| Stars = 5
+| CMD = 31
+| ENG = 73
+| SCI = 57
+| Race = Human
+<!--Traits-->|Human|Federation|Starfleet|Bajoran|Cultural Figure|Inspiring|Caregiver|Chef|Diplomat|Resourceful|Explorer}}
+{{MPCrewList
+| CrewName = Species 8472 Invader
+| CharName = Species 8472
+| Stars = 5
+| SEC = 73
+| SCI = 57
+| Race = Species 8472
+<!--Traits-->|Hunter|Species 8472|Brutal|Resourceful|Telepath}}
+{{MPCrewList
+| CrewName = Sphere-Builder Presage
+| CharName = Presage
+| Stars = 5
+| CMD = 31
+| ENG = 73
+| SCI = 57
+| Race = Presage
+<!--Traits-->|Presage|Innovator|Cultural Figure|Villain|Tactician}}
+{{MPCrewList
+| CrewName = Starfleet Uniform Khan
+| CharName = Khan
+| Stars = 3
+| CMD = 38
+| SEC = 26
+| Race = Human
+<!--Traits-->|Human|Augment|Villain|Cultural Figure|Tactician|Resourceful|Survivalist|Brutal}}
+{{MPCrewList
+| CrewName = Stargazer Picard
+| CharName = Picard
+| Stars = 1
+| DIP = 22
+| CMD = 16
+| SCI = 16
+| Race = Human
+<!--Traits-->|Federation|Starfleet|Human|Astrophysicist|Tactician}}
+{{MPCrewList
+| CrewName = Stranded Odo
+| CharName = Odo
+| Stars = 4
+| CMD = 52
+| DIP = 21
+| SEC = 39
+| Race = Changeling
+<!--Traits-->|Changeling|Desperate|Bajoran|Survivalist}}
+{{MPCrewList
+| CrewName = Stranded Quark
+| CharName = Quark
+| Stars = 5
+| DIP = ??
+| ENG = ??
+| MED = ??
+| Race = Ferengi
+<!--Traits-->|Ferengi|Scoundrel|Merchant|Gambler|Civilian|Smuggler|Desperate|Survivalist}}
+{{MPCrewList
+| CrewName = Subcommander T'Pol
+| CharName = T'Pol
+| Stars = 3
+| CMD = 32
+| SEC = 16
+| SCI = 43
+| Race = Vulcan
+<!--Traits-->|Vulcan|High Command|Astrophysicist|Telepath}}
+{{MPCrewList
+| CrewName = Subcommander T'Rul
+| CharName = T'Rul
+| Stars = 4
+| ENG = 57
+| SEC = 39
+| SCI = 21
+| Race = Romulan
+<!--Traits-->|Romulan|Veteran|Resourceful|Tactician}}
+{{MPCrewList
+| CrewName = Sulan
+| CharName = Sulan (Character){{!}}Sulan
+| Stars = 5
+| CMD = 31
+| SCI = 52
+| MED = 63
+| Race = Vidiian
+<!--Traits-->|Geneticist|Physician|Vidiian|Brutal|Survivalist}}
+{{MPCrewList
+| CrewName = Suliban Reed
+| CharName = Reed
+| Stars = 5
+| CMD = 63
+| DIP = 57
+| SEC = 31
+| Race = Human
+<!--Traits-->|Starfleet|Human|Suliban|Tactician|Saboteur|Undercover Operative}}
+{{MPCrewList
+| CrewName = Surak
+| CharName = Surak (Character){{!}}Surak
+| Stars = 5
+| CMD = 31
+| DIP = 57
+| SCI = 73
+| Race = Vulcan
+<!--Traits-->|Cultural Figure|Vulcan|Communicator|Desperate|Hero|Inspiring|Telepath}}
+{{MPCrewList
+| CrewName = Surgeon Phlox
+| CharName = Phlox
+| Stars = 3
+| CMD = 28
+| SCI = 28
+| MED = 32
+| Race = Denobulan
+<!--Traits-->|Denobulan|Civilian|Physician|Romantic|Exobiology}}
+{{MPCrewList
+| CrewName = Surgeon Pulaski
+| CharName = Pulaski
+| Stars = 5
+| SCI = 57
+| MED = 68
+| Race = Human
+<!--Traits-->|Federation|Starfleet|Human|Physician}}
+{{MPCrewList
+| CrewName = Survivalist Kirk
+| CharName = Kirk
+| Stars = 5
+| ENG = 57
+| SEC = 31
+| SCI = 73
+| Race = Human
+<!--Traits-->|Human|Federation|Starfleet|Inspiring|Desperate|Resourceful|Hero|Survivalist|Crafty}}
+{{MPCrewList
+| CrewName = Suus Mahna Sarek
+| CharName = Sarek (Character){{!}}Sarek
+| Stars = 5
+| DIP = 57
+| SEC = 73
+| SCI = 31
+| Race = Vulcan
+<!--Traits-->|Vulcan|Diplomat|Desperate|Brutal|Cultural Figure|Communicator|Federation|Telepath}}
+{{MPCrewList
+| CrewName = Sybok
+| CharName = Sybok (Character){{!}}Sybok
+| Stars = 4
+| DIP = 50
+| SCI = 39
+| MED = 21
+| Race = Vulcan
+<!--Traits-->|Vulcan|Inspiring|Spiritual|Explorer|Counselor|Telepath}}
+{{MPCrewList
+| CrewName = Tailor Garak
+| CharName = Garak
+| Stars = 3
+| DIP = 32
+| ENG = 16
+| SEC = 43
+| Race = Cardassian
+<!--Traits-->|Cardassian|Undercover Operative|Tailor|Scoundrel|Civilian|Interrogator}}
+{{MPCrewList
+| CrewName = Tactical Michael Burnham
+| CharName = Burnham
+| Stars = 4
+| CMD = 42
+| ENG = 21
+| SEC = 57
+| Race = Human
+<!--Traits-->|Federation|Starfleet|Astrophysicist|Human|Innovator|Resourceful|Xenoanthropology}}
+{{MPCrewList
+| CrewName = Talos IV Spock
+| CharName = Spock
+| Stars = 3
+| CMD = 27
+| SEC = 34
+| SCI = 16
+| Race = Vulcan
+<!--Traits-->|Federation|Starfleet|Exobiology|Astrophysicist|Human|Vulcan|Telepath|Musician}}
+{{MPCrewList
+| CrewName = Taresian Kim
+| CharName = Kim
+| Stars = 4
+| CMD = 21
+| DIP = 57
+| SEC = 38
+| Race = Human
+<!--Traits-->|Federation|Human|Starfleet|Musician|Taresian|Prisoner|Romantic}}
+{{MPCrewList
+| CrewName = Tarquin
+| CharName = Tarquin (Character){{!}}Tarquin
+| Stars = 4
+| CMD = 38
+| DIP = 57
+| SCI = 21
+| Race = Unknown
+<!--Traits-->|Telepath|Desperate|Resourceful|Communicator}}
+{{MPCrewList
+| CrewName = Tash
+| CharName = Tash (Character){{!}}Tash
+| Stars = 4
+| DIP = 21
+| ENG = 39
+| SCI = 50
+| Race = Unknown
+<!--Traits-->|Civilian|Innovator|Desperate|Maverick}}
+{{MPCrewList
+| CrewName = Technician Rom
+| CharName = Rom
+| Stars = 2
+| DIP = 26
+| ENG = 32
+| Race = Ferengi
+<!--Traits-->|Ferengi|Bajoran|Civilian|Jury Rigger|Saboteur}}
+{{MPCrewList
+| CrewName = Teenager Nog
+| CharName = Nog
+| Stars = 1
+| DIP = 10
+| SEC = 16
+| Race = Ferengi
+<!--Traits-->|Ferengi|Civilian|Scoundrel|Gambler|Merchant}}
+{{MPCrewList
+| CrewName = Telek R'Mor
+| CharName = R'Mor
+| Stars = 2
+| DIP = 27
+| SEC = 13
+| SCI = 32
+| Race = Romulan
+<!--Traits-->|Romulan|Astrophysicist}}
+{{MPCrewList
+| CrewName = Temporal Agent Daniels
+| CharName = Daniels
+| Stars = 5
+| ENG = 67
+| CMD = 31
+| SCI = 73
+| Race = Human
+<!--Traits-->|Human|Starfleet|Federation|Temporal Agent|Undercover Operative}}
+{{MPCrewList
+| CrewName = Temporal Agent Seven
+| CharName = Seven
+| Stars = 4
+| ENG = 39
+| SEC = 42
+| SCI = 50
+| Race = Borg
+<!--Traits-->|Borg|Human|Civilian|Federation|Temporal Agent|Undercover Operative}}
+{{MPCrewList
+| CrewName = Temporal Prisoner Chakotay
+| CharName = Chakotay
+| Stars = 5
+| ENG = 58
+| SEC = 73
+| MED = 31
+| Race = Human
+<!--Traits-->|Human|Desperate|Marksman|Saboteur|Resourceful|Federation}}
+{{MPCrewList
+| CrewName = Temporal Shift Kes
+| CharName = Kes
+| Stars = 3
+| SCI = 25
+| MED = 35
+| Race = Ocampa
+<!--Traits-->|Ocampa|Civilian|Botanist|Prodigy|Telepath|Nurse|}}
+{{MPCrewList
+| CrewName = Tempted Data
+| CharName = Data
+| Stars = 5
+| DIP = 57
+| ENG = 73
+| SEC = 31
+| Race = Android
+<!--Traits-->|Android|Federation|Starfleet|Cyberneticist|Musician}}
+{{MPCrewList
+| CrewName = Test Pilot Archer
+| CharName = Archer
+| Stars = 4
+| DIP = 21
+| ENG = 49
+| SCI = 50
+| Race = Human
+<!--Traits-->|Human|Starfleet|Pilot|Explorer|Inspiring}}
+{{MPCrewList
+| CrewName = The Caretaker
+| CharName = Caretaker
+| Stars = 5
+| ENG = 73
+| SCI = 52
+| MED = 31
+| Race = Nacene
+<!--Traits-->|Caregiver|Desperate|Explorer|Musician|Nacene|Cultural Figure|Theoretical Engineer}}
+{{MPCrewList
+| CrewName = The Clown
+| CharName = The Clown (Character){{!}}The Clown
+| Stars = 4
+| DIP = 21
+| ENG = 41
+| SEC = 57
+| Race = Unknown
+<!--Traits-->|Brutal|Costumed|Desperate|Scoundrel|Villain}}
+{{MPCrewList
+| CrewName = The Duras Sisters
+| CharName = Duras Sisters	
+| Stars = 4
+| CMD = 21
+| DIP = 39
+| SEC = 50
+| Race = Klingon
+<!--Traits-->|Klingon|Scoundrel}}
+{{MPCrewList
+| CrewName = The Keeper
+| CharName = Keeper
+| Stars = 5
+| CMD = 31
+| MED = 72
+| SCI = 73
+| Race = Talosian
+<!--Traits-->|Talosian|Crafty|Exobiology|Quantum Mechanics|Telepath|Explorer|Shapeshifter}}
+{{MPCrewList
+| CrewName = The One, Lore
+| CharName = Lore (Character){{!}}Lore
+| Stars = 5
+| CMD = 74
+| ENG = 52
+| SCI = 31
+| Race = Android
+<!--Traits-->|Android|Borg|Brutal|Villain|Tactician|Lord|Cyberneticist}}
+{{MPCrewList
+| CrewName = The President of Earth
+| CharName = Doctor (Character){{!}}Doctor
+| Stars = 4
+| CMD = 21
+| DIP = 57
+| MED = 39
+| Race = Hologram
+<!--Traits-->|Hologram|Federation|Starfleet|Cultural Figure|Inspiring|Diplomat|Musician}}
+{{MPCrewList
+| CrewName = The Professor
+| CharName = Professor (Character){{!}}Professor
+| Stars = 5
+| DIP = 73
+| ENG = 31
+| SCI = 52
+| Race = Hologram
+<!--Traits-->|Cultural Figure|Villain|Cyberneticist|Hologram|Prodigy|Duelist}}
+{{MPCrewList
+| CrewName = The Prophet
+| CharName = Sarek (Character){{!}}Sarek
+| Stars = 5
+| CMD = 31
+| DIP = 63
+| SEC = 57
+| Race = Vulcan
+<!--Traits-->|Vulcan|Mirror Universe|Desperate|Terran Rebellion|Telepath}}
+{{MPCrewList
+| CrewName = The Traveler
+| CharName = Traveler
+| Stars = 5
+| DIP = 57
+| ENG = 74
+| SCI = 31
+| Race = Unknown
+<!--Traits-->|Explorer|Quantum Mechanics|Warp Theorist|Prodigy|Civilian|Communicator|Inspiring}}
+{{MPCrewList
+| CrewName = The Viceroy
+| CharName = Viceroy
+| Stars = 3
+| CMD = 28
+| DIP = 17
+| SEC = 42
+| Race = Reman
+<!--Traits-->|Romulan|Reman|Telepath|Brutal|Villain}}
+{{MPCrewList
+| CrewName = Third Remata'Klan
+| CharName = Remata'Klan
+| Stars = 3
+| CMD = 32
+| SEC = 43
+| Race = Jemhadar
+<!--Traits-->|Jemhadar|Dominion|Duelist|Tactician}}
+{{MPCrewList
+| CrewName = Tholian Prisoner
+| CharName = Tholian
+| Stars = 4
+| ENG = 38
+| SEC = 21
+| SCI = 50
+| Race = Tholian
+<!--Traits-->|Prisoner|Tholian|Mirror Universe|Pilot}}
+{{MPCrewList
+| CrewName = Thot Gor
+| CharName = Gor
+| Stars = 4
+| CMD = 50
+| DIP = 39
+| SEC = 21
+| Race = Breen
+<!--Traits-->|Breen|Diplomat|Dominion|Resourceful|Communicator}}
+{{MPCrewList
+| CrewName = Thrax
+| CharName = Thrax (Character){{!}}Thrax
+| Stars = 5
+| CMD = 57
+| DIP = 31
+| SEC = 63
+| Race = Cardassian
+<!--Traits-->|Cardassian|Constable|Veteran|Desperate|Investigator|Changeling|Interrogator}}
+{{MPCrewList
+| CrewName = Tieran Possessed Kes
+| CharName = Kes
+| Stars = 4
+| CMD = 57
+| SEC = 21
+| MED = 38
+| Race = Ocampa
+<!--Traits-->|Ocampa|Romantic|Civilian|Telepath|Interrogator|Brutal|Villain}}
+{{MPCrewList
+| CrewName = Time Loop Mudd
+| CharName = Mudd
+| Stars = 4
+| DIP = 21
+| ENG = 56
+| SEC = 41
+| Race = Human
+<!--Traits-->|Human|Civilian|Scoundrel|Crafty|Smuggler|Resourceful|Survivalist}}
+{{MPCrewList
+| CrewName = Timicin
+| CharName = Timicin (Character){{!}}Timicin
+| Stars = 5
+| DIP = 31
+| ENG = 57
+| SCI = 68
+| Race = Kaelon
+<!--Traits-->|Kaelon|Astrophysicist|Desperate|Romantic}}
+{{MPCrewList
+| CrewName = T'Kuvma
+| CharName = T'Kuvma (Character) {{!}}T'Kuvma
+| Stars = 5
+| CMD = 74
+| SEC = 68
+| Race = Klingon
+<!--Traits-->|Klingon|Brutal|Hero|Cultural Figure|Spiritual}}
+{{MPCrewList
+| CrewName = T'Mir
+| CharName = T'Mir (Character){{!}}T'Mir
+| Stars = 4
+| CMD = 52
+| DIP = 41
+| Race = Vulcan
+<!--Traits-->|Vulcan|Telepath|Survivalist|Resourceful|Civilian}}
+{{MPCrewList
+| CrewName = Tommy Gun Dixon
+| CharName = Picard
+| Stars = 4
+| CMD = 21
+| DIP = 39
+| SEC = 50
+| Race = Human
+<!--Traits-->|Federation|Starfleet|Human|Costumed|Brutal|Desperate|Investigator|Tactician|Musician}}
+{{MPCrewList
+| CrewName = Tora Ziyal
+| CharName = Ziyal
+| Stars = 5
+| DIP = 73
+| MED = 57
+| Race = Cardassian 
+<!--Traits-->|Cardassian|Bajoran|Romantic|Civilian|Artist}}
+{{MPCrewList
+| CrewName = Torchbearer Rejac
+| CharName = Rejac
+| Stars = 5
+| CMD = 57
+| SEC = 68
+| Race = Klingon
+<!--Traits-->|Klingon|Cultural Figure|Brutal|Duelist|Inspiring|Torchbearer}}
+{{MPCrewList
+| CrewName = Torchbearer Voq
+| CharName = Voq
+| Stars = 4
+| CMD = 39
+| DIP = 57
+| SEC = 21
+| Race = Klingon
+<!--Traits-->|Klingon|Cultural Figure|Torchbearer|Desperate|Inspiring}}
+{{MPCrewList
+| CrewName = Tosk
+| CharName = Tosk (Character){{!}}Tosk
+| Stars = 5
+| ENG = 73
+| SEC = 57
+| Race = Tosk
+<!--Traits-->|Desperate|Explorer|Crafty|Athlete|Tosk|Prisoner}}
+{{MPCrewList
+| CrewName = Tourist Jadzia Dax
+| CharName = J. Dax
+| Stars = 3
+| CMD = 42
+| DIP = 27
+| SCI = 16
+| Race = Trill
+<!--Traits-->|Federation|Starfleet|Trill|Casual|Romantic}}
+{{MPCrewList
+| CrewName = Tourist Quark
+| CharName = Quark
+| Stars = 4
+| CMD = 21
+| DIP = 50
+| MED = 42
+| Race = Ferengi
+<!--Traits-->|Ferengi|Scoundrel|Desperate|Romantic|Gambler|Communicator|Civilian}}
+{{MPCrewList
+| CrewName = Tourist Reed
+| CharName = Reed
+| Stars = 4
+| CMD = 57
+| DIP = 41
+| SEC = 21
+| Race = Human
+<!--Traits-->|Starfleet|Human|Romantic|Desperate|Resourceful}}
+{{MPCrewList
+| CrewName = Tourist Trip
+| CharName = Trip
+| Stars = 5
+| DIP = 73
+| ENG = 52
+| Race = Human
+<!--Traits-->|Human|Starfleet|Romantic|Resourceful|Casual}}
+{{MPCrewList
+| CrewName = Trader Odo
+| CharName = Odo
+| Stars = 4
+| DIP = 52
+| SEC = 42
+| Race = Changeling
+<!--Traits-->|Changeling| Costumed| Merchant| Shapeshifter}}
+{{MPCrewList
+| CrewName = Trader Worf
+| CharName = Worf
+| Stars = 5
+| DIP = 57
+| SEC = 73
+| Race = Klingon
+<!--Traits-->|Klingon|Tactician|Undercover Operative|Federation|Starfleet}}
+{{MPCrewList
+| CrewName = Trelane
+| CharName = Trelane (Character){{!}}Trelane 
+| Stars = 5
+| DIP = 31
+| SEC = 52
+| SCI = 63
+| Race = Unknown
+<!--Traits-->|Romantic|Desperate|Musician|Scoundrel|Resourceful|Crafty|Costumed}}
+{{MPCrewList
+| CrewName = Tribunal Pike
+| CharName = Pike
+| Stars = 3
+| CMD = 16
+| DIP = 35
+| Race = Human
+<!--Traits-->|Starfleet|Human|Federation|Inspiring|Explorer|Desperate}}
+{{MPCrewList
+| CrewName = Tsunkatse Seven
+| CharName = Seven
+| Stars = 4
+| CMD = 39
+| SEC = 50
+| SCI = 21
+| Race = Borg
+<!--Traits-->|Human|Borg|Brutal|Duelist|Athlete|Federation|Civilian}}
+{{MPCrewList
+| CrewName = Tucker On-The-Ropes
+| CharName = Trip
+| Stars = 5
+| CMD = 31
+| ENG = 73
+| SEC = 57
+| Race = Human
+<!--Traits-->|Human|Starfleet|Jury Rigger|Athlete|Gambler|Desperate}}
+{{MPCrewList
+| CrewName = Tuskegee Mayweather
+| CharName = Mayweather
+| Stars = 4
+| ENG = 57
+| CMD = 42
+| Race = Human
+<!--Traits-->|Human|Pilot|Civilian|Hero|Costumed|Boomer}}
+{{MPCrewList
+| CrewName = Tuvix
+| CharName = Tuvix (Character){{!}}Tuvix
+| Stars = 4
+| DIP = 42
+| SEC = 50
+| SCI = 21
+| Race = Talaxian
+<!--Traits-->|Vulcan|Federation|Starfleet|Telepath|Talaxian|Mylean|Resourceful|Chef|Tactician|Communicator}}
+{{MPCrewList
+| CrewName = Tuxedo Nog
+| CharName = Nog
+| Stars = 5
+| CMD = 57
+| DIP = 73
+| ENG = 31
+| Race = Ferengi
+<!--Traits-->|Ferengi|Costumed|Federation|Starfleet|Inspiring|Hero|Desperate}}
+{{MPCrewList
+| CrewName = Tyler, Son of None
+| CharName = Tyler
+| Stars = 5
+| CMD = 31
+| DIP = 52
+| SEC = 63
+| Race = Human
+<!--Traits-->|Human|Klingon|Federation|Starfleet|Gambler|Desperate|Tactician|Survivalist}}
+{{MPCrewList
+| CrewName = UFP President Ra-ghoratreii
+| CharName = Ra-ghoratreii
+| Stars = 5
+| CMD = 58
+| DIP = 73
+| SEC = 31
+| Race = Efrosian
+<!--Traits-->|Efrosian|Cultural Figure|Federation|President|Diplomat}}
+{{MPCrewList
+| CrewName = Umpire Odo
+| CharName = Odo
+| Stars = 5
+| DIP = 57
+| CMD = 74
+| Race = Changeling
+<!--Traits-->|Changeling|Bajoran|Constable|Costumed}}
+{{MPCrewList
+| CrewName = Undercover O'Brien
+| CharName = O'Brien
+| Stars = 4
+| DIP = 21
+| ENG = 42
+| SEC = 57
+| Race = Human
+<!--Traits-->|Human|Starfleet|Federation|Jury Rigger|Undercover Operative|Veteran}}
+{{MPCrewList
+| CrewName = Undercover Sulu
+| CharName = Sulu
+| Stars = 5
+| CMD = 31
+| DIP = 63
+| SEC = 52
+| Race = Human
+<!--Traits-->|Human|Federation|Starfleet|Pilot|Resourceful|Tactician|Undercover Operative|Maverick|Hero}}
+{{MPCrewList
+| CrewName = Ushaan Archer
+| CharName = Archer
+| Stars = 5
+| DIP = 59
+| ENG = 31
+| SEC = 74
+| Race = Human
+<!--Traits-->|Human|Starfleet|Pilot|Explorer}}
+{{MPCrewList
+| CrewName = Ushaan Shran
+| CharName = Shran
+| Stars = 5
+| CMD = 64
+| DIP = 31
+| SEC = 74
+| Race = Andorian
+<!--Traits-->|Andorian|Duelist|Romantic}}
+{{MPCrewList
+| CrewName = Usurper Lorca
+| CharName = Lorca
+| Stars = 5
+| CMD = 57
+| DIP = 31
+| SEC = 73
+| Race = Human
+<!--Traits-->|Terran Empire|Mirror Universe|Human|Brutal|Villain}}
+{{MPCrewList
+| CrewName = Vedek Bareil Antos
+| CharName = Bareil
+| Stars = 4
+| CMD = 39
+| DIP = 50
+| MED = 21
+| Race = Bajoran
+<!--Traits-->|Bajoran|Vedek|Cultural Figure|Spiritual|Survivalist|Gardener}}
+{{MPCrewList
+| CrewName = Vedek Winn Adami
+| CharName = Winn
+| Stars = 3
+| CMD = 32
+| DIP = 39
+| Race = Bajoran
+<!--Traits-->|Bajoran|Vedek|Cultural Figure|Spiritual}}
+{{MPCrewList
+| CrewName = Vengeful L'Rell
+| CharName = L'Rell
+| Stars = 5
+| DIP = 74
+| SEC = 57
+| Race = Klingon
+<!--Traits-->|Klingon|Brutal|Villain|Interrogator}}
+{{MPCrewList
+| CrewName = Vic Fontaine
+| CharName = Vic
+| Stars = 4
+| DIP = 53
+| MED = 42
+| Race = Human
+<!--Traits-->|Gambler|Romantic|Merchant|Human|Artist|Musician|Hologram|Crafty|Communicator}}
+{{MPCrewList
+| CrewName = Vice Admiral Dougherty
+| CharName = Dougherty
+| Stars = 4
+| CMD = 57
+| DIP = 21
+| SEC = 41
+| Race = Human
+<!--Traits-->|Human|Starfleet|Federation|Crafty|Desperate|Diplomat}}
+{{MPCrewList
+| CrewName = Victorian Pulaski
+| CharName = Pulaski
+| Stars = 4
+| DIP = 52
+| MED = 41
+| Race = Human
+<!--Traits-->|Human|Federation|Starfleet|Physician|Costumed|Crafty}}
+{{MPCrewList
+| CrewName = Virtuoso Doctor
+| CharName = Doctor (Character){{!}}Doctor 
+| Stars = 5
+| DIP = 63
+| SCI = 31
+| MED = 57
+| Race = Hologram
+<!--Traits-->|Hologram|Federation|Starfleet|Musician|Physician|Desperate|Inspiring}}
+{{MPCrewList
+| CrewName = Vosk
+| CharName = Vosk (Character){{!}}Vosk 
+| Stars = 4
+| CMD = 50
+| ENG = 38
+| SEC = 21
+| Race = Na'kuhl
+<!--Traits-->|Villain|Tactician|Temporal Agent|Na'kuhl|Brutal}}
+{{MPCrewList
+| CrewName = Vulcan Executioner
+| CharName = Vulcan Executioner (Character){{!}}Vulcan Executioner
+| Stars = 5
+| DIP = 67
+| SEC = 68
+| Race = Vulcan
+<!--Traits-->|Vulcan|Federation|Brutal|Duelist}}
+{{MPCrewList
+| CrewName = Vulcan Wedding T'Pol
+| CharName = T'Pol
+| Stars = 4
+| CMD = 21
+| DIP = 50
+| SCI = 41
+| Race = Vulcan
+<!--Traits-->|Vulcan|High Command|Astrophysicist|Telepath}}
+{{MPCrewList
+| CrewName = Waitress Ezri
+| CharName = Ezri
+| Stars = 4
+| DIP = 53
+| MED = 44
+| SEC = 22
+| Race = Trill
+<!--Traits-->|Trill|Costumed|Undercover Operative|Counselor|Resourceful|Federation}}
+{{MPCrewList
+| CrewName = War Correspondent Jake Sisko
+| CharName = Jake
+| Stars = 5
+| DIP = 73
+| SEC = 57
+| MED = 31
+| Race = Human
+<!--Traits-->|Human|Federation|Civilian|Writer|Gambler|Desperate|Inspiring}}
+{{MPCrewList
+| CrewName = Warship Chakotay
+| CharName = Chakotay
+| Stars = 4
+| CMD = 42
+| SEC = 52
+| Race = Human
+<!--Traits-->|Human|Warrior|Hunter|Starfleet|Brutal|Villain|Hologram|Federation}}
+{{MPCrewList
+| CrewName = Warship EMA
+| CharName = Doctor (Character){{!}}Doctor
+| Stars = 5
+| CMD = 31
+| SEC = 52
+| MED = 73
+| Race = Hologram
+<!--Traits-->|Federation|Starfleet|Hologram|Interrogator|Physician|Android|Villain|Brutal}}
+{{MPCrewList
+| CrewName = Warship Janeway
+| CharName = Janeway
+| Stars = 4
+| CMD = 57
+| SEC = 50
+| SCI = 42
+| Race = Human
+<!--Traits-->|Federation|Starfleet|Civilian|Hologram|Villain|Brutal}}
+{{MPCrewList
+| CrewName = Warship Tuvok
+| CharName = Tuvok
+| Stars = 5
+| CMD = 57
+| SEC = 73
+| Race = Vulcan
+<!--Traits-->|Vulcan|Hologram|Telepath|Brutal|Tactician|Starfleet|Federation}}
+{{MPCrewList
+| CrewName = Warship Yar
+| CharName = Yar
+| Stars = 4
+| CMD = 21
+| SEC = 50
+| Race = Human
+<!--Traits-->|Human|Starfleet|Federation|Desperate|Duelist|Survivalist|Tactician}}
+{{MPCrewList
+| CrewName = Wedding Day Quark
+| CharName = Quark
+| Stars = 4
+| CMD = 41
+| DIP = 57
+| SEC = 21
+| Race = Ferengi
+<!--Traits-->|Ferengi|Klingon|Scoundrel|Desperate|Romantic|Gambler}}
+{{MPCrewList
+| CrewName = Wesley Crusher
+| CharName = Wesley
+| Stars = 1
+| ENG = 9
+| SCI = 20
+| Race = Human
+<!--Traits-->|Human|Federation|Civilian|Prodigy}}
+{{MPCrewList
+| CrewName = Weyoun Clone 4
+| CharName = Weyoun
+| Stars = 4
+| CMD = 39
+| DIP = 39
+| SEC = 21
+| Race = Vorta
+<!--Traits-->|Vorta|Dominion|Diplomat|Clone|Communicator}}
+{{MPCrewList
+| CrewName = Weyoun Clone 5
+| CharName = Weyoun
+| Stars = 5
+| CMD = 31
+| DIP = 57
+| SEC = 63
+| Race = Vorta
+<!--Traits-->|Vorta|Dominion|Diplomat|Clone|Tactician|Inspiring}}
+{{MPCrewList
+| CrewName = Weyoun Clone 6
+| CharName = Weyoun
+| Stars = 3
+| CMD = 27
+| DIP = 38
+| Race = Vorta
+<!--Traits-->|Vorta|Dominion|Diplomat|Clone|Communicator|Tactician}}
+{{MPCrewList
+| CrewName = White Rabbit
+| CharName = White Rabbit (Character){{!}}White Rabbit
+| Stars = 5
+| ENG = 72
+| SCI = 31
+| MED = 57
+| Race = Android
+<!--Traits-->|Crafty|Automated Unit|Costumed}}
+{{MPCrewList
+| CrewName = Will Riker
+| CharName = Riker
+| Stars = 1
+| CMD = 22
+| SEC = 16
+| Race = Human
+<!--Traits-->|Human|Federation|Starfleet|Pilot|Maverick|Romantic}}
+{{MPCrewList
+| CrewName = Will Scarlett
+| CharName = Worf
+| Stars = 5
+| DIP = 52
+| SEC = 68
+| Race = Klingon
+<!--Traits-->|Klingon|Tactician|Duelist|Costumed|Hero}}
+{{MPCrewList
+| CrewName = Wrathful Khan
+| CharName = Khan
+| Stars = 5
+| CMD = 74
+| ENG = 31
+| SEC = 57
+| Race = Human
+<!--Traits-->|Human|Augment|Villain|Tactician|Brutal|Cultural Figure|Resourceful|Survivalist}}
+{{MPCrewList
+| CrewName = Writer Jake Sisko
+| CharName = Jake
+| Stars = 3
+| DIP = 42
+| Race = Human
+<!--Traits-->|Human|Federation|Civilian|Writer|Gambler}}
+{{MPCrewList
+| CrewName = Xindi Insectoid Councilor
+| CharName = Insectoid Councilor
+| Stars = 5
+| DIP = 73
+| SEC = 31
+| SCI = 57
+| Race = Xindi
+<!--Traits-->|Xindi|Brutal|Diplomat|Desperate}}
+{{MPCrewList
+| CrewName = Xindi Prisoner Archer
+| CharName = Archer
+| Stars = 4
+| CMD = 38
+| DIP = 57
+| SEC = 21
+| Race = Human
+<!--Traits-->|Human|Starfleet|Desperate|Crafty|Costumed|Hero|Explorer|Pilot}}
+{{MPCrewList
+| CrewName = Yarnek
+| CharName = Yarnek (Character){{!}}Yarnek
+| Stars = 5
+| CMD = 57
+| DIP = 31
+| SEC = 74
+| Race = Excalbian
+<!--Traits-->|Excalbian|Crafty|Exobiology|Quantum Mechanics|Telepath|Explorer|Shapeshifter}}
+{{MPCrewList
+| CrewName = Yelgrun
+| CharName = Yelgrun (Character){{!}}Yelgrun
+| Stars = 4
+| CMD = 38
+| DIP = 50
+| SCI = 21
+| Race = Vorta
+<!--Traits-->|Dominion|Vorta|Clone|Diplomat|Musician}}
+{{MPCrewList
+| CrewName = Yeoman Rand
+| CharName = Rand
+| Stars = 1
+| CMD = 21
+| DIP = 15
+| Race = Human
+<!--Traits-->|Human|Federation|Starfleet}}
+{{MPCrewList
+| CrewName = Young Khan
+| CharName = Khan
+| Stars = 4
+| CMD = 21
+| DIP = 50
+| ENG = 39
+| Race = Human
+<!--Traits-->|Human|Augment|Romantic|Villain|Brutal|Tactician|Cultural Figure}}
+{{MPCrewList
+| CrewName = Zero One
+| CharName = Bynars
+| Stars = 4
+| ENG = 57
+| SEC = 41
+| Race = Bynar
+<!--Traits-->|Bynar|Crafty|Desperate|Resourceful|Hero}}
+{{MPCrewList
+| CrewName = Zhian'tara Odo
+| CharName = Odo
+| Stars = 5
+| CMD = 57
+| DIP = 74
+| ENG = 31
+| Race = Changeling
+<!--Traits-->|Changeling|Communicator|Bajoran|Trill|Constable|Zhian'tara|Investigator}}
+|}
+
+=== More Crew Lists ===
+
+* [[Cadets]]
+* [[Command#Characters with the Command Skill|Characters with the Command Skill]]
+* [[Diplomacy#Characters with the Diplomacy Skill|Characters with the Diplomacy Skill]]
+* [[Engineering#Characters with the Engineering Skill|Characters with the Engineering Skill]]
+* [[Medicine#Characters with the Medicine Skill|Characters with the Medicine Skill]]
+* [[Science#Characters with the Science Skill|Characters with the Science Skill]]
+* [[Security#Characters with the Security Skill|Characters with the Security Skill]]
+* [[Gauntlet/Crew|Gauntlet Crew]]
+
+=== Speculated ===
+
+The following characters were either announced, or expected to be present in the game, but are not available.
+
+{| class="wikitable"
+! Avatar Icon
+! Character
+! Notes
+|-
+|
+| 
+| 
+|}
